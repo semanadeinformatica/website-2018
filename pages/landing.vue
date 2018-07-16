@@ -11,9 +11,10 @@
 
 				<div class="text-center">
 					<h1 class="display-3">semana de informática</h1>
-					<br>
-					<p class="display-4">29 outubro - 1 novembro 2018 <br>
+					<p class="display-4 mt-5">29 outubro - 1 novembro 2018 <br>
 					faculdade de engenharia da universidade do porto</p>
+
+					<h2 class="mt-5">coming soon...</h2>
 				</div>
 
 				<div class="">
