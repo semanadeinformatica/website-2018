@@ -7,7 +7,7 @@ module.exports = {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Nuxt.js project' }
+      { hid: 'description', name: 'description', content: 'A Semana de Informática é um evento que decorre nos dias 29 de outubro a 1 de novembro, na Faculdade de Engenharia da Universidade do Porto, onde alunos vão poder passar 4 dias a aprender com especialistas nas diversas áreas de informática, familiarizar-se com o mundo empresarial e conviverem em competições e eventos sociais.' }
     ],
     link: [
       { rel: 'apple-touch-icon', sizes="180x180" href: '/apple-touch-icon.png' }
