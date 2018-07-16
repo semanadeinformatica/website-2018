@@ -7,6 +7,7 @@ module.exports = {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+      { name: 'theme-color', content: '#000000' },
       { hid: 'description', name: 'description', content: 'A Semana de Informática é um evento que decorre nos dias 29 de outubro a 1 de novembro, na Faculdade de Engenharia da Universidade do Porto, onde alunos vão poder passar 4 dias a aprender com especialistas nas diversas áreas de informática, familiarizar-se com o mundo empresarial e conviverem em competições e eventos sociais.' }
     ],
     link: [
@@ -19,7 +20,6 @@ module.exports = {
       { rel: 'shortcut icon', href: '/favicon.ico' },
       { rel: 'msapplication-TileColor', content: "#b91d47" },
       { rel: 'msapplication-config', content: "/browserconfig.xml" },
-      { rel: 'theme-color', content: "#000000" }
     ]
   },
 

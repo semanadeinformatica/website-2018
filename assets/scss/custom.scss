@@ -20,6 +20,14 @@ html, body {
 	height: 100%;
 }
 
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 1000px,
+  xl: 1240px
+);
+
+
 // workaround for vertical alignment to work
 #__nuxt, #__layout {
 	height: 100%;
