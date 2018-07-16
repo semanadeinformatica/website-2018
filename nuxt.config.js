@@ -50,5 +50,14 @@ module.exports = {
         })
       }
     }
-  }
+  },
+
+  modules: [
+    // dotenv
+    '@nuxtjs/dotenv',
+
+    ['@nuxtjs/google-analytics', {
+      id: process.env.GOOGLE_ANALYTICS_ID
+    }],
+  ]
 }
