@@ -1,64 +1,96 @@
 <template>
-  <section class="container">
-    <div>
-      <app-logo/>
-      <h1 class="title">
-        bootstrap-website
-      </h1>
-      <h2 class="subtitle">
-        Nuxt.js project
-      </h2>
-      <div class="links">
-        <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          class="button--green">Documentation</a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          class="button--grey">GitHub</a>
-      </div>
-    </div>
-  </section>
+	<section class="h-100 container">
+			<div class="h-100 d-flex flex-column flex-lg-row justify-content-around justify-content-lg-between align-items-center">
+
+				<div>
+					<div class="square square-1">
+						<div class="square square-2">
+						</div>
+					</div>
+				</div>
+
+				<div class="text-center">
+					<h1 class="display-3">semana de informática</h1>
+					<p class="display-4 mt-5">29 outubro - 1 novembro 2018 <br>
+					faculdade de engenharia da universidade do porto</p>
+
+					<h2 class="mt-5">coming soon...</h2>
+				</div>
+
+				<div class="">
+					<div class="square square-3">
+						<div class="square square-4">
+						</div>
+					</div>
+				</div>
+		</div>
+	</section>
 </template>
 
 <script>
-import AppLogo from '~/components/AppLogo.vue'
-
 export default {
-  components: {
-    AppLogo
+
+  name: 'Landing',
+
+  data () {
+    return {
+
+    }
   }
 }
 </script>
 
-<style>
-.container {
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
+<style lang="css" scoped>
+.square {
+	width: 100%;
+	min-width: 150px;
+	max-width: 172px;
+	max-height: 172px;
 }
 
-.title {
-  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
-  display: block;
-  font-weight: 300;
-  font-size: 100px;
-  color: #35495e;
-  letter-spacing: 1px;
+.square:after {
+	content: "";
+	display: block;
+	padding-bottom: 100%;
 }
 
-.subtitle {
-  font-weight: 300;
-  font-size: 42px;
-  color: #526488;
-  word-spacing: 5px;
-  padding-bottom: 15px;
+.square-1 {
+	border-style: solid;
+	border-width: 0.4em;
+	border-color: #da291c;
+	position: relative;
+	top: 3em;
+	right: 3em;
+
+	@media (min-width: 961px) {
+		top: -8em;
+	}
 }
 
-.links {
-  padding-top: 15px;
+.square-2 {
+	background-color: white;
+	position: absolute;
+	bottom: 3em;
+	left: 3em;
 }
+
+.square-3 {
+	border-style: solid;
+	border-width: 0.4em;
+	border-color: white;
+	position: relative;
+	top: 3em;
+
+	@media (min-width: 961px) {
+		top: 12em;
+	}
+}
+
+.square-4 {
+	background-color: #da291c;
+	position: absolute;
+	bottom: 3em;
+	left: 3em;
+}
+
 </style>
