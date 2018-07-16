@@ -13,8 +13,15 @@ $body-color: $white;
 
 $font-family-sans-serif: 'Open Sans Condensed', sans-serif;
 $headings-font-family: 'Oswald', sans-serif;
+$headings-font-weight: 400;
 
 $display4-size:               2.5rem ;
+
+// .display line weight
+$display1-weight: 400;
+$display2-weight: 400;
+$display3-weight: 400;
+$display4-weight: 400;
 
 html, body {
 	height: 100%;
@@ -26,7 +33,6 @@ $container-max-widths: (
   lg: 1000px,
   xl: 1240px
 );
-
 
 // workaround for vertical alignment to work
 #__nuxt, #__layout {
