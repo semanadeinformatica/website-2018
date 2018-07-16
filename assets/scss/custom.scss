@@ -1,0 +1,32 @@
+// Color variables
+$primary: #DA291C;
+$black: #000;
+$white: #fff;
+
+$body-bg: $black;
+$body-color: $white;
+
+// Typography
+
+// Import fonts
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Oswald:400,500');
+
+$font-family-sans-serif: 'Open Sans Condensed', sans-serif;
+$headings-font-family: 'Oswald', sans-serif;
+
+html, body {
+	height: 100%;
+}
+
+// workaround for vertical alignment to work
+#__nuxt, #__layout {
+	height: 100%;
+
+}
+
+#__layout > div {
+	height: 100%;
+}
+
+// Include bootstrap - this must be at the bottom
+@import "node_modules/bootstrap/scss/bootstrap";
