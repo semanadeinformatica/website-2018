@@ -1,6 +1,6 @@
 # semana de informatica - website
 
-[Website](https://sinf.pt) for the upcoming 'semana de informatica 2018' conference.
+Website for the upcoming [semana de informática](https://sinf.pt) conference.
 
 ## Build Setup
 
