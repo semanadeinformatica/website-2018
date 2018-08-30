@@ -1,96 +1,66 @@
 <template>
-	<section class="container">
-			<div class="h-100 d-flex flex-column flex-lg-row justify-content-around justify-content-lg-between align-items-center">
+	<section>
 
-			<div class="mt-5 square square-1">
-				<div class="square square-2">
-				</div>
-			</div>
-
-				<div class="text-center mt-2">
+		<div class="jumbotron">
+			<div class="container">
+					<div class="text-center mt-2">
 					<h1 class="display-3">semana de informática</h1>
 					<p class="display-4 mt-5">29 outubro - 1 novembro 2018 <br>
 					faculdade de engenharia da universidade do porto</p>
 
-					<h2 class="mt-5">coming soon...</h2>
-				</div>
-
-				<div class="mt-2 square square-3">
-					<div class="square square-4">
-					</div>
 				</div>
 			</div>
+		</div>
+
+		<nav class="navbar bottom navbar-expand-sm navbar-light bg-light">
+			<div class="container">
+
+				<a class="navbar-brand" href="#">
+					<img src="~/assets/img/logo.png" height="75px" width="75px" alt="semana de informatica logo">
+				</a>
+
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+
+				<div class="collapse navbar-collapse" id="navbarCollapse">
+					<ul class="navbar-nav ml-auto">
+						<li class="nav-item active">
+							<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#">Link</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link disabled" href="#">Disabled</a>
+						</li>
+						<li class="nav-item dropup">
+							<a class="nav-link dropdown-toggle" href="https://getbootstrap.com" id="dropdown10" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropup</a>
+							<div class="dropdown-menu" aria-labelledby="dropdown10">
+								<a class="dropdown-item" href="#">Action</a>
+								<a class="dropdown-item" href="#">Another action</a>
+								<a class="dropdown-item" href="#">Something else here</a>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</nav>
 	</section>
 </template>
 
 <script>
-export default {
+	export default {
 
-  name: 'Landing',
+		name: 'Index',
 
-  data () {
-    return {
+		data () {
+			return {
 
-    }
-  }
-}
+			}
+		}
+	}
 </script>
 
 <style lang="css" scoped>
-
-@media (min-width: 961px) {
-	section {
-		height: 100%;
-	}
-}
-
-.square {
-	width: 100%;
-	max-width: 150px;
-	max-height: 150px;
-}
-
-.square:after {
-	content: "";
-	display: block;
-	padding-bottom: 100%;
-}
-
-.square-1 {
-	border-style: solid;
-	border-width: 0.4em;
-	border-color: #da291c;
-	position: relative;
-
-	@media (min-width: 961px) {
-		top: -15em;
-	}
-}
-
-.square-2 {
-	background-color: white;
-	position: absolute;
-	bottom: 3em;
-	left: 3em;
-}
-
-.square-3 {
-	border-style: solid;
-	border-width: 0.4em;
-	border-color: white;
-	position: relative;
-	top: 3em;
-
-	@media (min-width: 961px) {
-		top: 12em;
-	}
-}
-
-.square-4 {
-	background-color: #da291c;
-	position: absolute;
-	bottom: 3em;
-	left: 3em;
-}
-
 </style>
