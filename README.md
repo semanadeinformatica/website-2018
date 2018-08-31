@@ -1,6 +1,6 @@
-# bootstrap-website
+# semana de informatica - website
 
-> Nuxt.js project
+Website for the upcoming [semana de informática](https://sinf.pt) conference.
 
 ## Build Setup
 
@@ -19,4 +19,3 @@ $ npm start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
