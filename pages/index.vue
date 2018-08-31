@@ -1,7 +1,7 @@
 <template>
 	<section>
 
-		<div class="jumbotron">
+		<div class="my-5">
 			<div class="container">
 					<div class="text-center mt-2">
 					<h1 class="display-3">semana de informática</h1>
@@ -24,23 +24,31 @@
 				</button>
 
 				<div class="collapse navbar-collapse" id="navbarCollapse">
-					<ul class="navbar-nav ml-auto">
-						<li class="nav-item active">
-							<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+					<ul class="navbar-nav ml-auto text-lowercase navbar-list">
+						<li class="nav-item">
+							<h4>
+								<a class="nav-link" href="#">About</a> 
+							</h4>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="#">Link</a>
+							<h4>
+								<a class="nav-link" href="#">Program</a>
+							</h4>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link disabled" href="#">Disabled</a>
+							<h4>
+								<a class="nav-link" href="#">Speakers</a>
+							</h4>
 						</li>
-						<li class="nav-item dropup">
-							<a class="nav-link dropdown-toggle" href="https://getbootstrap.com" id="dropdown10" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropup</a>
-							<div class="dropdown-menu" aria-labelledby="dropdown10">
-								<a class="dropdown-item" href="#">Action</a>
-								<a class="dropdown-item" href="#">Another action</a>
-								<a class="dropdown-item" href="#">Something else here</a>
-							</div>
+						<li class="nav-item">
+							<h4>
+								<a class="nav-link" href="#">Tickets</a>
+							</h4>
+						</li>
+						<li class="nav-item">
+							<h4>
+								<a class="nav-link" href="#">Contact Us</a>
+							</h4>
 						</li>
 					</ul>
 				</div>
@@ -62,5 +70,8 @@
 	}
 </script>
 
-<style lang="css" scoped>
+<style lang="scss" scoped>
+	.navbar-list > li {
+		margin-right: 1.5em;
+	}
 </style>

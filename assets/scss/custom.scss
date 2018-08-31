@@ -44,5 +44,9 @@ $container-max-widths: (
 	height: 100%;
 }
 
+.heading-font {
+	font-family: $headings-font-family;
+}
+
 // Include bootstrap - this must be at the bottom
 @import "node_modules/bootstrap/scss/bootstrap";
