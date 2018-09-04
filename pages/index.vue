@@ -2,22 +2,29 @@
 	<main>
 		<section>
 
-			<div class="my-5">
-				<div class="container">
-					<div class="text-center mt-2">
-						<h1 class="display-3">semana de informática</h1>
-						<p class="display-4 mt-5">29 outubro - 1 novembro 2018 <br>
-						faculdade de engenharia da universidade do porto</p>
+			<div class="video-container">
+				<video playsinline autoplay muted loop>
+						<source src="~/assets/video/banner.mp4" type="video/mp4">
+							Your browser does not support the video tag.
+				</video>
+				<div class="header-text">
+					<div class="container">
+						<div class="text-center">
+							<h1 class="display-3">semana de informática</h1>
+							<p class="display-4 mt-5">29 outubro - 1 novembro 2018 <br>
+							faculdade de engenharia da universidade do porto</p>
 
+						</div>
 					</div>
 				</div>
 			</div>
+		</section>
 
 			<nav class="navbar navbar-expand-sm navbar-light bg-light sticky">
 				<div class="container">
 
 					<a class="navbar-brand" href="#">
-						<img src="~/assets/img/logo.png" height="75px" width="75px" alt="semana de informatica logo">
+						<img src="~/assets/img/logo.png" height="64px" width="64px" alt="semana de informatica logo">
 					</a>
 
 					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -55,7 +62,6 @@
 					</div>
 				</div>
 			</nav>
-		</section>
 
 		<section class="mt-5">
 			<h2 class="container text-lowercase">About</h2>
@@ -91,13 +97,34 @@
 </script>
 
 <style lang="scss" scoped>
+
+.video-container {
+  position: relative;
+}
+
+video {
+  height: auto;
+  vertical-align: middle;
+  width: 100%;
+}
+
+.header-text {
+	background: rgba(0,0,0,0.5);
+	position: absolute;
+	top: 0; right: 0; bottom: 0; left: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
 .navbar-list > li {
 	margin-right: 1.5em;
 }
 
 .sticky {
 	position: sticky;
-	top: 0em;
+	bottom: 0;
+	top: -1px;
 }
 
 .section-header-divider {
