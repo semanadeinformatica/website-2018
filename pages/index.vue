@@ -3,7 +3,7 @@
 		<section>
 
 			<div class="video-container">
-				<video playsinline autoplay muted loop>
+				<video playsinline autoplay muted loop poster="/banner.jpeg">
 						<source src="~/assets/video/banner.mp4" type="video/mp4">
 							Your browser does not support the video tag.
 				</video>
@@ -98,14 +98,24 @@
 
 <style lang="scss" scoped>
 
-.video-container {
-  position: relative;
+@media (min-width: 961px) {
+	video {
+		height: auto;
+		vertical-align: middle;
+		width: 100%;
+	}
 }
 
-video {
-  height: auto;
-  vertical-align: middle;
-  width: 100%;
+@media (max-width: 961px) {
+	video {
+		height: 100%;
+		vertical-align: middle;
+		width: auto;
+	}
+}
+
+.video-container {
+  position: relative;
 }
 
 .header-text {
