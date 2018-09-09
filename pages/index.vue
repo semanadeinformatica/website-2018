@@ -63,11 +63,11 @@
 				</div>
 			</nav>
 
-		<section class="mt-5">
+		<section id="about" class="mt-5">
 			<h2 class="container text-lowercase">About</h2>
 			<div class="section-header-divider"></div>
 
-			<div class="container mt-5 d-flex">
+			<div class="container mt-5 d-flex flex-wrap">
 				<div>
 					<p class="lead">
 						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam pellentesque quam vel blandit pretium. Duis augue purus, porta in neque posuere, malesuada laoreet nunc. Etiam euismod quam nisi, a vehicula orci mollis eu. Suspendisse purus enim, congue in semper non, semper eget enim. Fusce suscipit, ligula in pharetra aliquam, eros massa venenatis eros, ac tincidunt velit tortor at diam. Quisque elementum eleifend blandit. In ut tortor eget nisi tincidunt blandit. Ut nibh leo, ultrices eu eros gravida, tristique finibus sapien. Phasellus est erat, tincidunt sed nibh sit amet, faucibus suscipit diam.
@@ -77,6 +77,64 @@
 					<p class="lead">
 						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam pellentesque quam vel blandit pretium. Duis augue purus, porta in neque posuere, malesuada laoreet nunc. Etiam euismod quam nisi, a vehicula orci mollis eu. Suspendisse purus enim, congue in semper non, semper eget enim. Fusce suscipit, ligula in pharetra aliquam, eros massa venenatis eros, ac tincidunt velit tortor at diam. Quisque elementum eleifend blandit. In ut tortor eget nisi tincidunt blandit. Ut nibh leo, ultrices eu eros gravida, tristique finibus sapien. Phasellus est erat, tincidunt sed nibh sit amet, faucibus suscipit diam.
 					</p>
+				</div>
+			</div>
+		</section>
+
+		<section id="speakers" class="mt-5">
+			<h2 class="container text-lowercase">Speakers</h2>
+			<div class="section-header-divider"></div>
+
+			<div class="container mt-5 d-flex flex-wrap speakers-list">
+				<div class="text-lowercase">
+					<img src="https://via.placeholder.com/200x200" class="my-2">
+					<h3>John Doe</h3>
+					<p class="lead">occupation @ place</p>
+				</div>
+				<div class="text-lowercase">
+					<img src="https://via.placeholder.com/200x200" class="my-2">
+					<h3>John Doe</h3>
+					<p class="lead">occupation @ place</p>
+				</div>
+				<div class="text-lowercase">
+					<img src="https://via.placeholder.com/200x200" class="my-2">
+					<h3>John Doe</h3>
+					<p class="lead">occupation @ place</p>
+				</div>
+				<div class="text-lowercase">
+					<img src="https://via.placeholder.com/200x200" class="my-2">
+					<h3>John Doe</h3>
+					<p class="lead">occupation @ place</p>
+				</div>
+				<div class="text-lowercase">
+					<img src="https://via.placeholder.com/200x200" class="my-2">
+					<h3>John Doe</h3>
+					<p class="lead">occupation @ place</p>
+				</div>
+				<div class="text-lowercase">
+					<img src="https://via.placeholder.com/200x200" class="my-2">
+					<h3>John Doe</h3>
+					<p class="lead">occupation @ place</p>
+				</div>
+				<div class="text-lowercase">
+					<img src="https://via.placeholder.com/200x200" class="my-2">
+					<h3>John Doe</h3>
+					<p class="lead">occupation @ place</p>
+				</div>
+				<div class="text-lowercase">
+					<img src="https://via.placeholder.com/200x200" class="my-2">
+					<h3>John Doe</h3>
+					<p class="lead">occupation @ place</p>
+				</div>
+				<div class="text-lowercase">
+					<img src="https://via.placeholder.com/200x200" class="my-2">
+					<h3>John Doe</h3>
+					<p class="lead">occupation @ place</p>
+				</div>
+				<div class="text-lowercase">
+					<img src="https://via.placeholder.com/200x200" class="my-2">
+					<h3>John Doe</h3>
+					<p class="lead">occupation @ place</p>
 				</div>
 			</div>
 		</section>
@@ -141,5 +199,9 @@
 	background-color: #DA291C;
 	width: 100%;
 	height: 1em;
+}
+
+.speakers-list div {
+	flex: 1 1 225px;
 }
 </style>
