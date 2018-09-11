@@ -1,0 +1,5 @@
+---
+title: Nuxtent
+---
+
+...is awesome!
