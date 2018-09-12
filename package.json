@@ -19,6 +19,7 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.3.1",
     "@nuxtjs/axios": "^5.3.1",
     "@nuxtjs/dotenv": "^1.1.1",
     "@nuxtjs/google-analytics": "^2.0.2",

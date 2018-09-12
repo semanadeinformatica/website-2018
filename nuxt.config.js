@@ -26,7 +26,8 @@ module.exports = {
   },
 
   css: [
-    '@/assets/scss/custom.scss'
+    '@/assets/scss/custom.scss',
+    'node_modules/@fortawesome/fontawesome-free/css/all.css'
   ],
 
   /*
