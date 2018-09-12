@@ -139,23 +139,6 @@
 				</div>
 			</div>
 		</section>
-
-		<section id="contact" class="mt-5 mb-3">
-			<div class="pre-footer"></div>
-			<h2 class="container text-lowercase">Contact Us</h2>
-			<div class="section-header-divider"></div>
-
-			<div class="container mt-3 d-flex flex-wrap contact-us">
-				<div class="d-flex flex-column">
-					<span class="lead my-2"><i class="fas fa-envelope-square mr-2 fa-lg"></i> <a href="mailto:sinf.feup@gmail.com"> sinf.feup@gmail.com</a></span>
-					<span class="lead my-2"><i class="fab fa-facebook-square mr-2 fa-lg"></i><a href="https://www.facebook.com/semanainformaticaFEUP/"> semanainformaticaFEUP</a></span>
-					<span class="lead my-2"><i class="fab fa-linkedin mr-2 fa-lg"></i><a href="https://www.linkedin.com/company/semanainformaticafeup/"> semanainformaticaFEUP</a></span>
-				</div>
-				<div class="flex-grow-1 d-flex flex-column justify-content-center align-items-center">
-					<span class="lead my-2"><i class="fas fa-map-marker-alt mr-2 fa-lg"></i> faculdade de engenharia da universidade do porto</span>
-				</div>
-			</div>
-		</section>
 	</main>
 </template>
 
@@ -231,13 +214,4 @@
 	flex: 1 1 225px;
 }
 
-.pre-footer {
-	background-image: url('~/assets/img/pre-footer.png');
-	background-size: auto 100%;
-	height: 300px;
-}
-
-.contact-us a {
-	color: white;
-}
 </style>
