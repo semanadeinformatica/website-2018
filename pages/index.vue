@@ -67,17 +67,17 @@
 			<h2 class="container text-lowercase">About</h2>
 			<div class="section-header-divider"></div>
 
-			<div class="container mt-5 d-flex flex-wrap">
-				<div>
+			<div class="container mt-5 d-flex flex-wrap flex-lg-nowrap">
+				<div class="flex-fill">
 					<p class="lead">
 						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam pellentesque quam vel blandit pretium. Duis augue purus, porta in neque posuere, malesuada laoreet nunc. Etiam euismod quam nisi, a vehicula orci mollis eu. Suspendisse purus enim, congue in semper non, semper eget enim. Fusce suscipit, ligula in pharetra aliquam, eros massa venenatis eros, ac tincidunt velit tortor at diam. Quisque elementum eleifend blandit. In ut tortor eget nisi tincidunt blandit. Ut nibh leo, ultrices eu eros gravida, tristique finibus sapien. Phasellus est erat, tincidunt sed nibh sit amet, faucibus suscipit diam.
 					</p>
 				</div>
-				<div>
-					<p class="lead">
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam pellentesque quam vel blandit pretium. Duis augue purus, porta in neque posuere, malesuada laoreet nunc. Etiam euismod quam nisi, a vehicula orci mollis eu. Suspendisse purus enim, congue in semper non, semper eget enim. Fusce suscipit, ligula in pharetra aliquam, eros massa venenatis eros, ac tincidunt velit tortor at diam. Quisque elementum eleifend blandit. In ut tortor eget nisi tincidunt blandit. Ut nibh leo, ultrices eu eros gravida, tristique finibus sapien. Phasellus est erat, tincidunt sed nibh sit amet, faucibus suscipit diam.
-					</p>
-				</div>
+					<div class="mx-5 mt-5 square square-1">
+						<div class="square square-2 d-flex justify-content-center align-items-center">
+							<a href=""><h4 class="text-dark">meet the team</h4></a>
+						</div>
+					</div>
 			</div>
 		</section>
 
@@ -164,6 +164,33 @@
 </script>
 
 <style lang="scss" scoped>
+
+.square {
+	width: 100%;
+	max-width: 250px;
+	max-height: 250px;
+	z-index: -100;
+}
+
+.square:after {
+	content: "";
+	display: block;
+	padding-bottom: 100%;
+}
+
+.square-1 {
+	border-style: solid;
+	border-width: 0.4em;
+	border-color: #da291c;
+	position: relative;
+}
+
+.square-2 {
+	background-color: white;
+	position: absolute;
+	bottom: 3em;
+	left: 3em;
+}
 
 @media (min-width: 961px) {
 	video {
