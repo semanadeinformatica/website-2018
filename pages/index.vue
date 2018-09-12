@@ -86,10 +86,11 @@
 			<div class="section-header-divider"></div>
 
 			<div class="container mt-5 d-flex flex-wrap speakers-list">
-				<div class="text-lowercase">
+
+				<div v-for='talk in contentPreview' :key='talk.name' class="text-lowercase">
 					<img src="https://via.placeholder.com/200x200" class="my-2">
-					<h3>John Doe</h3>
-					<p class="lead">occupation @ place</p>
+					<h3>{{ talk.speaker }}</h3>
+					<p class="lead">{{ talk.occupation }} @ {{ talk.workplace }}</p>
 				</div>
 				<div class="text-lowercase">
 					<img src="https://via.placeholder.com/200x200" class="my-2">
@@ -145,6 +146,14 @@
 	export default {
 
 		name: 'Index',
+
+		async asyncData ({ app }) {
+			return {
+				contentPreview: await app.$content('/talks')
+				.query({ exclude: ['body'] })
+				.getAll()
+			}
+		},
 
 		data () {
 			return {
