@@ -3,7 +3,7 @@ module.exports = {
 	content: [
 	["talks", {
 		page: '/talks/_talk',
-		permalink: ':year/:slug',
+		permalink: '/:slug',
 		isPost: false,
 		generate: [ 
 		'get', 
@@ -18,6 +18,7 @@ module.exports = {
 	],
 	api: {
 		baseURL: 'http://localhost:8080',
-		browserBaseURL: 'https://sinf.pt'
+		// Update this later
+		browserBaseURL: 'http://localhost:8080'
 	}
 }
