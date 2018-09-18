@@ -248,12 +248,6 @@
 	top: -1px;
 }
 
-.section-header-divider {
-	background-color: #DA291C;
-	width: 100%;
-	height: 1em;
-}
-
 .speakers-list div {
 	flex: 1 1 225px;
 }
