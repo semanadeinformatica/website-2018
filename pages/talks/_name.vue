@@ -42,8 +42,6 @@
 
 name: 'Talk',
 
-layout: 'Navbar',
-
 data () {
     return {
 
