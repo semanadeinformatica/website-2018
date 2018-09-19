@@ -10,6 +10,14 @@ module.exports = {
 		'getAll' 
 		]
 	}],
+	["team", {
+		page: '/team',
+		isPost: false,
+		generate: [ 
+		'get', 
+		'getAll' 
+		]
+	}],
 	["workshops", {
 		page: '/workshops/_workshop',
 		permalink: ":slug",
