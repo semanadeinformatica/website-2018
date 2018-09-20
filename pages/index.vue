@@ -20,48 +20,54 @@
 			</div>
 		</section>
 
-			<nav class="navbar navbar-expand-sm navbar-light bg-light sticky">
-				<div class="container">
+		<nav class="navbar navbar-expand-sm navbar-light bg-light sticky">
+			<div class="container">
 
-					<a class="navbar-brand" href="#">
-						<img src="~/assets/img/logo.png" height="64px" width="64px" alt="semana de informatica logo">
-					</a>
+				<a class="navbar-brand" href="/">
+					<img src="~/assets/img/logo.png" height="64px" width="64px" alt="semana de informatica logo">
+				</a>
 
-					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-						<span class="navbar-toggler-icon"></span>
-					</button>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
 
-					<div class="collapse navbar-collapse" id="navbarCollapse">
-						<ul class="navbar-nav ml-auto text-lowercase navbar-list">
-							<li class="nav-item">
-								<h4>
-									<a class="nav-link" href="#">About</a> 
-								</h4>
-							</li>
-							<li class="nav-item">
-								<h4>
-									<a class="nav-link" href="#">Program</a>
-								</h4>
-							</li>
-							<li class="nav-item">
-								<h4>
-									<a class="nav-link" href="#">Speakers</a>
-								</h4>
-							</li>
-							<li class="nav-item">
-								<h4>
-									<a class="nav-link" href="#">Tickets</a>
-								</h4>
-							</li>
-							<li class="nav-item">
-								<h4>
-									<a class="nav-link" href="#">Contact Us</a>
-								</h4>
-							</li>
-						</ul>
-					</div>
+				<div class="collapse navbar-collapse" id="navbarCollapse">
+					<ul class="navbar-nav ml-auto text-lowercase navbar-list">
+						<li class="nav-item">
+							<h4>
+								<a class="nav-link" href="/#about">About</a> 
+							</h4>
+						</li>
+						<li class="nav-item">
+							<h4>
+								<a class="nav-link" href="/program">Program</a>
+							</h4>
+						</li>
+						<li class="nav-item">
+							<h4>
+								<a class="nav-link" href="/#speakers">Speakers</a>
+							</h4>
+						</li>
+						<li class="nav-item">
+							<h4>
+								<a class="nav-link" href="/team">Team</a>
+							</h4>
+						</li>
+						<li class="nav-item">
+							<h4>
+								<a class="nav-link" href="#">Tickets</a>
+							</h4>
+						</li>
+						<li class="nav-item">
+							<h4>
+								<a class="nav-link" href="/#contact">Contact Us</a>
+							</h4>
+						</li>
+					</ul>
 				</div>
-			</nav>
+			</div>
+		</nav>
+
 
 		<section id="about" class="mt-5">
 			<h2 class="container text-lowercase">About</h2>
@@ -74,9 +80,11 @@
 					</p>
 				</div>
 					<div class="mx-5 mt-5 square square-1">
-						<div class="square square-2 d-flex justify-content-center align-items-center">
-							<a href=""><h4 class="text-dark">meet the team</h4></a>
-						</div>
+						<nuxt-link class="pull-up" to="/team">
+							<div class="square square-2 d-flex justify-content-center align-items-center">
+								<h4 class="text-dark">meet the team</h4>
+							</div>
+						</nuxt-link>
 					</div>
 			</div>
 		</section>
@@ -209,6 +217,10 @@
 	left: 3em;
 }
 
+.pull-up {
+	z-index: 10000;	
+}
+
 @media (min-width: 961px) {
 	video {
 		height: auto;
@@ -226,7 +238,7 @@
 }
 
 .video-container {
-  position: relative;
+	position: relative;
 }
 
 .header-text {
@@ -240,12 +252,6 @@
 
 .navbar-list > li {
 	margin-right: 1.5em;
-}
-
-.sticky {
-	position: sticky;
-	bottom: 0;
-	top: -1px;
 }
 
 .speakers-list div {

@@ -4,7 +4,7 @@
   	<nav class="navbar navbar-expand-sm navbar-light bg-light sticky">
   		<div class="container">
 
-  			<a class="navbar-brand" href="#">
+  			<a class="navbar-brand" href="/">
   				<img src="~/assets/img/logo.png" height="64px" width="64px" alt="semana de informatica logo">
   			</a>
 
@@ -16,17 +16,17 @@
   				<ul class="navbar-nav ml-auto text-lowercase navbar-list">
   					<li class="nav-item">
   						<h4>
-  							<a class="nav-link" href="#">About</a> 
+  							<a class="nav-link" href="/#about">About</a> 
   						</h4>
   					</li>
   					<li class="nav-item">
   						<h4>
-  							<a class="nav-link" href="#">Program</a>
+  							<a class="nav-link" href="/program">Program</a>
   						</h4>
   					</li>
   					<li class="nav-item">
   						<h4>
-  							<a class="nav-link" href="#">Speakers</a>
+  							<a class="nav-link" href="/#speakers">Speakers</a>
   						</h4>
   					</li>
   					<li class="nav-item">
@@ -36,7 +36,7 @@
   					</li>
   					<li class="nav-item">
   						<h4>
-  							<a class="nav-link" href="#">Contact Us</a>
+  							<a class="nav-link" href="/#contact">Contact Us</a>
   						</h4>
   					</li>
   				</ul>
@@ -64,9 +64,16 @@
 }
 
 .pre-footer {
-  background-image: url('~/assets/img/pre-footer.png');
-  background-size: auto 100%;
-  height: 300px;
+  background-image: url('~/assets/img/animation.svg');
+  background-size: 95% 100%;
+  height: 100px;
+}
+
+@media (min-width: 961px) {
+	.pre-footer {
+		background-size: auto 100%;
+		height: 200px;
+	}
 }
 
 .white-anchors a {

@@ -18,12 +18,6 @@
   height: 1em;
 }
 
-.pre-footer {
-  background-image: url('~/assets/img/pre-footer.png');
-  background-size: auto 100%;
-  height: 300px;
-}
-
 .white-anchors a {
   color: white;
 }
