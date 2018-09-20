@@ -217,10 +217,6 @@
 	left: 3em;
 }
 
-.pull-up {
-	z-index: 10000;	
-}
-
 @media (min-width: 961px) {
 	video {
 		height: auto;

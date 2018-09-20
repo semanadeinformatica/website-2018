@@ -31,6 +31,11 @@
   					</li>
   					<li class="nav-item">
   						<h4>
+  							<a class="nav-link" href="/team">Team</a>
+  						</h4>
+  					</li>
+  					<li class="nav-item">
+  						<h4>
   							<a class="nav-link" href="#">Tickets</a>
   						</h4>
   					</li>
