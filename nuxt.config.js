@@ -40,6 +40,7 @@ module.exports = {
   ** Build configuration
   */
   build: {
+    vendor: ['bootstrap'],
     /*
     ** Run ESLint on save
     */
