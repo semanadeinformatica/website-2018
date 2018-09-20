@@ -23,6 +23,13 @@ export default {
 
   layout: 'navbar',
 
+  head () {
+	return {
+		title: "Team | SINF",
+	}
+  },
+
+
   async asyncData({ app }) {
   	return {
   		team: await app.$content("/team")

@@ -20,8 +20,12 @@ module.exports = {
 	}],
 	["workshops", {
 		page: '/workshops/_workshop',
-		permalink: ":slug",
-		isPost: false
+		permalink: "/:slug",
+		isPost: false,
+		generate: [ 
+			'get', 
+			'getAll' 
+		]
 	}]
 	],
 	api: {

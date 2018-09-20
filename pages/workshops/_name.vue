@@ -1,6 +1,6 @@
 <template>
   <section class="mt-5">
-    <h2 class="container text-lowercase">speaker</h2>
+    <h2 class="container text-lowercase">workshop</h2>
     <div class="section-header-divider"></div>
 
     <div class="container">
@@ -11,19 +11,19 @@
         </div>
         <div class="col-lg-9 p-4">
           <div class="text-lowercase">
-              <h1> {{ talk.speaker }} </h1>
-              <h4 class="body-style"> {{ talk.occupation }} </h4>
-              <h4 class="body-style"> {{ talk.workplace }} </h4>
+              <h1> {{ workshop.speaker }} </h1>
+              <h4 class="body-style"> {{ workshop.occupation }} </h4>
+              <h4 class="body-style"> {{ workshop.workplace }} </h4>
           </div>
 
-          <p class="lead mt-4">{{ talk.bio }}</p>
+          <p class="lead mt-4">{{ workshop.bio }}</p>
 
           <div class="text-lowercase">
-              <h1> {{ talk.title }} </h1>
-              <h4 class="body-style"> {{ talk.day }}, {{ talk.time }}, room {{ talk.place }}. </h4>
+              <h1> {{ workshop.title }} </h1>
+              <h4 class="body-style"> {{ workshop.day }}, {{ workshop.time }}, room {{ workshop.place }}. </h4>
           </div>
 
-          <nuxtent-body class="mt-4 lead" :body="talk.body" />
+          <nuxtent-body class="mt-4 lead" :body="workshop.body" />
       </div>
   </div>
 
@@ -33,20 +33,20 @@
 
 <script>
     export default {
-    
+
     head () {
         return {
-            title: this.talk.title + " | SINF",
+            title: this.workshop.title + " | SINF",
         }
     },
 
      async asyncData({ app, route }) {
       return {
-        talk: await app.$content("/").get(route.path)
+        workshop: await app.$content("/").get(route.path)
     }
 },
 
-name: 'Talk',
+name: 'Workshop',
 
 data () {
     return {
