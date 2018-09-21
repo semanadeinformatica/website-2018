@@ -80,11 +80,11 @@
 					</p>
 				</div>
 					<div class="mx-5 mt-5 square square-1">
-						<nuxt-link class="pull-up" to="/team">
-							<div class="square square-2 d-flex justify-content-center align-items-center">
-								<h4 class="text-dark">meet the team</h4>
-							</div>
-						</nuxt-link>
+						<div class="square square-2 d-flex justify-content-center align-items-center">
+							<h4 class="text-dark">
+									meet the team
+							</h4>
+						</div>
 					</div>
 			</div>
 		</section>
@@ -93,57 +93,18 @@
 			<h2 class="container text-lowercase">Speakers</h2>
 			<div class="section-header-divider"></div>
 
-			<div class="container mt-5 d-flex flex-wrap speakers-list">
+			<div class="container mt-5">
 
-				<div v-for='talk in contentPreview' :key='talk.name' class="text-lowercase">
-					<img src="https://via.placeholder.com/200x200" class="my-2">
-					<h3>{{ talk.speaker }}</h3>
-					<p class="lead">{{ talk.occupation }} @ {{ talk.workplace }}</p>
-				</div>
-				<div class="text-lowercase">
-					<img src="https://via.placeholder.com/200x200" class="my-2">
-					<h3>John Doe</h3>
-					<p class="lead">occupation @ place</p>
-				</div>
-				<div class="text-lowercase">
-					<img src="https://via.placeholder.com/200x200" class="my-2">
-					<h3>John Doe</h3>
-					<p class="lead">occupation @ place</p>
-				</div>
-				<div class="text-lowercase">
-					<img src="https://via.placeholder.com/200x200" class="my-2">
-					<h3>John Doe</h3>
-					<p class="lead">occupation @ place</p>
-				</div>
-				<div class="text-lowercase">
-					<img src="https://via.placeholder.com/200x200" class="my-2">
-					<h3>John Doe</h3>
-					<p class="lead">occupation @ place</p>
-				</div>
-				<div class="text-lowercase">
-					<img src="https://via.placeholder.com/200x200" class="my-2">
-					<h3>John Doe</h3>
-					<p class="lead">occupation @ place</p>
-				</div>
-				<div class="text-lowercase">
-					<img src="https://via.placeholder.com/200x200" class="my-2">
-					<h3>John Doe</h3>
-					<p class="lead">occupation @ place</p>
-				</div>
-				<div class="text-lowercase">
-					<img src="https://via.placeholder.com/200x200" class="my-2">
-					<h3>John Doe</h3>
-					<p class="lead">occupation @ place</p>
-				</div>
-				<div class="text-lowercase">
-					<img src="https://via.placeholder.com/200x200" class="my-2">
-					<h3>John Doe</h3>
-					<p class="lead">occupation @ place</p>
-				</div>
-				<div class="text-lowercase">
-					<img src="https://via.placeholder.com/200x200" class="my-2">
-					<h3>John Doe</h3>
-					<p class="lead">occupation @ place</p>
+				<div class="row">	
+					<div v-for='talk in contentPreview' :key='talk.title' class="col-md-6 col-lg-3 text-lowercase">
+						<div class="m-2">
+							<nuxt-link :to='talk.path'>
+							<img src="https://via.placeholder.com/500x500" class="my-2 img-fluid">
+							<h3>{{ talk.speaker }}</h3>
+							<p class="lead">{{ talk.occupation }} @ {{ talk.workplace }}</p>
+							</nuxt-link>
+						</div>
+					</div>
 				</div>
 			</div>
 		</section>
@@ -250,8 +211,8 @@
 	margin-right: 1.5em;
 }
 
-.speakers-list div {
-	flex: 1 1 225px;
+.z-max {
+	z-index: 10000;
 }
 
 </style>

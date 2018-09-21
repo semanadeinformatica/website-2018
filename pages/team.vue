@@ -5,10 +5,12 @@
 
 		<div class="container mt-5">
 			<div class="row">
-				<div v-for='member in team' :key='member.title' class="col-lg text-lowercase">
-					<img src="https://via.placeholder.com/250x250" class="my-2">
-					<h3>{{ member.title }}</h3>
-					<p class="lead">{{ member.role }} </p>
+				<div v-for='member in team' :key='member.title' class="col-md-6 col-lg-3 text-lowercase">
+					<div class="m-3">
+						<img src="https://via.placeholder.com/500x500" class="mb-2 img-fluid">
+						<h3>{{ member.title }}</h3>
+						<p class="lead">{{ member.role }} </p>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -25,7 +27,7 @@ export default {
 
   head () {
 	return {
-		title: "Team | SINF",
+		title: "team | semana de informática",
 	}
   },
 

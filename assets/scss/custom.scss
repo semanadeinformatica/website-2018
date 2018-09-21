@@ -75,3 +75,11 @@ $container-max-widths: (
 nav {
 	z-index: 10000;
 }
+
+a {
+	color: $body-color;
+
+	&:hover {
+		color: darken($body-color, 15%);
+	}
+}
