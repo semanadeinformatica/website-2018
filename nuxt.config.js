@@ -65,5 +65,21 @@ module.exports = {
     }],
 
     'nuxtent'
-  ]
+  ],
+
+  subFolders: false,
+
+  generate: {
+    routes: [
+    '/team',
+    // Can't seem to figure out how to use
+    // proper dynamic routing on static builds,
+    // this sucks
+    '/talks/blockchain-101',
+    '/talks/blockchain-202',
+    '/talks/blockchain-303',
+    '/talks/blockchain-404',
+    '/workshops/vuejs', 
+    ]
+  }
 }

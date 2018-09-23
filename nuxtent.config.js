@@ -11,7 +11,7 @@ module.exports = {
 		]
 	}],
 	["team", {
-		page: '/team',
+		page: '/team/_member',
 		isPost: false,
 		generate: [ 
 		'get', 
@@ -31,6 +31,6 @@ module.exports = {
 	api: {
 		baseURL: 'http://localhost:8080',
 		// Update this later
-		browserBaseURL: 'http://localhost:8080'
+		browserBaseURL: 'https://epic-ardinghelli-13cc7e.netlify.com'
 	}
 }
