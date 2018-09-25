@@ -4,14 +4,17 @@
 		<div class="section-header-divider"></div>
 
 		<div class="container mt-5">
-			<nav>
-				<div class="nav nav-tabs text-lowercase" id="nav-tab" role="tablist">
-					<a class="nav-item nav-link active" id="nav-39-oct-tab" data-toggle="tab" href="#nav-29-oct" role="tab" aria-controls="nav-29-oct" aria-selected="true">29 Oct</a>
-					<a class="nav-item nav-link" id="nav-30-oct-tab" data-toggle="tab" href="#nav-30-oct" role="tab" aria-controls="nav-30-oct" aria-selected="false">30 Oct</a>
-					<a class="nav-item nav-link" id="nav-31-oct-tab" data-toggle="tab" href="#nav-31-oct" role="tab" aria-controls="nav-31-oct" aria-selected="false">31 Oct</a>
-					<a class="nav-item nav-link" id="nav-1-nov-tab" data-toggle="tab" href="#nav-1-nov" role="tab" aria-controls="nav-1-nov" aria-selected="false">1 Nov</a>
-				</div>
-			</nav>
+			<div class="d-flex justify-content-center">
+				<nav>
+					<div class="nav nav-tabs heading-font text-lowercase" id="nav-tab" role="tablist">
+						<a class="nav-item nav-link active" id="nav-39-oct-tab" data-toggle="tab" href="#nav-29-oct" role="tab" aria-controls="nav-29-oct" aria-selected="true">29 Oct</a>
+						<a class="nav-item nav-link" id="nav-30-oct-tab" data-toggle="tab" href="#nav-30-oct" role="tab" aria-controls="nav-30-oct" aria-selected="false">30 Oct</a>
+						<a class="nav-item nav-link" id="nav-31-oct-tab" data-toggle="tab" href="#nav-31-oct" role="tab" aria-controls="nav-31-oct" aria-selected="false">31 Oct</a>
+						<a class="nav-item nav-link" id="nav-1-nov-tab" data-toggle="tab" href="#nav-1-nov" role="tab" aria-controls="nav-1-nov" aria-selected="false">1 Nov</a>
+					</div>
+				</nav>
+			</div>
+
 			<div class="tab-content" id="nav-tabContent">
 				<div class="tab-pane fade show active" id="nav-29-oct" role="tabpanel" aria-labelledby="nav-39-oct-tab">
 					<div class="row">
@@ -395,6 +398,26 @@
 	</script>
 
 	<style lang="scss" scoped>
+
+	.nav-tabs {
+		font-size: 1.25rem;
+		border: none;
+
+		.nav-link {
+			border-color: #DA291C;
+			border-width: 0 0 0.3em 0;	
+		}
+
+		.nav-link.active {
+			color: white;
+			border: none;
+		}
+
+		.nav-link:hover {
+			border: none;
+		}
+	}
+
 	.table {
 		font-size: 1.25rem;
 
