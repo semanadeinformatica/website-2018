@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <main>
 
   	<nav class="navbar navbar-expand-sm navbar-light bg-light fixed-top">
   		<div class="container">
@@ -57,10 +57,14 @@
           <span class="lead">copyright 2018 niafeup, all rights reserved</span>
       </div>
     </footer>
-  </div>
+</main>
 </template>
 
 <style>
+
+main {
+  margin-top: 8em;
+}
 
 .section-header-divider {
   background-color: #DA291C;
