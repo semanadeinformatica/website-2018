@@ -1,7 +1,7 @@
 <template>
-  <div>
+  <main>
 
-  	<nav class="navbar navbar-expand-sm navbar-light bg-light sticky-top">
+  	<nav class="navbar navbar-expand-sm navbar-light bg-light fixed-top">
   		<div class="container">
 
   			<a class="navbar-brand" href="/">
@@ -49,7 +49,7 @@
   		</div>
   	</nav>
 
-    <nuxt />
+    <nuxt class="mt-5" />
 
     <div class="pre-footer"></div>
     <footer class="mt-5 mb-3">
@@ -57,10 +57,14 @@
           <span class="lead">copyright 2018 niafeup, all rights reserved</span>
       </div>
     </footer>
-  </div>
+</main>
 </template>
 
 <style>
+
+main {
+  margin-top: 8em;
+}
 
 .section-header-divider {
   background-color: #DA291C;

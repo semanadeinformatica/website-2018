@@ -11,7 +11,8 @@
 					<div class="container">
 						<div class="text-center">
 							<h1 class="display-3">semana de informática</h1>
-							<p class="display-4 mt-5">29 outubro - 1 novembro 2018 <br>
+							<p class="display-4 mt-5">29 outubro - 1 novembro 2018</p>
+								<p class="display-4">
 							faculdade de engenharia da universidade do porto</p>
 
 						</div>
@@ -151,6 +152,9 @@
 
 <style lang="scss" scoped>
 
+main {
+}
+
 .square {
 	width: 100%;
 	max-width: 250px;
@@ -192,10 +196,15 @@
 		vertical-align: middle;
 		width: auto;
 	}
+
+	.video-container {
+		height: 50em;
+	}
 }
 
 .video-container {
 	position: relative;
+	overflow: hidden;
 }
 
 .header-text {
