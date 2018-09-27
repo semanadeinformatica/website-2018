@@ -1,4 +1,5 @@
 require('dotenv').config();
+const axios = require('axios')
 
 module.exports = {
   /*
@@ -69,17 +70,41 @@ module.exports = {
 
   subFolders: false,
 
+  
   generate: {
-    routes: [
-    '/team',
-    // Can't seem to figure out how to use
-    // proper dynamic routing on static builds,
-    // this sucks
-    '/talks/blockchain-101',
-    '/talks/blockchain-202',
-    '/talks/blockchain-303',
-    '/talks/blockchain-404',
-    '/workshops/vuejs', 
-    ]
+    routes: async function (callback) {
+      await axios.all([
+          axios.get('http://localhost:8080/content-api/talks'),
+          axios.get('http://localhost:8080/content-api/workshops')
+      ])
+      .then(axios.spread(function (talks, workshops) {
+        let result = [];
+        for(let data of talks.data) {
+          if(data != null) {
+            result.push(data.path);
+          }
+        }
+
+        for(let data of workshops.data) {
+          if(data != null) {
+            result.push(data.path);
+          }
+        }
+          callback(null, result);
+      }), function(err) {
+          return next(err);
+      });
+  }
+    // routes: [
+    // '/team',
+    // // Can't seem to figure out how to use
+    // // proper dynamic routing on static builds,
+    // // this sucks
+    // '/talks/blockchain-101',
+    // '/talks/blockchain-202',
+    // '/talks/blockchain-303',
+    // '/talks/blockchain-404',
+    // '/workshops/vuejs', 
+    // ]
   }
 }
