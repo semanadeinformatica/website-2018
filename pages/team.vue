@@ -5,15 +5,15 @@
 
 		<div class="container mt-5">
 			<div class="row">
-				<div v-for='member in team' :key='member.title' class="col-md-6 col-lg-3 text-lowercase">
+				<div v-for='member in sortedTeam' :key='member.index' class="col-md-6 col-lg-3 text-lowercase">
 					<div class="m-3">
 						<div class="image-container mb-2">
-							<img src="http://www.ishootshows.com/wp-content/uploads/2008/07/todd-owyoung-portrait-145238_COB8628-square-600px.jpg" class="img-fluid">
+							<img :src='"~/assets/img/team/" + member.pic + ".jpg"' class="img-fluid">
 							<div class="middle">
 								<div class="text">
-									<a class="m-2" href=""><i class="fab fa-linkedin fa-3x"></i></a>
+									<a class="m-2" :href='member.linkedin'><i class="fab fa-linkedin fa-3x"></i></a>
 
-									<a class="m-2" href=""><i class="fab fa-github-square fa-3x"></i></a>
+									<a class="m-2" :href='member.github'><i class="fab fa-github-square fa-3x"></i></a>
 								</div>
 							</div>
 						</div>
@@ -51,8 +51,16 @@
 				return {
 
 				}
-			}
+			},
+
+			computed: {
+				sortedTeam: function () {
+					return this.team.slice(0).sort((member1, member2) => {
+						return member1.index - member2.index
+					})
+				}
 		}
+	}
 	</script>
 
 	<style lang="scss" scoped>

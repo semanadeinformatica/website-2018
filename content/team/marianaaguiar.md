@@ -3,7 +3,7 @@ title: Mariana Aguiar
 role: Logística
 github: https://github.com/mbaguiar
 linkedin: https://www.linkedin.com/in/mbaguiar
-pic: [LATER]
+pic: marianaaguiar
 index: 2
 
 ---
