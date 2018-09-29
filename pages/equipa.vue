@@ -1,6 +1,6 @@
 <template>
 	<section class="mt-5">
-		<h2 class="container text-lowercase">Team</h2>
+		<h2 class="container text-lowercase">Equipa</h2>
 		<div class="section-header-divider"></div>
 
 		<div class="container mt-5">
@@ -30,13 +30,13 @@
 <script>
 	export default {
 
-		name: 'Team',
+		name: 'Equipa',
 
 		layout: 'navbar',
 
 		head () {
 			return {
-				title: "team | semana de informática",
+				title: "Equipa | semana de informática",
 			}
 		},
 

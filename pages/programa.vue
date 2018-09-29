@@ -1,6 +1,6 @@
 <template>
 	<section class="mt-5">
-		<h2 class="container text-lowercase">Program</h2>
+		<h2 class="container text-lowercase">Programa</h2>
 		<div class="section-header-divider"></div>
 
 		<div class="container mt-5">
@@ -378,7 +378,7 @@
 
 		head () {
 			return {
-				title: "program | semana de informática",
+				title: "programa | semana de informática",
 			}
 		},
 

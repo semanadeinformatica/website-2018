@@ -36,12 +36,12 @@
 					<ul class="navbar-nav ml-auto text-lowercase navbar-list">
 						<li class="nav-item">
 							<h4>
-								<a class="nav-link" href="/#about">About</a> 
+								<a class="nav-link" href="/#sobre">Sobre</a> 
 							</h4>
 						</li>
 						<li class="nav-item">
 							<h4>
-								<a class="nav-link" href="/program">Program</a>
+								<a class="nav-link" href="/programa">Programa</a>
 							</h4>
 						</li>
 						<li class="nav-item">
@@ -51,17 +51,17 @@
 						</li>
 						<li class="nav-item">
 							<h4>
-								<a class="nav-link" href="/team">Team</a>
+								<a class="nav-link" href="/equipa">equipa</a>
 							</h4>
 						</li>
 						<li class="nav-item">
 							<h4>
-								<a class="nav-link" href="#">Tickets</a>
+								<a class="nav-link" href="">Bilhetes</a>
 							</h4>
 						</li>
 						<li class="nav-item">
 							<h4>
-								<a class="nav-link" href="/#contact">Contact Us</a>
+								<a class="nav-link" href="/#contacto">Contactos </a>
 							</h4>
 						</li>
 					</ul>
@@ -70,8 +70,8 @@
 		</nav>
 
 
-		<section id="about" class="mt-5">
-			<h2 class="container text-lowercase">About</h2>
+		<section id="sobre" class="mt-5">
+			<h2 class="container text-lowercase">Sobre</h2>
 			<div class="section-header-divider"></div>
 
 			<div class="container mt-5 d-flex flex-wrap flex-lg-nowrap">
@@ -110,9 +110,9 @@
 			</div>
 		</section>
 
-		<div id="contact" class="mt-5 mb-3">
+		<div id="contactos" class="mt-5 mb-3">
 			<div class="pre-footer"></div>
-			<h2 class="container text-lowercase">Contact Us</h2>
+			<h2 class="container text-lowercase">Contactos</h2>
 			<div class="section-header-divider"></div>
 
 			<div class="container mt-3 d-flex flex-wrap white-anchors">
