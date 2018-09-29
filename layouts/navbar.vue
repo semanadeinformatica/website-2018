@@ -31,12 +31,12 @@
             </li>
             <li class="nav-item">
               <h4>
-                <a class="nav-link" href="/equipa">equipa</a>
+                <a class="nav-link" href="/equipa">Equipa</a>
               </h4>
             </li>
             <li class="nav-item">
               <h4>
-                <a class="nav-link" href="">Bilhetes</a>
+                <a class="nav-link" href="/bilhetes">Bilhetes</a>
               </h4>
             </li>
             <li class="nav-item">
@@ -53,7 +53,7 @@
 
     <div class="pre-footer"></div>
     <footer class="mt-5 mb-3">
-      <div class="my-4 white-anchors text-center">
+      <div class="py-4 white-anchors text-center">
           <span class="lead">copyright 2018 <a href="https://ni.fe.up.pt">niaefeup</a>, todos os direitos reservados</span>
       </div>
     </footer>

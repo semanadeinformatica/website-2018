@@ -56,7 +56,7 @@
 						</li>
 						<li class="nav-item">
 							<h4>
-								<a class="nav-link" href="">Bilhetes</a>
+								<a class="nav-link" href="/bilhetes">Bilhetes</a>
 							</h4>
 						</li>
 						<li class="nav-item">
