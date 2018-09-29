@@ -36,12 +36,7 @@
 					<ul class="navbar-nav ml-auto text-lowercase navbar-list">
 						<li class="nav-item">
 							<h4>
-								<a class="nav-link" href="/#sobre">Sobre</a> 
-							</h4>
-						</li>
-						<li class="nav-item">
-							<h4>
-								<a class="nav-link" href="/programa">Programa</a>
+								<a class="nav-link" href="/#sobre">Sobre Nós</a> 
 							</h4>
 						</li>
 						<li class="nav-item">
@@ -51,7 +46,12 @@
 						</li>
 						<li class="nav-item">
 							<h4>
-								<a class="nav-link" href="/equipa">equipa</a>
+								<a class="nav-link" href="/programa">Programa</a>
+							</h4>
+						</li>
+						<li class="nav-item">
+							<h4>
+								<a class="nav-link" href="/equipa">Equipa</a>
 							</h4>
 						</li>
 						<li class="nav-item">
@@ -61,7 +61,7 @@
 						</li>
 						<li class="nav-item">
 							<h4>
-								<a class="nav-link" href="/#contacto">Contactos </a>
+								<a class="nav-link" href="/#contactos">Contactos</a>
 							</h4>
 						</li>
 					</ul>
@@ -91,7 +91,7 @@
 					<div class="mx-5 mt-5 square square-1">
 						<div class="square square-2 d-flex justify-content-center align-items-center">
 							<h4 class="text-dark">
-									sobre
+									sobre nós
 							</h4>
 						</div>
 					</div>
@@ -119,46 +119,41 @@
 		</section>
 
 		<section id="sponsors" class="mt-5">
-			<h2 class="container text-lowercase">sponsors</h2>
-			<div class="section-header-divider"></div>
-
-			<div class="container mt-5">
-				<img class="img-fluid" src="~/assets/img/sponsors/outsystems.png" alt="outsystems logo">
-			</div>
-
 			<div class="sponsors-section py-5">
-				<div class="container">
-					<h3 class="text-dark"><strong>gold</strong> sponsors</h3>
+				<h2 class="container text-dark text-lowercase">sponsors</h2>
+				<div class="section-header-divider"></div>
 
-					<div class="sponsor-list d-flex flex-wrap align-items-center">
+				<div class="container">
+
+					<div class="container mt-5 text-center">
+						<img class="img-fluid" src="~/assets/img/sponsors/outsystems.png" alt="outsystems logo">
+					</div>
+
+					<h3 class="pt-5 mt-5 text-dark"><strong>gold</strong> sponsors</h3>
+
+					<div class="sponsor-list my-4 d-flex flex-wrap align-items-center">
 						<div class="flex-fill gold-sponsor m-sm-2 m-4" v-for="sponsor in gold" :key="sponsor">
 							<img :src='"/sponsors/" + sponsor' :alt='sponsor + " logo"'>
 						</div>
 					</div>
 
-					<h3 class="text-dark"><strong>silver</strong> sponsors</h3>
+					<h3 class="text-dark pt-5 mt-5"><strong>silver</strong> sponsors</h3>
 
-					<div class="sponsor-list mt-4 d-flex flex-wrap align-items-center">
+					<div class="sponsor-list my-4 d-flex flex-wrap align-items-center">
 						<div class="flex-fill silver-sponsor m-sm-2 m-4" v-for="sponsor in silver" :key="sponsor">
 							<img :src='"/sponsors/" + sponsor' :alt='sponsor + " logo"'>
 						</div>
 					</div>
 
-					<h3 class="text-dark"><strong>bronze</strong> sponsors</h3>
+					<h3 class="text-dark pt-5 mt-5"><strong>bronze</strong> sponsors</h3>
 
-					<div class="sponsor-list mt-4 d-flex flex-wrap align-items-center">
+					<div class="sponsor-list my-4 d-flex flex-wrap align-items-center">
 						<div class="flex-fill bronze-sponsor m-sm-2 m-4" v-for="sponsor in bronze" :key="sponsor">
 							<img :src='"/sponsors/" + sponsor' :alt='sponsor + " logo"'>
 						</div>
 					</div>
 
-
 				</div>
-			</div>
-
-			<div class="container mt-5">
-
-	
 			</div>
 		</section>
 

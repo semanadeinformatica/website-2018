@@ -19,14 +19,14 @@
                 <a class="nav-link" href="/#sobre">Sobre</a> 
               </h4>
             </li>
-            <li class="nav-item">
+             <li class="nav-item">
               <h4>
-                <a class="nav-link" href="/programa">Programa</a>
+                <a class="nav-link" href="/#speakers">Speakers</a>
               </h4>
             </li>
             <li class="nav-item">
               <h4>
-                <a class="nav-link" href="/#speakers">Speakers</a>
+                <a class="nav-link" href="/programa">Programa</a>
               </h4>
             </li>
             <li class="nav-item">
@@ -41,7 +41,7 @@
             </li>
             <li class="nav-item">
               <h4>
-                <a class="nav-link" href="/#contacto">Contactos </a>
+                <a class="nav-link" href="/#contactos">Contactos </a>
               </h4>
             </li>
           </ul>
