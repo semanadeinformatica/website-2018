@@ -118,6 +118,50 @@
 			</div>
 		</section>
 
+		<section id="sponsors" class="mt-5">
+			<h2 class="container text-lowercase">sponsors</h2>
+			<div class="section-header-divider"></div>
+
+			<div class="container mt-5">
+				<img class="img-fluid" src="~/assets/img/sponsors/outsystems.png" alt="outsystems logo">
+			</div>
+
+			<div class="sponsors-section py-5">
+				<div class="container">
+					<h3 class="text-dark"><strong>gold</strong> sponsors</h3>
+
+					<div class="d-flex flex-wrap align-items-center">
+						<div class="gold-sponsor m-4" v-for="sponsor in gold" :key="sponsor">
+							<img :src='"/sponsors/" + sponsor' :alt='sponsor + " logo"'>
+						</div>
+					</div>
+
+					<h3 class="text-dark"><strong>silver</strong> sponsors</h3>
+
+					<div class="mt-4 d-flex flex-wrap align-items-center">
+						<div class="silver-sponsor m-4" v-for="sponsor in silver" :key="sponsor">
+							<img :src='"/sponsors/" + sponsor' :alt='sponsor + " logo"'>
+						</div>
+					</div>
+
+					<h3 class="text-dark"><strong>bronze</strong> sponsors</h3>
+
+					<div class="mt-4 d-flex flex-wrap align-items-center">
+						<div class="bronze-sponsor m-4" v-for="sponsor in bronze" :key="sponsor">
+							<img :src='"/sponsors/" + sponsor' :alt='sponsor + " logo"'>
+						</div>
+					</div>
+
+
+				</div>
+			</div>
+
+			<div class="container mt-5">
+
+	
+			</div>
+		</section>
+
 		<div id="contactos" class="mt-5 mb-3">
 			<div class="pre-footer"></div>
 			<h2 class="container text-lowercase">Contactos</h2>
@@ -152,7 +196,11 @@
 
 		data () {
 			return {
+				gold: ['aubay.jpg', 'deloitte.png', 'blip.png', 'talkdesk.jpg'],
 
+				silver: ['aptiv.png', 'integer.png', 'itsector.png', 'primavera.jpg', 'semasio.png'],
+
+				bronze: ['fraunhofer.png'] 
 			}
 		}
 	}
@@ -230,6 +278,24 @@ main {
 
 .z-max {
 	z-index: 10000;
+}
+
+.sponsors-section {
+	background-color: white;
+
+	.gold-sponsor img {
+		max-height: 10em;
+		max-width: 15em;
+	}
+
+	.silver-sponsor img {
+		max-width: 10em;
+		max-height: 2.5em;
+	}
+
+	.bronze-sponsor img {
+		max-height: 2.5em;
+	}
 }
 
 </style>

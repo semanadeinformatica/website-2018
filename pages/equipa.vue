@@ -75,7 +75,7 @@
 
 		&:hover {
 			border-style: solid;
-			border-width: 0.5em;
+			border-width: 0.25em;
 			border-color: white;
 			transition: .25s ease-in;
 		}
