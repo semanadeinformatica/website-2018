@@ -71,19 +71,27 @@
 
 
 		<section id="sobre" class="mt-5">
-			<h2 class="container text-lowercase">Sobre</h2>
+			<h2 class="container text-lowercase">semana de informática</h2>
 			<div class="section-header-divider"></div>
 
 			<div class="container mt-5 d-flex flex-wrap flex-lg-nowrap">
 				<div class="flex-fill">
 					<p class="lead">
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam pellentesque quam vel blandit pretium. Duis augue purus, porta in neque posuere, malesuada laoreet nunc. Etiam euismod quam nisi, a vehicula orci mollis eu. Suspendisse purus enim, congue in semper non, semper eget enim. Fusce suscipit, ligula in pharetra aliquam, eros massa venenatis eros, ac tincidunt velit tortor at diam. Quisque elementum eleifend blandit. In ut tortor eget nisi tincidunt blandit. Ut nibh leo, ultrices eu eros gravida, tristique finibus sapien. Phasellus est erat, tincidunt sed nibh sit amet, faucibus suscipit diam.
+						A semana de informática (SINF) é um evento que pretende oferecer aos estudantes de cursos relacionados com informática um evento que promove a aprendizagem de diferentes tópicos das diversas áreas da informática, o convívio através de eventos sociais  e o contacto com o mundo empresarial.
+					</p>
+					<p class="lead">
+
+						O evento decorre entre os dias 29 de outubro e 1 de novembro de 2018, na Faculdade de Engenharia da Universidade do Porto e é organizado pelo Núcleo de Informática da Associação de Estudantes da Faculdade de Engenharia da Universidade do Porto (NIAEFEUP).
+					</p>
+
+					<p class="lead">
+						Durante a SINF os estudantes poderão participar em palestras, workshops e sessões de convívio e networking, contactando assim com áreas e aspectos, quer de carácter técnico ou soft skills, que não são abrangidos no seu percurso académico.
 					</p>
 				</div>
 					<div class="mx-5 mt-5 square square-1">
 						<div class="square square-2 d-flex justify-content-center align-items-center">
 							<h4 class="text-dark">
-									meet the team
+									sobre
 							</h4>
 						</div>
 					</div>
