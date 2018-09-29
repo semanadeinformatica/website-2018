@@ -130,24 +130,24 @@
 				<div class="container">
 					<h3 class="text-dark"><strong>gold</strong> sponsors</h3>
 
-					<div class="d-flex flex-wrap align-items-center">
-						<div class="gold-sponsor m-4" v-for="sponsor in gold" :key="sponsor">
+					<div class="sponsor-list d-flex flex-wrap align-items-center">
+						<div class="flex-fill gold-sponsor m-sm-2 m-4" v-for="sponsor in gold" :key="sponsor">
 							<img :src='"/sponsors/" + sponsor' :alt='sponsor + " logo"'>
 						</div>
 					</div>
 
 					<h3 class="text-dark"><strong>silver</strong> sponsors</h3>
 
-					<div class="mt-4 d-flex flex-wrap align-items-center">
-						<div class="silver-sponsor m-4" v-for="sponsor in silver" :key="sponsor">
+					<div class="sponsor-list mt-4 d-flex flex-wrap align-items-center">
+						<div class="flex-fill silver-sponsor m-sm-2 m-4" v-for="sponsor in silver" :key="sponsor">
 							<img :src='"/sponsors/" + sponsor' :alt='sponsor + " logo"'>
 						</div>
 					</div>
 
 					<h3 class="text-dark"><strong>bronze</strong> sponsors</h3>
 
-					<div class="mt-4 d-flex flex-wrap align-items-center">
-						<div class="bronze-sponsor m-4" v-for="sponsor in bronze" :key="sponsor">
+					<div class="sponsor-list mt-4 d-flex flex-wrap align-items-center">
+						<div class="flex-fill bronze-sponsor m-sm-2 m-4" v-for="sponsor in bronze" :key="sponsor">
 							<img :src='"/sponsors/" + sponsor' :alt='sponsor + " logo"'>
 						</div>
 					</div>
@@ -282,6 +282,12 @@ main {
 
 .sponsors-section {
 	background-color: white;
+
+	@media all and (max-width: 500px) {
+		.sponsor-list {
+			flex-direction: column;
+		}
+	}
 
 	.gold-sponsor img {
 		max-height: 10em;
