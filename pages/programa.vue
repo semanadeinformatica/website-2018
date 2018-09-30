@@ -359,6 +359,12 @@
 			width: 5em !important;
 		}	
 
+		@media (max-width: 961px) {
+			tr th:first-child {
+				width: 2em !important;
+			}	
+		}
+
 		th {
 			height: 3.25em;
 		}
