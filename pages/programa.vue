@@ -7,7 +7,7 @@
 			<div class="d-flex justify-content-center">
 				<nav>
 					<div class="nav nav-tabs heading-font text-lowercase" id="nav-tab" role="tablist">
-						<a class="nav-item nav-link active" id="nav-39-oct-tab" data-toggle="tab" href="#nav-29-oct" role="tab" aria-controls="nav-29-oct" aria-selected="true">29 Oct</a>
+						<a class="nav-item nav-link active" id="nav-29-oct-tab" data-toggle="tab" href="#nav-29-oct" role="tab" aria-controls="nav-29-oct" aria-selected="true">29 Oct</a>
 						<a class="nav-item nav-link" id="nav-30-oct-tab" data-toggle="tab" href="#nav-30-oct" role="tab" aria-controls="nav-30-oct" aria-selected="false">30 Oct</a>
 						<a class="nav-item nav-link" id="nav-31-oct-tab" data-toggle="tab" href="#nav-31-oct" role="tab" aria-controls="nav-31-oct" aria-selected="false">31 Oct</a>
 						<a class="nav-item nav-link" id="nav-1-nov-tab" data-toggle="tab" href="#nav-1-nov" role="tab" aria-controls="nav-1-nov" aria-selected="false">1 Nov</a>
@@ -16,7 +16,7 @@
 			</div>
 
 			<div class="tab-content" id="nav-tabContent">
-				<div class="tab-pane fade show active" id="nav-29-oct" role="tabpanel" aria-labelledby="nav-39-oct-tab">
+				<div class="tab-pane fade show active" id="nav-29-oct" role="tabpanel" aria-labelledby="nav-29-oct-tab">
 					<div class="row">
 						<div class="offset-lg-2 col-lg-8">
 							<table class="table table-borderless text-lowercase">
@@ -29,60 +29,40 @@
 								</thead>
 								<tbody>
 									<tr>
-										<th scope="row">14h00</th>
-										<td class="event" rowspan="2">
-											<h4>Opening Cerimony</h4>
-											<span>what</span><br>
-											<span>what</span>
-										</td>
-										<td class="event" rowspan="3">
-											<h4>Opening Cerimony</h4>
-											<span>what</span><br>
-											<span>what</span>
-										</td>
-									</tr>
-									<tr>
 										<th scope="row">14h30</th>
+										<td class="event" rowspan="2">
+											<h4>Cerimónia de Abertura</h4>
+											<span>local a definir</span>
+										</td>
+										<td></td>	
 									</tr>
 									<tr>
 										<th scope="row">15h00</th>
-										<td class="talk" rowspan="2">
-											<h4>talk de cenas</h4>
-											<span>what</span><br>
-											<span>what</span>
-										</td>
 									</tr>
 									<tr>
 										<th scope="row">15h30</th>
-									</tr>
-									<tr>
-										<th scope="row">16h00</th>
+										<td class="talk" rowspan="2">
+											<a class="text-dark" href="/talks/programacao-competitiva">
+												<h4>Programação Competitiva</h4>
+												<span>Miguel Oliveira</span><br>
+												<span>local a definir</span>
+											</a>
+										</td>
 									</tr>
 									<tr>
 										<th scope="row">16h30</th>
-										<td></td>
 									</tr>
-
 									<tr>
 										<th scope="row">17h00</th>
-										<td class="talk" rowspan="2">
-											<h4>workshop de cenas</h4>
-											<span>what</span><br>
-											<span>what</span>
-										</td>
-										<td></td>
 									</tr>
-
 									<tr>
 										<th scope="row">17h30</th>
 										<td></td>
 									</tr>
+
 									<tr>
 										<th scope="row">18h00</th>
-										<td class="event" rowspan="2">
-											<h4>workshop de cenas</h4>
-											<span>what</span><br>
-											<span>what</span>
+										<td>
 										</td>
 										<td></td>
 									</tr>
@@ -91,9 +71,15 @@
 										<th scope="row">18h30</th>
 										<td></td>
 									</tr>
-
 									<tr>
 										<th scope="row">19h00</th>
+										<td></td>	
+										<td></td>
+									</tr>
+
+									<tr>
+										<th scope="row">19h30</th>
+										<td></td>
 									</tr>
 
 								</tbody>
@@ -115,60 +101,31 @@
 								</thead>
 								<tbody>
 									<tr>
-										<th scope="row">14h00</th>
-										<td class="event" rowspan="2">
-											<h4>Opening Cerimony</h4>
-											<span>what</span><br>
-											<span>what</span>
-										</td>
-										<td class="event" rowspan="3">
-											<h4>Opening Cerimony</h4>
-											<span>what</span><br>
-											<span>what</span>
-										</td>
-									</tr>
-									<tr>
 										<th scope="row">14h30</th>
+										<td></td>
+										<td></td>	
 									</tr>
 									<tr>
 										<th scope="row">15h00</th>
-										<td class="talk" rowspan="2">
-											<h4>talk de cenas</h4>
-											<span>what</span><br>
-											<span>what</span>
-										</td>
 									</tr>
 									<tr>
 										<th scope="row">15h30</th>
-									</tr>
-									<tr>
-										<th scope="row">16h00</th>
+										<td></td>
 									</tr>
 									<tr>
 										<th scope="row">16h30</th>
-										<td></td>
 									</tr>
-
 									<tr>
 										<th scope="row">17h00</th>
-										<td class="talk" rowspan="2">
-											<h4>workshop de cenas</h4>
-											<span>what</span><br>
-											<span>what</span>
-										</td>
-										<td></td>
 									</tr>
-
 									<tr>
 										<th scope="row">17h30</th>
 										<td></td>
 									</tr>
+
 									<tr>
 										<th scope="row">18h00</th>
-										<td class="event" rowspan="2">
-											<h4>workshop de cenas</h4>
-											<span>what</span><br>
-											<span>what</span>
+										<td>
 										</td>
 										<td></td>
 									</tr>
@@ -177,9 +134,15 @@
 										<th scope="row">18h30</th>
 										<td></td>
 									</tr>
-
 									<tr>
 										<th scope="row">19h00</th>
+										<td></td>	
+										<td></td>
+									</tr>
+
+									<tr>
+										<th scope="row">19h30</th>
+										<td></td>
 									</tr>
 
 								</tbody>
@@ -201,60 +164,43 @@
 								</thead>
 								<tbody>
 									<tr>
-										<th scope="row">14h00</th>
-										<td class="event" rowspan="2">
-											<h4>Opening Cerimony</h4>
-											<span>what</span><br>
-											<span>what</span>
-										</td>
-										<td class="event" rowspan="3">
-											<h4>Opening Cerimony</h4>
-											<span>what</span><br>
-											<span>what</span>
-										</td>
-									</tr>
-									<tr>
 										<th scope="row">14h30</th>
+										<td class="talk" rowspan="2">
+											<a class="text-dark" href="/talks/breaking-iot">
+											<h4>Breaking IOT</h4>
+											<span>David Sopas</span><br>
+											<span>local a definir</span>
+										</a>
+										</td>
+										<td></td>	
 									</tr>
 									<tr>
 										<th scope="row">15h00</th>
-										<td class="talk" rowspan="2">
-											<h4>talk de cenas</h4>
-											<span>what</span><br>
-											<span>what</span>
-										</td>
 									</tr>
 									<tr>
 										<th scope="row">15h30</th>
-									</tr>
-									<tr>
-										<th scope="row">16h00</th>
+										<td class="talk" rowspan="2">
+											<a class="text-dark" href="/talks/9-anos-front-end-na-feedzai">
+												<h4>9 anos de Front-End na Feedzai</h4>
+												<span>Luís Cardoso & Victor Fernandes</span><br>
+												<span>local a definir</span>
+											</a>
+										</td>
 									</tr>
 									<tr>
 										<th scope="row">16h30</th>
-										<td></td>
 									</tr>
-
 									<tr>
 										<th scope="row">17h00</th>
-										<td class="talk" rowspan="2">
-											<h4>workshop de cenas</h4>
-											<span>what</span><br>
-											<span>what</span>
-										</td>
-										<td></td>
 									</tr>
-
 									<tr>
 										<th scope="row">17h30</th>
 										<td></td>
 									</tr>
+
 									<tr>
 										<th scope="row">18h00</th>
-										<td class="event" rowspan="2">
-											<h4>workshop de cenas</h4>
-											<span>what</span><br>
-											<span>what</span>
+										<td>
 										</td>
 										<td></td>
 									</tr>
@@ -263,9 +209,15 @@
 										<th scope="row">18h30</th>
 										<td></td>
 									</tr>
-
 									<tr>
 										<th scope="row">19h00</th>
+										<td></td>	
+										<td></td>
+									</tr>
+
+									<tr>
+										<th scope="row">19h30</th>
+										<td></td>
 									</tr>
 
 								</tbody>
@@ -288,60 +240,31 @@
 								</thead>
 								<tbody>
 									<tr>
-										<th scope="row">14h00</th>
-										<td class="event" rowspan="2">
-											<h4>Opening Cerimony</h4>
-											<span>what</span><br>
-											<span>what</span>
-										</td>
-										<td class="event" rowspan="3">
-											<h4>Opening Cerimony</h4>
-											<span>what</span><br>
-											<span>what</span>
-										</td>
-									</tr>
-									<tr>
 										<th scope="row">14h30</th>
+										<td></td>
+										<td></td>	
 									</tr>
 									<tr>
 										<th scope="row">15h00</th>
-										<td class="talk" rowspan="2">
-											<h4>talk de cenas</h4>
-											<span>what</span><br>
-											<span>what</span>
-										</td>
 									</tr>
 									<tr>
 										<th scope="row">15h30</th>
-									</tr>
-									<tr>
-										<th scope="row">16h00</th>
+										<td></td>
 									</tr>
 									<tr>
 										<th scope="row">16h30</th>
-										<td></td>
 									</tr>
-
 									<tr>
 										<th scope="row">17h00</th>
-										<td class="talk" rowspan="2">
-											<h4>workshop de cenas</h4>
-											<span>what</span><br>
-											<span>what</span>
-										</td>
-										<td></td>
 									</tr>
-
 									<tr>
 										<th scope="row">17h30</th>
 										<td></td>
 									</tr>
+
 									<tr>
 										<th scope="row">18h00</th>
-										<td class="event" rowspan="2">
-											<h4>workshop de cenas</h4>
-											<span>what</span><br>
-											<span>what</span>
+										<td>
 										</td>
 										<td></td>
 									</tr>
@@ -350,10 +273,17 @@
 										<th scope="row">18h30</th>
 										<td></td>
 									</tr>
-
 									<tr>
 										<th scope="row">19h00</th>
+										<td></td>	
+										<td></td>
 									</tr>
+
+									<tr>
+										<th scope="row">19h30</th>
+										<td></td>
+									</tr>
+
 
 								</tbody>
 							</table>
@@ -421,12 +351,16 @@
 	.table {
 		font-size: 1.25rem;
 
+		thead tr th:not(:first-child) {
+			min-width: 10em;
+		}
+
 		tr th:first-child {
-			width: 5em;
+			width: 5em !important;
 		}	
 
-		tr {
-			height: 3em;
+		th {
+			height: 3.25em;
 		}
 
 		td {
