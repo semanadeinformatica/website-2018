@@ -131,7 +131,7 @@
 
 					<h3 class="pt-5 mt-5 text-dark"><strong>gold</strong> sponsors</h3>
 
-					<div class="sponsor-list my-4 d-flex flex-wrap align-items-center">
+					<div class="sponsor-list gold-sponsors my-4 d-flex flex-wrap align-items-center">
 						<div class="flex-fill gold-sponsor m-sm-2 m-4" v-for="sponsor in gold" :key="sponsor">
 							<img :src='"~/assets/img/sponsors/" + sponsor + ".png"' :alt='sponsor + " logo"'>
 						</div>
@@ -162,13 +162,13 @@
 			<h2 class="container text-lowercase">Contactos</h2>
 			<div class="section-header-divider"></div>
 
-			<div class="container mt-3 d-flex flex-wrap white-anchors">
+			<div class="container contact-section mt-3 d-flex flex-wrap white-anchors">
 				<div class="d-flex flex-column">
 					<span class="lead my-2"><i class="fas fa-envelope-square mr-2 fa-lg"></i> <a href="mailto:sinf.feup@gmail.com"> sinf.feup@gmail.com</a></span>
 					<span class="lead my-2"><i class="fab fa-facebook-square mr-2 fa-lg"></i><a href="https://www.facebook.com/semanainformaticaFEUP/"> semanainformaticaFEUP</a></span>
 					<span class="lead my-2"><i class="fab fa-linkedin mr-2 fa-lg"></i><a href="https://www.linkedin.com/company/semanainformaticafeup/"> semanainformaticaFEUP</a></span>
 				</div>
-				<div class="flex-grow-1 d-flex flex-column justify-content-center align-items-center">
+				<div class="flex-grow-1 d-flex flex-column justify-content-center align-items-md-center">
 					<span class="lead my-2"><i class="fas fa-map-marker-alt mr-2 fa-lg"></i> faculdade de engenharia da universidade do porto</span>
 				</div>
 			</div>
@@ -279,7 +279,7 @@ main {
 	background-color: white;
 
 	@media all and (max-width: 500px) {
-		.sponsor-list {
+		.gold-sponsors {
 			flex-direction: column;
 		}
 	}
@@ -299,4 +299,9 @@ main {
 	}
 }
 
+@media all and (max-width: 500px) {
+	.contact-section {
+		flex-direction: column;
+	}
+}
 </style>
