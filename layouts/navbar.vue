@@ -16,7 +16,7 @@
           <ul class="navbar-nav ml-auto text-lowercase navbar-list">
             <li class="nav-item">
               <h4>
-                <a class="nav-link" href="/#sobre">Sobre</a> 
+                <a class="nav-link" href="/#sobre">Sobre Nós</a> 
               </h4>
             </li>
              <li class="nav-item">

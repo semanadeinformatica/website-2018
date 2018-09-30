@@ -36,7 +36,7 @@
 
 		head () {
 			return {
-				title: "Equipa | semana de informática",
+				title: "equipa | semana de informática",
 			}
 		},
 
