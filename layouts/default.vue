@@ -3,8 +3,8 @@
     <nuxt/>
 
     <footer class="mt-5 mb-3">
-      <div class="my-4 white-anchors text-center">
-        <span class="lead">copyright 2018 <a href="https://ni.fe.up.pt">niaefeup</a>, todos os direitos reservados</span>      
+      <div class="py-4 white-anchors text-center">
+          <span class="lead">copyright 2018 <a href="https://ni.fe.up.pt">niaefeup</a>, todos os direitos reservados</span>
       </div>
     </footer>
   </div>
