@@ -133,7 +133,7 @@
 
 					<div class="sponsor-list my-4 d-flex flex-wrap align-items-center">
 						<div class="flex-fill gold-sponsor m-sm-2 m-4" v-for="sponsor in gold" :key="sponsor">
-							<img :src='"/sponsors/" + sponsor' :alt='sponsor + " logo"'>
+							<img :src='"~/assets/img/sponsors/" + sponsor + ".png"' :alt='sponsor + " logo"'>
 						</div>
 					</div>
 
@@ -141,7 +141,7 @@
 
 					<div class="sponsor-list my-4 d-flex flex-wrap align-items-center">
 						<div class="flex-fill silver-sponsor m-sm-2 m-4" v-for="sponsor in silver" :key="sponsor">
-							<img :src='"/sponsors/" + sponsor' :alt='sponsor + " logo"'>
+							<img :src='"~/assets/img/sponsors/" + sponsor + ".png"' :alt='sponsor + " logo"'>
 						</div>
 					</div>
 
@@ -149,7 +149,7 @@
 
 					<div class="sponsor-list my-4 d-flex flex-wrap align-items-center">
 						<div class="flex-fill bronze-sponsor m-sm-2 m-4" v-for="sponsor in bronze" :key="sponsor">
-							<img :src='"/sponsors/" + sponsor' :alt='sponsor + " logo"'>
+							<img :src='"~/assets/img/sponsors/" + sponsor + ".png"' :alt='sponsor + " logo"'>
 						</div>
 					</div>
 
@@ -191,11 +191,11 @@
 
 		data () {
 			return {
-				gold: ['aubay.jpg', 'deloitte.png', 'blip.png', 'talkdesk.jpg'],
+				gold: ['aubay', 'deloitte', 'blip', 'talkdesk'],
 
-				silver: ['aptiv.png', 'integer.png', 'itsector.png', 'primavera.jpg', 'semasio.png'],
+				silver: ['aptiv', 'integer', 'itsector', 'primavera', 'semasio'],
 
-				bronze: ['fraunhofer.png'] 
+				bronze: ['fraunhofer'] 
 			}
 		}
 	}
