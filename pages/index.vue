@@ -77,7 +77,7 @@
 			<div class="container mt-5 d-flex flex-wrap flex-lg-nowrap">
 				<div class="flex-fill">
 					<p class="lead">
-						A semana de informática (SINF) é um evento que pretende oferecer aos estudantes de cursos relacionados com informática um evento que promove a aprendizagem de diferentes tópicos das diversas áreas da informática, o convívio através de eventos sociais  e o contacto com o mundo empresarial.
+						A semana de informática (SINF) pretende oferecer aos estudantes de cursos relacionados com informática um evento que promove a aprendizagem de diferentes tópicos das diversas áreas da informática, o convívio através de eventos sociais  e o contacto com o mundo empresarial.
 					</p>
 					<p class="lead">
 

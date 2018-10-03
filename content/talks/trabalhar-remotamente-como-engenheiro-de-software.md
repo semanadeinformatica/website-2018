@@ -14,10 +14,9 @@ img: PedroSantos
 
 linkedin: https://pt.linkedin.com/in/pedrodanielcsantos
 
-
-day: October 21
-time: 5pm
-place: B002
+day:  Dia a anunciar
+time: hora a anunciar 
+place: B032
 ---
 
 Um dos temas mais em voga no mundo da tecnologia hoje em dia é o trabalho remoto, pelas possibilidades que abre a quem trabalhar dessa forma (liberdade de horários e local de trabalho, trabalhar com pessoas dos 4 cantos do mundo), pela mudança radical de paradigma face ao trabalho "tradicional" e pelos desafios que acarreta (solidão, isolamento).

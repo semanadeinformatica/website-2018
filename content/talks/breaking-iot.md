@@ -11,9 +11,9 @@ linkedin: https://www.linkedin.com/in/miguelpoliveira/
 website: https://davidsopas.com
 twitter: https://twitter.com/dsopas
 
-day: October 21
-time: 5pm
-place: B002
+day: 31 Outubro
+time: 14h30
+place: B032
 ---
 
 A Internet da Coisas está a mudar os nossos hábitos de vida. Desde a utilização de wearables que nos informam que perdemos menos calorias que no dia anterior até aos dispositivos médicos que administram automaticamente a dose necessária para o doente. Esta "sede" de desenvolver dispositivos "inteligentes" está a gerar oportunidades aos

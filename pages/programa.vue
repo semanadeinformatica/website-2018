@@ -32,7 +32,8 @@
 										<th scope="row">14h30</th>
 										<td class="event" rowspan="2">
 											<h4>Cerimónia de Abertura</h4>
-											<span>local a definir</span>
+											<br>
+											<span>B032</span>
 										</td>
 										<td></td>	
 									</tr>
@@ -45,15 +46,29 @@
 											<a class="text-dark" href="/talks/programacao-competitiva">
 												<h4>Programação Competitiva</h4>
 												<span>Miguel Oliveira</span><br>
-												<span>local a definir</span>
+												<span>B032</span>
 											</a>
 										</td>
 									</tr>
 									<tr>
+										<th scope="row">16h00</th>
+										<td></td>
+									</tr>
+									<tr>
 										<th scope="row">16h30</th>
+										<td class="event" rowspan="1">
+											<h4>coffee break</h4>
+											<br>
+										</td>
+										
 									</tr>
 									<tr>
 										<th scope="row">17h00</th>
+										<td class="talk" rowspan="2">
+											<h4><i>A Anunciar</i></h4>
+											<br>
+											<span>B032</span>
+										</td>
 									</tr>
 									<tr>
 										<th scope="row">17h30</th>
@@ -62,7 +77,10 @@
 
 									<tr>
 										<th scope="row">18h00</th>
-										<td>
+										<td class="talk" rowspan="2">
+											<h4><i>A Anunciar</i></h4>
+											<br>
+											<span>B032</span>
 										</td>
 										<td></td>
 									</tr>
@@ -102,7 +120,11 @@
 								<tbody>
 									<tr>
 										<th scope="row">14h30</th>
-										<td></td>
+										<td class="talk" rowspan="2">
+											<h4><i>A Anunciar</i></h4>
+											<br>
+											<span>B032</span>
+										</td>
 										<td></td>	
 									</tr>
 									<tr>
@@ -110,13 +132,30 @@
 									</tr>
 									<tr>
 										<th scope="row">15h30</th>
+										<td class="talk" rowspan="2">
+											<h4><i>A Anunciar</i></h4>
+											<br>
+											<span>B032</span>
+										</td>
 										<td></td>
 									</tr>
 									<tr>
+										<th scope="row">16h00</th>
+									</tr>
+									<tr>
 										<th scope="row">16h30</th>
+										<td class="event" rowspan="1">
+											<h4>coffee break</h4>
+											<br>
+										</td>
 									</tr>
 									<tr>
 										<th scope="row">17h00</th>
+										<td class="talk" rowspan="2">
+											<h4><i>A Anunciar</i></h4>
+											<br>
+											<span>B032</span>
+										</td>
 									</tr>
 									<tr>
 										<th scope="row">17h30</th>
@@ -125,7 +164,10 @@
 
 									<tr>
 										<th scope="row">18h00</th>
-										<td>
+										<td class="talk" rowspan="2">
+											<h4><i>A Anunciar</i></h4>
+											<br>
+											<span>B032</span>
 										</td>
 										<td></td>
 									</tr>
@@ -169,7 +211,7 @@
 											<a class="text-dark" href="/talks/breaking-iot">
 											<h4>Breaking IOT</h4>
 											<span>David Sopas</span><br>
-											<span>local a definir</span>
+											<span>B032</span>
 										</a>
 										</td>
 										<td></td>	
@@ -183,15 +225,28 @@
 											<a class="text-dark" href="/talks/9-anos-front-end-na-feedzai">
 												<h4>9 anos de Front-End na Feedzai</h4>
 												<span>Luís Cardoso & Victor Fernandes</span><br>
-												<span>local a definir</span>
+												<span>B032</span>
 											</a>
 										</td>
 									</tr>
 									<tr>
+										<th scope="row">16h00</th>
+									</tr>
+									<tr>
 										<th scope="row">16h30</th>
+										<td class="event" rowspan="1">
+											<h4>coffee break</h4>
+											<br>
+										</td>
+										
 									</tr>
 									<tr>
 										<th scope="row">17h00</th>
+										<td class="talk" rowspan="2">
+											<h4><i>A Anunciar</i></h4>
+											<br>
+											<span>B032</span>
+										</td>
 									</tr>
 									<tr>
 										<th scope="row">17h30</th>
@@ -200,7 +255,10 @@
 
 									<tr>
 										<th scope="row">18h00</th>
-										<td>
+										<td class="talk" rowspan="2">
+											<h4><i>A Anunciar</i></h4>
+											<br>
+											<span>B032</span>
 										</td>
 										<td></td>
 									</tr>
@@ -219,6 +277,7 @@
 										<th scope="row">19h30</th>
 										<td></td>
 									</tr>
+
 
 								</tbody>
 							</table>
@@ -241,7 +300,11 @@
 								<tbody>
 									<tr>
 										<th scope="row">14h30</th>
-										<td></td>
+										<td class="talk" rowspan="2">
+											<h4><i>A Anunciar</i></h4>
+											<br>
+											<span>B032</span>
+										</td>
 										<td></td>	
 									</tr>
 									<tr>
@@ -249,13 +312,30 @@
 									</tr>
 									<tr>
 										<th scope="row">15h30</th>
+										<td class="talk" rowspan="2">
+											<h4><i>A Anunciar</i></h4>
+											<br>
+											<span>B032</span>
+										</td>
 										<td></td>
 									</tr>
 									<tr>
+										<th scope="row">16h00</th>
+									</tr>
+									<tr>
 										<th scope="row">16h30</th>
+										<td class="event" rowspan="1">
+											<h4>coffee break</h4>
+											<br>
+										</td>
 									</tr>
 									<tr>
 										<th scope="row">17h00</th>
+										<td class="talk" rowspan="2">
+											<h4><i>A Anunciar</i></h4>
+											<br>
+											<span>B032</span>
+										</td>
 									</tr>
 									<tr>
 										<th scope="row">17h30</th>
@@ -264,7 +344,10 @@
 
 									<tr>
 										<th scope="row">18h00</th>
-										<td>
+										<td class="talk" rowspan="2">
+											<h4><i>A Anunciar</i></h4>
+											<br>
+											<span>B032</span>
 										</td>
 										<td></td>
 									</tr>
@@ -283,7 +366,6 @@
 										<th scope="row">19h30</th>
 										<td></td>
 									</tr>
-
 
 								</tbody>
 							</table>
