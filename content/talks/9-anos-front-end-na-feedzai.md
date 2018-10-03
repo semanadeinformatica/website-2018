@@ -3,7 +3,7 @@ title: 9 anos de Front-end na Feedzai
 
 speaker: Luís Cardoso & Victor Fernandes
 occupation: Front-end Engineers
-workplace: Fedzai
+workplace: Feedzai
 
 name1: Luís Cardoso
 bio: Sou Front-end Engineer na Feedzai há 7 anos. Estou na empresa praticamente desde o seu início e tive um grande papel no que é o Front-end na Feedzai atualmente (para o bom e mau). Algumas das coisas em que estive envolvido foram - manter uma grande SPA, recrutamento, decisões de arquitetura e várias iniciativas dentro da empresa. Nos tempos livres sou fotógrafo amador.
@@ -15,9 +15,9 @@ img: LuísCardoso
 linkedin: https://www.linkedin.com/in/lfacc/
 website: https://lfac.pt
 
-day: October 21
-time: 5pm
-place: B002
+day: 31 Outubro
+time: 15h30
+place: B032
 ---
 
 O Front-end na Feedzai começou como uma série de plugins de jQuery, passou por uma aplicação em RequireJS e Backbone, e neste momento temos 3 aplicações, duas em React & Redux e uma em Backbone/React. Pelo meio houveram muitas migrações, refactors e decisões. Esta apresentação é sobre esta viagem.

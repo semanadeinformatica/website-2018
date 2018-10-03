@@ -31,7 +31,7 @@
 
          <div class="text-lowercase">
           <h1> {{ talk.title }} </h1>
-          <h4 class="body-style"> {{ talk.day }}, {{ talk.time }}, room {{ talk.place }}. </h4>
+          <h4 class="body-style"> {{ talk.day }}, {{ talk.time }}, sala {{ talk.place }}. </h4>
         </div>
 
         <nuxtent-body class="mt-4 lead" :body="talk.body" />
