@@ -56,7 +56,7 @@
 						</li>
 						<li class="nav-item">
 							<h4>
-								<a class="nav-link" href="/bilhetes">Bilhetes</a>
+								<a class="nav-link" href="https://www.eventbrite.com/e/semana-de-informatica-tickets-50695985056">Bilhetes</a>
 							</h4>
 						</li>
 						<li class="nav-item">
