@@ -28,6 +28,7 @@
     "jquery": "^3.3.1",
     "node-sass": "^4.9.3",
     "nuxt": "^1.4.2",
+    "nuxt-imagemin": "^1.0.0",
     "nuxtent": "git+ssh://git@github.com/semanadeinformatica/nuxtent-module.git",
     "popper.js": "^1.14.4",
     "sass-loader": "^7.1.0"
