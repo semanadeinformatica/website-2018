@@ -69,7 +69,9 @@ module.exports = {
       id: process.env.GOOGLE_ANALYTICS_ID
     }],
 
-    'nuxtent'
+    'nuxtent',
+    
+    'nuxt-imagemin',
     ],
 
     subFolders: false,

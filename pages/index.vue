@@ -140,7 +140,7 @@
 					<h3 class="text-dark pt-5 mt-5"><strong>silver</strong> sponsors</h3>
 
 					<div class="sponsor-list my-4 d-flex flex-wrap align-items-center">
-						<div class="flex-fill silver-sponsor m-sm-2 m-4" v-for="sponsor in silver" :key="sponsor">
+						<div class="flex-fill silver-sponsor m-sm-1 m-4" v-for="sponsor in silver" :key="sponsor">
 							<img :src='"~/assets/img/sponsors/" + sponsor + ".png"' :alt='sponsor + " logo"'>
 						</div>
 					</div>
@@ -148,7 +148,7 @@
 					<h3 class="text-dark pt-5 mt-5"><strong>bronze</strong> sponsors</h3>
 
 					<div class="sponsor-list my-4 d-flex flex-wrap align-items-center">
-						<div class="flex-fill bronze-sponsor m-sm-2 m-4" v-for="sponsor in bronze" :key="sponsor">
+						<div class="bronze-sponsor m-sm-1 m-4 mr-md-5 pr-md-5" v-for="sponsor in bronze" :key="sponsor">
 							<img :src='"~/assets/img/sponsors/" + sponsor + ".png"' :alt='sponsor + " logo"'>
 						</div>
 					</div>
@@ -193,9 +193,9 @@
 			return {
 				gold: ['aubay', 'deloitte', 'blip', 'talkdesk'],
 
-				silver: ['aptiv', 'integer', 'itsector', 'primavera', 'semasio'],
+				silver: ['aptiv', 'integer', 'itsector', 'primavera', 'semasio', 'lifeonmars'],
 
-				bronze: ['fraunhofer'] 
+				bronze: ['fraunhofer', 'rumos'] 
 			}
 		}
 	}
