@@ -1,5 +1,5 @@
 ---
-title: JOGOS, REALIDADE AUMENTADA E VIRTUAL - EXTENSÕES OU AMPUTAÇÕES DA EXPERIÊNCIA HUMANA?
+title: Jogos, Realidade Aumentada e Virtual - Extensões ou amputações da experiência humana?
 
 speaker: Patricia Gouveia
 occupation: Associate Professor
