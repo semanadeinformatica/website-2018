@@ -7,7 +7,7 @@ workplace: INESC TEC
 bio: André Baptista is a researcher at INESC TEC and recently completed the Master in Information Security at the University of Porto. He's the captain of the CTF team of the University of Porto, xSTF. André was considered the Most Valuable Hacker in an international competition organized by HackerOne this year.
 
 
-img: randompic
+img: AndreBaptista
 linkedin: https://www.linkedin.com/in/0xacb/
 
 day:  Dia a anunciar

@@ -8,7 +8,7 @@ bio:  VP of Engineering at Unbabel. Passionate about building products, scaling 
 
 
 
-img: randompic
+img: MarceloLebre
 linkedin: https://www.linkedin.com/in/marcelolebre/
 
 day:  Dia a anunciar
