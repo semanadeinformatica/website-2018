@@ -10,8 +10,8 @@ img: PatriciaGouveia
 linkedin: https://www.linkedin.com/in/patricia-gouveia-a127316
 website: https://fbaul.academia.edu/PatriciaGouveia/CurriculumVitae
 
-day: dia a definir
-time: hora a definir
+day: dia a anunciar
+time: hora a anunciar
 place: B032
 ---
 
