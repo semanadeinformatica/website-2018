@@ -1,7 +1,7 @@
 ---
 title: Jogos, Realidade Aumentada e Virtual - Extensões ou amputações da experiência humana?
 
-speaker: Patricia Gouveia
+speaker: Patrícia Gouveia
 occupation: Associate Professor
 workplace:  Faculdade de Belas-Artes da Universidade de Lisboa
 bio:  Profª. Associada e Directora da área de Arte Multimédia da Faculdade de Belas-Artes da Universidade de Lisboa (FBAUL). Trabalha em artes e design desde os anos noventa. A sua investigação foca-se nos meios lúdicos, ficção interactiva e artes digitais como lugares de convergência entre o cinema, a música, os jogos, as artes e o design. Foi Profª. Associada e coordenadora do departamento de Meios Interactivos (Jogos e Animação) na Noroff University College em Kristiansand na Noruega (2014-16), Profª. Auxiliar Convidada na FCSH/UNL (2007-14) e Profª. Auxiliar na ULHT (2008-13). Entre 2006 e 2014 editou o blogue Mouseland e, em 2010, publicou o livro Artes e Jogos Digitais, Estética e Design da Experiência Lúdica (ed. U. Lusófonas), uma síntese da sua tese de doutoramento (2008) e de artigos que publicou entre 2008 e 2010.
@@ -10,8 +10,8 @@ img: PatriciaGouveia
 linkedin: https://www.linkedin.com/in/patricia-gouveia-a127316
 website: https://fbaul.academia.edu/PatriciaGouveia/CurriculumVitae
 
-day: dia a anunciar
-time: hora a anunciar
+day: 30 Outubro
+time: 16h00
 place: B032
 ---
 
