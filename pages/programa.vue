@@ -30,7 +30,7 @@
 								<tbody>
 									<tr>
 										<th class="one-hour" scope="row">14h00</th>
-										<td class="event" rowspan="4">
+										<td class="event" rowspan="3">
 											<h4>Cerimónia de Abertura</h4>
 											<br>
 											<span>B032</span>
@@ -45,10 +45,6 @@
 										<td></td>
 									</tr>
 									<tr>
-										<th scope="row"></th>
-										<td></td>
-									</tr>
-									<tr>
 										<th class="one-hour" scope="row">15h00</th>
 										<td class="talk" rowspan="3">
 											<a class="text-dark" href="/talks/programacao-competitiva">
@@ -58,18 +54,24 @@
 												<span>B032</span>
 											</a>
 										</td>
+										<td class="event" rowspan="7">
+											<h4><i>A anunciar</i></h4>
+											<span>workhop</span>
+											<br>
+											<span></span>
+										</td>
 									</tr>
 									<tr>
-										<!-- <th scope="row">15h15</th>
-										<td></td> -->
+										<th scope="row"></th>
+										<td></td> 
 									</tr>
 									<tr>
 										<th scope="row"></th>
 										<!-- <td></td> -->
 									</tr>
 									<tr>
-										<th scope="row">16h00</th>
-										<td class="talk" rowspan="3">
+										<th class="half-hour" scope="row">16h00</th>
+										<td class="talk" rowspan="2">
 											<h4><i>A anunciar</i></h4>
 											<span></span>
 											<br>
@@ -85,9 +87,10 @@
 										<td></td> -->
 									</tr>
 										<tr>
-										<th scope="row">16h30</th>
+										<th class="half-hour" scope="row">16h30</th>
 										<td class="event" rowspan="2">
 											<h4>Coffee Break</h4>
+											<br>
 											<br>
 										</td>
 									</tr>
@@ -96,22 +99,26 @@
 										<td></td> -->
 									</tr>
 									<tr>
-										<th scope="row">16h30</th>
+										<th class="half-hour" scope="row">17h00</th>
 										<td class="talk" rowspan="2">
-											<h4>Marcelo Lebre</h4>
-											<h5>title</h5>
-											<span>B032</span>
+											<a class="text-dark" href="/talks/building-the-worlds-understanding-layer">
+												<h4>Building the World's Understanding Layer</h4>
+												<span>Marcelo Lebre</span>
+												<br>
+												<span>B032</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
 										<!-- <th scope="row">17h15</th>
 										<td></td> -->
 									</tr>
-										<tr>
-										<th scope="row">17h30</th>
+									<tr>
+										<th class="half-hour" scope="row">17h30</th>
 										<td class="talk" rowspan="2">
-											<h4>TBD</h4>
-											<h5>title</h5>
+											<h4><i>A anunciar</i></h4>
+											<span></span>
+											<br>
 											<span>B032</span>
 										</td>
 									</tr>
