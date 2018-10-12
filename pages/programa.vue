@@ -29,32 +29,34 @@
 								</thead>
 								<tbody>
 									<tr>
-										<th scope="row">14h00</th>
+										<th class="one-hour" scope="row">14h00</th>
 										<td class="event" rowspan="4">
 											<h4>Cerimónia de Abertura</h4>
-											<br><br>
+											<br>
 											<span>B032</span>
 										</td>
 									</tr>
 									<tr>
-										<!-- <th scope="row"></th> -->
-										<!-- <td></td> -->
+										<th scope="row"></th>
+										<td></td> 
 									</tr>
 										<tr>
-										<th scope="row">14h30</th>
+										<th scope="row"></th>
 										<td></td>
 									</tr>
-										<tr>
-										<!-- <th scope="row">14h45</th>
-										<td></td> -->
+									<tr>
+										<th scope="row"></th>
+										<td></td>
 									</tr>
 									<tr>
-										<th scope="row">15h00</th>
+										<th class="one-hour" scope="row">15h00</th>
 										<td class="talk" rowspan="3">
-											<h4>Miguel Oliveira</h4>
-											<h5>Programacao competitiva</h5>
-											<br>
-											<span>B032</span>
+											<a class="text-dark" href="/talks/programacao-competitiva">
+												<h4>Programação Competitiva</h4>
+												<span>Miguel Oliveira</span>
+												<br>
+												<span>B032</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
@@ -62,21 +64,21 @@
 										<td></td> -->
 									</tr>
 									<tr>
-										<th scope="row">15h30</th>
+										<th scope="row"></th>
 										<!-- <td></td> -->
 									</tr>
 									<tr>
-										<th scope="row">15h45</th>
+										<th scope="row">16h00</th>
 										<td class="talk" rowspan="3">
-											<h4>Out Systems</h4>
-											<h5>title</h5>
+											<h4><i>A anunciar</i></h4>
+											<span></span>
 											<br>
 											<span>B032</span>
 										</td>
 									</tr>
 									<tr>
-										<th scope="row">16h00</th>
-										<!-- <td></td> -->
+										<th scope="row"></th>
+										<td></td> 
 									</tr>
 									<tr>
 										<!-- <th scope="row">16h15</th>
@@ -85,7 +87,7 @@
 										<tr>
 										<th scope="row">16h30</th>
 										<td class="event" rowspan="2">
-											<h4>Coffee Brake</h4>
+											<h4>Coffee Break</h4>
 											<br>
 										</td>
 									</tr>
@@ -508,7 +510,7 @@
 		}
 
 		th {
-			height: 3.25em;
+			min-height: 1.575em;
 		}
 
 		td {
@@ -522,6 +524,18 @@
 
 		.event {
 			background-color: #DA291C;
+		}
+
+		.one-hour {
+			height:  6.3em;
+		}
+
+		.half-hour {
+			height: 3.15em;
+		}
+
+		.fourty-five-minutes {
+			height: 4.725em;
 		}
 
 		.event, .talk {
