@@ -29,7 +29,7 @@
 								</thead>
 								<tbody>
 									<tr>
-										<th scope="row">14h30</th>
+										<th scope="row">14h00</th>
 										<td class="event" rowspan="2">
 											<h4>Cerimónia de Abertura</h4>
 											<br>
@@ -38,10 +38,10 @@
 										<td></td>	
 									</tr>
 									<tr>
-										<th scope="row">15h00</th>
+										<th scope="row">14h30</th>
 									</tr>
 									<tr>
-										<th scope="row">15h30</th>
+										<th scope="row">15h00</th>
 										<td class="talk" rowspan="2">
 											<a class="text-dark" href="/talks/programacao-competitiva">
 												<h4>Programação Competitiva</h4>
@@ -51,11 +51,11 @@
 										</td>
 									</tr>
 									<tr>
-										<th scope="row">16h00</th>
+										<th scope="row">15h30</th>
 										<td></td>
 									</tr>
 									<tr>
-										<th scope="row">16h30</th>
+										<th scope="row">16h00</th>
 										<td class="event" rowspan="1">
 											<h4>coffee break</h4>
 											<br>
@@ -63,7 +63,7 @@
 										
 									</tr>
 									<tr>
-										<th scope="row">17h00</th>
+										<th scope="row">16h30</th>
 										<td class="talk" rowspan="2">
 											<h4><i>A Anunciar</i></h4>
 											<br>
@@ -71,32 +71,32 @@
 										</td>
 									</tr>
 									<tr>
+										<th scope="row">17h00</th>
+										<td></td>
+									</tr>
+
+									<tr>
 										<th scope="row">17h30</th>
+										<td class="talk" rowspan="2">
+											<h4><i>A Anunciar</i></h4>
+											<br>
+											<span>B032</span>
+										</td>
 										<td></td>
 									</tr>
 
 									<tr>
 										<th scope="row">18h00</th>
-										<td class="talk" rowspan="2">
-											<h4><i>A Anunciar</i></h4>
-											<br>
-											<span>B032</span>
-										</td>
 										<td></td>
 									</tr>
-
 									<tr>
 										<th scope="row">18h30</th>
-										<td></td>
-									</tr>
-									<tr>
-										<th scope="row">19h00</th>
 										<td></td>	
 										<td></td>
 									</tr>
 
 									<tr>
-										<th scope="row">19h30</th>
+										<th scope="row">19h00</th>
 										<td></td>
 									</tr>
 
