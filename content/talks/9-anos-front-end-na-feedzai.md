@@ -11,7 +11,7 @@ bio: Sou Front-end Engineer na Feedzai há 7 anos. Estou na empresa praticamente
 name2: Victor Fernandes
 bio2: Actualmente, sou front-end engineer na Feedzai há 1 ano e meio mas já conto com quase 5 anos de experiência como Front-end Engineer. Anteriormente trabalhei na MOG Technologies e tive a sorte de desde sempre lidar com problemas que levam os Web-Browser ao limite, tais como criar video players no browser, criar editores de vídeos em SPA e representar muita informação. Atualmente o meu maior desafio é desenvolver uma aplicação que seja consiga representar mais de 15000 nós de um grafo sem perder a performance do browser.
 
-img: LuísCardoso
+img: LuisCardoso
 linkedin: https://www.linkedin.com/in/lfacc/
 website: https://lfac.pt
 

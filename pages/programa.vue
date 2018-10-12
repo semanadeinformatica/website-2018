@@ -38,7 +38,7 @@
 									</tr>
 									<tr>
 										<th scope="row"></th>
-										<td></td> 
+										<td></td>
 									</tr>
 										<tr>
 										<th scope="row"></th>
@@ -78,7 +78,7 @@
 									</tr>
 									<tr>
 										<th scope="row"></th>
-										<td></td> 
+										<td></td>
 									</tr>
 									<tr>
 										<!-- <th scope="row">16h15</th>
@@ -96,7 +96,7 @@
 										<td></td> -->
 									</tr>
 									<tr>
-										<th scope="row">17h00</th>
+										<th scope="row">16h30</th>
 										<td class="talk" rowspan="2">
 											<h4>Marcelo Lebre</h4>
 											<h5>title</h5>
@@ -402,7 +402,7 @@
 										<td class="talk" rowspan="1">
 											<h4>TBD</h4>
 											<br>
-										</td>	
+										</td>
 									</tr>
 									<tr>
 										<th scope="row">16h00</th>
@@ -410,7 +410,7 @@
 											<h4><i>Encerramento + Coffe Brake</i></h4>
 											<br>
 											<span>B032</span>
-										</td>	
+										</td>
 									</tr>
 									<tr>
 										<th scope="row">16h30</th>
@@ -479,7 +479,7 @@
 
 		.nav-link {
 			border-color: #DA291C;
-			border-width: 0 0 0.3em 0;	
+			border-width: 0 0 0.3em 0;
 		}
 
 		.nav-link.active {
@@ -501,12 +501,12 @@
 
 		tr th:first-child {
 			width: 5em !important;
-		}	
+		}
 
 		@media (max-width: 961px) {
 			tr th:first-child {
 				width: 2em !important;
-			}	
+			}
 		}
 
 		th {
