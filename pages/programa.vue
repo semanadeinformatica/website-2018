@@ -422,59 +422,87 @@
 								</thead>
 								<tbody>
 									<tr>
-										<th scope="row">14h00</th>
-										<td class="talk" rowspan="1">
-											<h4><i>Pedro Costa</i></h4>
+										<th class="half-hour" scope="row">14h00</th>
+										<td class="talk" rowspan="2">
+											<h4><i>A anunciar</i></h4>
+											<span></span>
 											<br>
 											<span>B032</span>
 										</td>
 									</tr>
 									<tr>
-										<th scope="row">14h30</th>
-										<td class="talk" rowspan="1">
-											<h4><i>Andre Batista</i></h4>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
+										<th class="half-hour" scope="row">14h30</th>
+										<td class="talk" rowspan="2">
+											<a class="text-dark" href="/talks/crack-me-up">
+												<h4>Crack Me Up - Uma Introdução a Binary Reverse Engineering</h4>
+												<span>André Baptista</span>
+												<br>
+												<span>B032</span>
+											</a>
+										</td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
+										<th class="half-hour" scope="row">15h00</th>
+										<td class="talk" rowspan="2">
+											<h4><i>A anunciar</i></h4>
+											<span></span>
+											<br>
+											<span>B032</span>
+										</td>
+										<td class="event" rowspan="5">
+											<h4><i>A anunciar</i></h4>
+											<span>workhop</span>
+											<br>
+											<span></span>
+										</td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
+										<th class="half-hour" scope="row">15h30</th>
+										<td class="talk" rowspan="2">
+											<h4><i>A anunciar</i></h4>
+											<span></span>
 											<br>
 											<span>B032</span>
 										</td>
 									</tr>
 									<tr>
-										<th scope="row">15h00</th>
-										<td class="talk" rowspan="1">
-											<h4><i>Dara McGann</i></h4>
-											<br>
-											<span>B032</span>
-										</td>
+										<th scope="row"></th>
+										<td></td>
 									</tr>
 									<tr>
-										<th scope="row">15h30</th>
-										<td class="talk" rowspan="1">
-											<h4>TBD</h4>
-											<br>
-										</td>
-									</tr>
-									<tr>
-										<th scope="row">16h00</th>
+										<th class="one-hour" scope="row">16h00</th>
 										<td class="event" rowspan="4">
-											<h4><i>Encerramento + Coffe Brake</i></h4>
+											<h4>cerimónia de encerramento</h4>
 											<br>
-											<span>B032</span>
+											<span>b032</span>
 										</td>
 									</tr>
 									<tr>
-										<th scope="row">16h30</th>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
 										<td></td>
 									</tr>
 									<tr>
 										<th scope="row">17h00</th>
-										<td></td>
-									</tr>
-									<tr>
-										<th scope="row">17h30</th>
-										<td></td>
-									</tr>
-
-									<tr>
-										<th scope="row">18h00</th>
 										<td></td>
 									</tr>
 								</tbody>
