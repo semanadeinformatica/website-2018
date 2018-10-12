@@ -30,7 +30,7 @@
 								<tbody>
 									<tr>
 										<th class="one-hour" scope="row">14h00</th>
-										<td class="event" rowspan="3">
+										<td class="event" rowspan="4">
 											<h4>Cerimónia de Abertura</h4>
 											<br>
 											<span>B032</span>
@@ -40,13 +40,17 @@
 										<th scope="row"></th>
 										<td></td>
 									</tr>
-										<tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
 										<th scope="row"></th>
 										<td></td>
 									</tr>
 									<tr>
 										<th class="one-hour" scope="row">15h00</th>
-										<td class="talk" rowspan="3">
+										<td class="talk" rowspan="4">
 											<a class="text-dark" href="/talks/programacao-competitiva">
 												<h4>Programação Competitiva</h4>
 												<span>Miguel Oliveira</span>
@@ -54,12 +58,16 @@
 												<span>B032</span>
 											</a>
 										</td>
-										<td class="event" rowspan="7">
+										<td class="event" rowspan="9">
 											<h4><i>A anunciar</i></h4>
 											<span>workhop</span>
 											<br>
 											<span></span>
 										</td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
 									</tr>
 									<tr>
 										<th scope="row"></th>
@@ -139,7 +147,7 @@
 				<div class="tab-pane fade" id="nav-30-oct" role="tabpanel" aria-labelledby="nav-30-oct-tab">
 					<div class="row">
 						<div class="offset-lg-2 col-lg-8">
-							<table class="table table-borderless text-lowercase">
+													<table class="table table-borderless text-lowercase">
 								<thead>
 									<tr>
 										<th scope="col">time</th>
@@ -149,68 +157,83 @@
 								</thead>
 								<tbody>
 									<tr>
-										<th scope="row">14h00</th>
+										<th class="half-hour" scope="row">14h00</th>
 										<td class="talk" rowspan="2">
-											<h4>TalkDesk</h4>
-											<h5>...</h5>
+											<h4><i>A anunciar</i></h4>
+											<span></span>
+											<br>
+											<span>B032</span>
+										</td>
+										<td class="event" rowspan="8">
+											<h4><i>A anunciar</i></h4>
+											<span>workhop</span>
+											<br>
+											<span></span>
+										</td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
+										<th class="half-hour" scope="row">14h30</th>
+										<td class="talk" rowspan="2">
+											<h4><i>A anunciar</i></h4>
+											<span></span>
+											<br>
 											<span>B032</span>
 										</td>
 									</tr>
 									<tr>
-										<!-- <th scope="row"></th> -->
-										<!-- <td></td> -->
-									</tr>
-										<tr>
-										<th scope="row">14h30</th>
-										<td class="talk" rowspan="2">
-											<h4>PixelMatters</h4>
-											<h5>...</h5>
-											<span>B032</span>
-										</td>
-									</tr>
-										<tr>
-										<!-- <th scope="row">14h45</th>
-										<td></td> -->
+										<th scope="row"></th>
+										<td></td>
 									</tr>
 									<tr>
-										<th scope="row">15h00</th>
+										<th class="half-hour" scope="row">15h00</th>
 										<td class="talk" rowspan="2">
-											<h4>TBD</h4>
-											<h5>...</h5>
+											<h4><i>A anunciar</i></h4>
+											<span></span>
+											<br>
 											<span>B032</span>
 										</td>
 									</tr>
 									<tr>
-										<!-- <th scope="row">15h15</th>
-										<td></td> -->
+										<th scope="row"></th>
+										<td></td>
 									</tr>
 									<tr>
-										<th scope="row">15h30</th>
+										<th class="half-hour" scope="row">15h30</th>
 										<td class="talk" rowspan="2">
-											<h4>Aptiv</h4>
-											<h5>...</h5>
+											<h4><i>A anunciar</i></h4>
+											<span></span>
+											<br>
 											<span>B032</span>
 										</td>
 									</tr>
 									<tr>
-										<!-- <th scope="row">15h45</th> -->
+										<th scope="row"></th>
+										<td></td>
 									</tr>
 									<tr>
-										<th scope="row">16h00</th>
+										<th class="half-hour" scope="row">16h00</th>
 										<td class="talk" rowspan="2">
-											<h4>...</h4>
-											<h5>Patricia Gouveia</h5>
-											<span>B032</span>
+											<a class="text-dark" href="/talks/jogos-realidade-aumentada">
+												<h4>Jogos, Realidade Aumentada e Virtual</h4>
+												<span>Patrícia Gouveia</span>
+												<br>
+												<span>B032</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
-										<!-- <th scope="row">16h15</th>
-										<td></td> -->
+										<th scope="row"></th>
+										<td></td>
 									</tr>
-										<tr>
-										<th scope="row">16h30</th>
+									<tr>
+										<th class="half-hour" scope="row">16h30</th>
 										<td class="event" rowspan="2">
-											<h4>Coffee Brake</h4>
+											<h4>Coffee Break</h4>
+											<br>
 											<br>
 										</td>
 									</tr>
@@ -219,10 +242,11 @@
 										<td></td> -->
 									</tr>
 									<tr>
-										<th scope="row">17h00</th>
+										<th class="half-hour" scope="row">17h00</th>
 										<td class="talk" rowspan="2">
-											<h4>Delloite</h4>
-											<h5>...</h5>
+											<h4><i>A anunciar</i></h4>
+											<span></span>
+											<br>
 											<span>B032</span>
 										</td>
 									</tr>
@@ -230,11 +254,12 @@
 										<!-- <th scope="row">17h15</th>
 										<td></td> -->
 									</tr>
-										<tr>
-										<th scope="row">17h30</th>
+									<tr>
+										<th class="half-hour" scope="row">17h30</th>
 										<td class="talk" rowspan="2">
-											<h4>TBD</h4>
-											<h5>title</h5>
+											<h4><i>A anunciar</i></h4>
+											<span></span>
+											<br>
 											<span>B032</span>
 										</td>
 									</tr>
@@ -248,7 +273,6 @@
 									</tr>
 								</tbody>
 							</table>
-
 						</div>
 					</div>
 				</div>
