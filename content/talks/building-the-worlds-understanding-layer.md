@@ -10,10 +10,10 @@ bio:  VP of Engineering at Unbabel. Passionate about building products, scaling 
 
 img: MarceloLebre
 linkedin: https://www.linkedin.com/in/marcelolebre/
-
-day:  Dia a anunciar
-time: hora a anunciar 
-place: B032 
+ 
+day: 29 Outubro
+time: 17h00
+place: B032
 ---
 
 In this talk we'll know more about how Unbabel is building the world's understanding layer and removing language barriers through a combination of AI + Humans. 

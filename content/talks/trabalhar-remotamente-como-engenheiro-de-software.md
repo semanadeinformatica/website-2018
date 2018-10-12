@@ -14,8 +14,8 @@ img: PedroSantos
 
 linkedin: https://pt.linkedin.com/in/pedrodanielcsantos
 
-day:  Dia a anunciar
-time: hora a anunciar 
+day: 31 Outubro
+time: 17h00
 place: B032
 ---
 

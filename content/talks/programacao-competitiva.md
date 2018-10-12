@@ -10,8 +10,8 @@ img: MiguelOliveira
 linkedin: https://www.linkedin.com/in/miguelpoliveira/
 
 day: 29 Outubro
-time: 15h30
-place: b032 
+time: 15h00
+place: B032 
 ---
 
 Esta apresentação começa por uma introdução à Programação Competitiva: em que consiste, tipos de concursos e exemplos de problemas. O porquê da participação nestas actividades originar ofertas de emprego e a sua contribuição para o orador passar as entrevistas da Google e Facebook.

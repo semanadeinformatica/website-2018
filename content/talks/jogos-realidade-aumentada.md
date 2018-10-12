@@ -10,8 +10,8 @@ img: PatriciaGouveia
 linkedin: https://www.linkedin.com/in/patricia-gouveia-a127316
 website: https://fbaul.academia.edu/PatriciaGouveia/CurriculumVitae
 
-day: dia a anunciar
-time: hora a anunciar
+day: 30 Outubro
+time: 16h00
 place: B032
 ---
 
