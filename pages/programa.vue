@@ -147,7 +147,7 @@
 				<div class="tab-pane fade" id="nav-30-oct" role="tabpanel" aria-labelledby="nav-30-oct-tab">
 					<div class="row">
 						<div class="offset-lg-2 col-lg-8">
-													<table class="table table-borderless text-lowercase">
+							<table class="table table-borderless text-lowercase">
 								<thead>
 									<tr>
 										<th scope="col">time</th>
@@ -289,67 +289,80 @@
 								</thead>
 								<tbody>
 									<tr>
-										<th scope="row">14h00</th>
+										<th class="half-hour" scope="row">14h00</th>
 										<td class="talk" rowspan="2">
-											<h4>TBD</h4>
-											<h5>...</h5>
+											<h4><i>A anunciar</i></h4>
+											<span></span>
+											<br>
 											<span>B032</span>
+										</td>
+										<td class="event" rowspan="9">
+											<h4><i>A anunciar</i></h4>
+											<span>workhop</span>
+											<br>
+											<span></span>
 										</td>
 									</tr>
 									<tr>
-										<!-- <th scope="row"></th> -->
-										<!-- <td></td> -->
+										<th scope="row"></th>
+										<td></td>
 									</tr>
 									<tr>
-										<th scope="row">14h30</th>
+										<th class="fourty-five-minutes" scope="row">14h30</th>
 										<td class="talk" rowspan="3">
 											<a class="text-dark" href="/talks/breaking-iot">
-											<h4>Breaking IOT</h4>
-											<span>David Sopas</span><br><br>
-											<span>B032</span>
-											</a>
-										</td>
-									</tr>
-									<tr>
-										<!-- <th scope="row">14h45</th>
-										<td></td> -->
-									</tr>
-									<tr>
-										<th scope="row">15h00</th>
-									</tr>
-									<tr>
-										<th scope="row">15h15</th>
-										<td class="talk" rowspan="3">
-											<a class="text-dark" href="/talks/9-anos-front-end-na-feedzai">
-												<h4>9 anos de Front-End na Feedzai</h4>
-												<span>Luís Cardoso & Victor Fernandes</span><br>
+												<h4>Breaking IoT</h4>
+												<span>David Sopas</span>
 												<br>
 												<span>B032</span>
 											</a>
 										</td>
 									</tr>
 									<tr>
-										<th scope="row">15h30</th>
+										<th scope="row"></th>
+										<td></td>
 									</tr>
 									<tr>
-										<!-- <th scope="row">15h45</th> -->
+										<th scope="row"></th>
+										<td></td>
 									</tr>
 									<tr>
-										<th scope="row">16h00</th>
+										<th class="fourty-five-minutes" scope="row">15h15</th>
+										<td class="talk" rowspan="3">
+											<a class="text-dark" href="/talks/9-anos-front-end-na-feedzai">
+												<h4>9 anos de front-end na feedzai</h4>
+												<span>Luís Cardoso & Victor Fernandes</span>
+												<br>
+												<span>B032</span>
+											</a>
+										</td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
+										<th class="half-hour" scope="row">16h00</th>
 										<td class="talk" rowspan="2">
-											<h4>...</h4>
-											<h5>Daniel Moura</h5>
+											<h4><i>A anunciar</i></h4>
+											<span></span>
+											<br>
 											<span>B032</span>
 										</td>
 									</tr>
 									<tr>
-										<!-- <th scope="row">16h15</th>
-										<td></td> -->
+										<th scope="row"></th>
+										<td></td>
 									</tr>
 									<tr>
-										<th scope="row">16h30</th>
+										<th class="half-hour" scope="row">16h30</th>
 										<td class="event" rowspan="2">
-											<h4>Coffee Brake</h4>
+											<h4>Coffee Break</h4>
+											<br>
 											<br>
 										</td>
 									</tr>
@@ -358,11 +371,14 @@
 										<td></td> -->
 									</tr>
 									<tr>
-										<th scope="row">17h00</th>
+										<th class="half-hour" scope="row">17h00</th>
 										<td class="talk" rowspan="2">
-											<h4>Pedro Santos</h4>
-											<h5>...</h5>
-											<span>B032</span>
+											<a class="text-dark" href="/talks/trabalhar-remotamente-como-engenheiro-de-software">
+												<h4>trabalhar remotamente como engenheiro de software</h4>
+												<span>Pedro Santos</span>
+												<br>
+												<span>B032</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
@@ -370,10 +386,11 @@
 										<td></td> -->
 									</tr>
 									<tr>
-										<th scope="row">17h30</th>
+										<th class="half-hour" scope="row">17h30</th>
 										<td class="talk" rowspan="2">
-											<h4>TBD</h4>
-											<h5>title</h5>
+											<h4><i>A anunciar</i></h4>
+											<span></span>
+											<br>
 											<span>B032</span>
 										</td>
 									</tr>
@@ -381,7 +398,7 @@
 										<!-- <th scope="row">17h45</th>
 										<td></td> -->
 									</tr>
-									<tr>
+										<tr>
 										<th scope="row">18h00</th>
 										<td></td>
 									</tr>
