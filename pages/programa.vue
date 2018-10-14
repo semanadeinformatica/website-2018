@@ -33,7 +33,7 @@
 										<td class="event" rowspan="4">
 											<h4>Cerimónia de Abertura</h4>
 											<br>
-											<span>B032</span>
+											<span>14h00 - 15h00 | B032</span>
 										</td>
 									</tr>
 									<tr>
@@ -55,14 +55,14 @@
 												<h4>Programação Competitiva</h4>
 												<span>Miguel Oliveira</span>
 												<br>
-												<span>B032</span>
+												<span>15h00 - 16h00 | B032</span>
 											</a>
 										</td>
-										<td class="event" rowspan="9">
+										<td class="event" rowspan="7">
 											<h4><i>A anunciar</i></h4>
 											<span>workhop</span>
 											<br>
-											<span></span>
+											<span>15h00 - 16h40</span>
 										</td>
 									</tr>
 									<tr>
@@ -75,15 +75,17 @@
 									</tr>
 									<tr>
 										<th scope="row"></th>
-										<!-- <td></td> -->
+										<td></td>
 									</tr>
 									<tr>
 										<th class="half-hour" scope="row">16h00</th>
-										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>B032</span>
+										<td class="talk" rowspan="3">
+											<a class="text-dark" href="/talks/building-the-worlds-understanding-layer">
+												<h4>Building the World's Understanding Layer</h4>
+												<span>Marcelo Lebre</span>
+												<br>
+												<span>16h00 - 16h40 | B032</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
@@ -91,15 +93,15 @@
 										<td></td>
 									</tr>
 									<tr>
-										<!-- <th scope="row">16h15</th>
-										<td></td> -->
+										<th scope="row"></th>
+										<td></td>
 									</tr>
 										<tr>
-										<th class="half-hour" scope="row">16h30</th>
+										<th class="half-hour" scope="row">16h40</th>
 										<td class="event" rowspan="2">
 											<h4>Coffee Break</h4>
 											<br>
-											<br>
+											<span>16h40 - 17h10 | B032</span>
 										</td>
 									</tr>
 									<tr>
@@ -107,35 +109,63 @@
 										<td></td> -->
 									</tr>
 									<tr>
-										<th class="half-hour" scope="row">17h00</th>
-										<td class="talk" rowspan="2">
-											<a class="text-dark" href="/talks/building-the-worlds-understanding-layer">
-												<h4>Building the World's Understanding Layer</h4>
-												<span>Marcelo Lebre</span>
+										<th class="half-hour" scope="row">17h10</th>
+										<td class="talk" rowspan="4">
+											<a class="text-dark" href="">
+												<h4>A anunciar</h4>
+												<span></span>
 												<br>
-												<span>B032</span>
+												<span>17h10 - 18h10 | B032</span>
+											</a>
+										</td>
+										<td class="event" rowspan="9">
+											<h4><i>A anunciar</i></h4>
+											<span>Pitch</span>
+											<br>
+											<span>17h10 - 19h10</span>
+										</td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+										<tr>
+										<th class="half-hour" scope="row">18h10</th>
+										<td class="talk" rowspan="3">
+											<a class="text-dark" href="">
+												<h4>A anunciar</h4>
+												<span></span>
+												<br>
+												<span>18h10 - 18h40 | B032</span>
 											</a>
 										</td>
 									</tr>
 									<tr>
-										<!-- <th scope="row">17h15</th>
-										<td></td> -->
+										<th scope="row"></th>
+										<td></td>
 									</tr>
 									<tr>
-										<th class="half-hour" scope="row">17h30</th>
-										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>B032</span>
-										</td>
+										<th scope="row"></th>
+										<td></td>
 									</tr>
 									<tr>
-										<!-- <th scope="row">17h45</th>
-										<td></td> -->
+										<th scope="row"></th>
+										<td></td>
 									</tr>
-										<tr>
-										<th scope="row">18h00</th>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
 										<td></td>
 									</tr>
 								</tbody>
