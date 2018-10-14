@@ -274,6 +274,12 @@
 											<br>
 											<span>17h10 - 17h50 | B032</span>
 										</td>
+										<td class="event" rowspan="8">
+											<h4><i>Sessão Networking</i></h4>
+											<span></span>
+											<br>
+											<span>17h10 - 19h10</span>
+										</td>
 									</tr>
 									<tr>
 										<th scope="row"></th>
@@ -292,7 +298,19 @@
 										<!-- <th scope="row">17h45</th>
 										<td></td> -->
 									</tr>
-										<tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
 										<th scope="row"></th>
 										<td></td>
 									</tr>
@@ -407,10 +425,23 @@
 										</td>
 									</tr>
 									<tr>
-										<!-- <th scope="row">17h45</th>
-										<td></td> -->
+										<th scope="row">18h00</th>
+										<td class="event" rowspan="4">
+											<h4><i>Sunset</i></h4>
+											<span></span>
+											<br>
+											<span>18h00 - 19h00</span>
+										</td>
 									</tr>
 										<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
 										<th scope="row"></th>
 										<td></td>
 									</tr>
@@ -439,7 +470,7 @@
 											<h4><i>A anunciar</i></h4>
 											<span></span>
 											<br>
-											<span>B032</span>
+											<span>14h00 - 14h40 | B032</span>
 										</td>
 									</tr>
 									<tr>
@@ -447,33 +478,20 @@
 										<td></td>
 									</tr>
 									<tr>
-										<th class="half-hour" scope="row">14h30</th>
+										<th class="half-hour" scope="row">14h40</th>
 										<td class="talk" rowspan="2">
 											<a class="text-dark" href="/talks/crack-me-up">
 												<h4>Crack Me Up - Uma Introdução a Binary Reverse Engineering</h4>
 												<span>André Baptista</span>
 												<br>
-												<span>B032</span>
+												<span>14h40 - 15h20 | B032</span>
 											</a>
 										</td>
-									</tr>
-									<tr>
-										<th scope="row"></th>
-										<td></td>
-									</tr>
-									<tr>
-										<th class="half-hour" scope="row">15h00</th>
-										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>B032</span>
-										</td>
-										<td class="event" rowspan="5">
+										<td class="event" rowspan="6">
 											<h4><i>A anunciar</i></h4>
 											<span>workhop</span>
 											<br>
-											<span></span>
+											<span>14h40 - 16h40</span>
 										</td>
 									</tr>
 									<tr>
@@ -481,12 +499,12 @@
 										<td></td>
 									</tr>
 									<tr>
-										<th class="half-hour" scope="row">15h30</th>
+										<th class="half-hour" scope="row">15h20</th>
 										<td class="talk" rowspan="2">
 											<h4><i>A anunciar</i></h4>
 											<span></span>
 											<br>
-											<span>B032</span>
+											<span>15h20 - 16h00 | B032</span>
 										</td>
 									</tr>
 									<tr>
@@ -494,11 +512,12 @@
 										<td></td>
 									</tr>
 									<tr>
-										<th class="one-hour" scope="row">16h00</th>
-										<td class="event" rowspan="4">
-											<h4>cerimónia de encerramento</h4>
+										<th class="half-hour" scope="row">16h00</th>
+										<td class="talk" rowspan="2">
+											<h4><i>A anunciar</i></h4>
+											<span></span>
 											<br>
-											<span>b032</span>
+											<span>16h00 - 16h40 | B032</span>
 										</td>
 									</tr>
 									<tr>
@@ -506,25 +525,61 @@
 										<td></td>
 									</tr>
 									<tr>
-										<th scope="row"></th>
-										<td></td>
+										<th class="half-hour" scope="row">16h40</th>
+										<td class="event" rowspan="2">
+											<h4>Coffee Break</h4>
+											<br>
+											<span>16h40 - 17h10 | B032</span>
+										</td>
 									</tr>
 									<tr>
 										<th scope="row"></th>
 										<td></td>
 									</tr>
 									<tr>
-										<th scope="row">17h00</th>
-										<td></td>
-									</tr>
-									<td class="talk" rowspan="2">
+										<th class="half-hour" scope="row">17h10</th>
+										<td class="talk" rowspan="2">
 											<a class="text-dark" href="/talks/trabalhar-remotamente-como-engenheiro-de-software">
 												<h4>trabalhar remotamente como engenheiro de software</h4>
 												<span>Pedro Santos</span>
 												<br>
-												<span>B032</span>
+												<span>17h10 - 17h50 | B032</span>
 											</a>
 										</td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
+										<th class="one-hour" scope="row">17h50</th>
+										<td class="event" rowspan="4">
+											<h4>cerimónia de encerramento</h4>
+											<br>
+											<span>17h50 - 18h20 | b032</span>
+										</td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
+										<th class="one-hour" scope="row">18h20</th>
+										<td class="event" rowspan="4">
+											<h4>porto de honra</h4>
+											<br>
+											<span>18h20 - 18h50 | b032</span>
+										</td>
+									</tr>
+									
 								</tbody>
 							</table>
 
