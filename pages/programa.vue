@@ -319,13 +319,13 @@
 											<h4><i>A anunciar</i></h4>
 											<span></span>
 											<br>
-											<span>B032</span>
+											<span>14h00 - 14h40 | B032</span>
 										</td>
-										<td class="event" rowspan="9">
+										<td class="event" rowspan="8">
 											<h4><i>A anunciar</i></h4>
 											<span>workhop</span>
 											<br>
-											<span></span>
+											<span>14h00 - 16h40</span>
 										</td>
 									</tr>
 									<tr>
@@ -333,13 +333,13 @@
 										<td></td>
 									</tr>
 									<tr>
-										<th class="fourty-five-minutes" scope="row">14h30</th>
+										<th class="fourty-five-minutes" scope="row">14h40</th>
 										<td class="talk" rowspan="3">
 											<a class="text-dark" href="/talks/breaking-iot">
 												<h4>Breaking IoT</h4>
 												<span>David Sopas</span>
 												<br>
-												<span>B032</span>
+												<span>14h40 - 15h40 | B032</span>
 											</a>
 										</td>
 									</tr>
@@ -352,13 +352,13 @@
 										<td></td>
 									</tr>
 									<tr>
-										<th class="fourty-five-minutes" scope="row">15h15</th>
+										<th class="fourty-five-minutes" scope="row">15h40</th>
 										<td class="talk" rowspan="3">
 											<a class="text-dark" href="/talks/9-anos-front-end-na-feedzai">
 												<h4>9 anos de front-end na feedzai</h4>
 												<span>Luís Cardoso & Victor Fernandes</span>
 												<br>
-												<span>B032</span>
+												<span>15h40 - 16h40 | B032</span>
 											</a>
 										</td>
 									</tr>
@@ -371,24 +371,11 @@
 										<td></td>
 									</tr>
 									<tr>
-										<th class="half-hour" scope="row">16h00</th>
-										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>B032</span>
-										</td>
-									</tr>
-									<tr>
-										<th scope="row"></th>
-										<td></td>
-									</tr>
-									<tr>
-										<th class="half-hour" scope="row">16h30</th>
+										<th class="half-hour" scope="row">16h40</th>
 										<td class="event" rowspan="2">
 											<h4>Coffee Break</h4>
 											<br>
-											<br>
+											<span>16h40 - 17h10 | B032</span>
 										</td>
 									</tr>
 									<tr>
@@ -396,13 +383,13 @@
 										<td></td> -->
 									</tr>
 									<tr>
-										<th class="half-hour" scope="row">17h00</th>
+										<th class="half-hour" scope="row">17h10</th>
 										<td class="talk" rowspan="2">
-											<a class="text-dark" href="/talks/trabalhar-remotamente-como-engenheiro-de-software">
-												<h4>trabalhar remotamente como engenheiro de software</h4>
-												<span>Pedro Santos</span>
+											<a class="text-dark" href="">
+												<h4>A anunciar</h4>
+												<span></span>
 												<br>
-												<span>B032</span>
+												<span>17h10 - 17h50 | B032</span>
 											</a>
 										</td>
 									</tr>
@@ -411,12 +398,12 @@
 										<td></td> -->
 									</tr>
 									<tr>
-										<th class="half-hour" scope="row">17h30</th>
+										<th class="half-hour" scope="row">17h50</th>
 										<td class="talk" rowspan="2">
 											<h4><i>A anunciar</i></h4>
 											<span></span>
 											<br>
-											<span>B032</span>
+											<span>17h50 - 18h20 | B032</span>
 										</td>
 									</tr>
 									<tr>
@@ -424,7 +411,7 @@
 										<td></td> -->
 									</tr>
 										<tr>
-										<th scope="row">18h00</th>
+										<th scope="row"></th>
 										<td></td>
 									</tr>
 								</tbody>
@@ -530,6 +517,14 @@
 										<th scope="row">17h00</th>
 										<td></td>
 									</tr>
+									<td class="talk" rowspan="2">
+											<a class="text-dark" href="/talks/trabalhar-remotamente-como-engenheiro-de-software">
+												<h4>trabalhar remotamente como engenheiro de software</h4>
+												<span>Pedro Santos</span>
+												<br>
+												<span>B032</span>
+											</a>
+										</td>
 								</tbody>
 							</table>
 
