@@ -192,13 +192,13 @@
 											<h4><i>A anunciar</i></h4>
 											<span></span>
 											<br>
-											<span>B032</span>
+											<span>14h00 - 14h40 | B032</span>
 										</td>
 										<td class="event" rowspan="8">
 											<h4><i>A anunciar</i></h4>
 											<span>workhop</span>
 											<br>
-											<span></span>
+											<span>14h00 - 16h40</span>
 										</td>
 									</tr>
 									<tr>
@@ -206,12 +206,12 @@
 										<td></td>
 									</tr>
 									<tr>
-										<th class="half-hour" scope="row">14h30</th>
+										<th class="half-hour" scope="row">14h40</th>
 										<td class="talk" rowspan="2">
 											<h4><i>A anunciar</i></h4>
 											<span></span>
 											<br>
-											<span>B032</span>
+											<span>14h40 - 15h20 | B032</span>
 										</td>
 									</tr>
 									<tr>
@@ -219,27 +219,22 @@
 										<td></td>
 									</tr>
 									<tr>
-										<th class="half-hour" scope="row">15h00</th>
+										<th class="half-hour" scope="row">15h20</th>
 										<td class="talk" rowspan="2">
 											<h4><i>A anunciar</i></h4>
 											<span></span>
 											<br>
-											<span>B032</span>
+											<span>15h20 - 16h00 | B032</span>
 										</td>
 									</tr>
-									<tr>
+									<!-- <tr>
 										<th scope="row"></th>
 										<td></td>
-									</tr>
-									<tr>
-										<th class="half-hour" scope="row">15h30</th>
-										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>B032</span>
-										</td>
-									</tr>
+									</tr> -->
+									<!-- <tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr> -->
 									<tr>
 										<th scope="row"></th>
 										<td></td>
@@ -251,7 +246,7 @@
 												<h4>Jogos, Realidade Aumentada e Virtual</h4>
 												<span>Patrícia Gouveia</span>
 												<br>
-												<span>B032</span>
+												<span>16h00 - 16h40 | B032</span>
 											</a>
 										</td>
 									</tr>
@@ -260,37 +255,37 @@
 										<td></td>
 									</tr>
 									<tr>
-										<th class="half-hour" scope="row">16h30</th>
+										<th class="half-hour" scope="row">16h40</th>
 										<td class="event" rowspan="2">
 											<h4>Coffee Break</h4>
 											<br>
-											<br>
+											<span>16h40 - 17h10 | B032</span>
 										</td>
 									</tr>
 									<tr>
-										<!-- <th scope="row">16h45</th>
-										<td></td> -->
+										 <th scope="row"></th> <!--16h45 -->
+										<td></td>
 									</tr>
 									<tr>
-										<th class="half-hour" scope="row">17h00</th>
+										<th class="half-hour" scope="row">17h10</th>
 										<td class="talk" rowspan="2">
 											<h4><i>A anunciar</i></h4>
 											<span></span>
 											<br>
-											<span>B032</span>
+											<span>17h10 - 17h50 | B032</span>
 										</td>
 									</tr>
 									<tr>
-										<!-- <th scope="row">17h15</th>
-										<td></td> -->
+										<th scope="row"></th>
+										<td></td>
 									</tr>
 									<tr>
-										<th class="half-hour" scope="row">17h30</th>
+										<th class="half-hour" scope="row">17h50</th>
 										<td class="talk" rowspan="2">
 											<h4><i>A anunciar</i></h4>
 											<span></span>
 											<br>
-											<span>B032</span>
+											<span>17h50 - 18h20 | B032</span>
 										</td>
 									</tr>
 									<tr>
@@ -298,7 +293,7 @@
 										<td></td> -->
 									</tr>
 										<tr>
-										<th scope="row">18h00</th>
+										<th scope="row"></th>
 										<td></td>
 									</tr>
 								</tbody>
