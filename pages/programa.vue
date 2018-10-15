@@ -60,7 +60,7 @@
 										</td>
 										<td class="event" rowspan="7">
 											<h4><i>A anunciar</i></h4>
-											<span>workhop</span>
+											<span>workshop</span>
 											<br>
 											<span>15h00 - 16h40</span>
 										</td>
@@ -119,8 +119,7 @@
 											</a>
 										</td>
 										<td class="event" rowspan="9">
-											<h4><i>A anunciar</i></h4>
-											<span>Pitch</span>
+											<h4>Pitch</h4>
 											<br>
 											<span>17h10 - 19h10</span>
 										</td>
@@ -196,7 +195,7 @@
 										</td>
 										<td class="event" rowspan="8">
 											<h4><i>A anunciar</i></h4>
-											<span>workhop</span>
+											<span>workshop</span>
 											<br>
 											<span>14h00 - 16h40</span>
 										</td>
@@ -275,10 +274,10 @@
 											<span>17h10 - 17h50 | B032</span>
 										</td>
 										<td class="event" rowspan="8">
-											<h4><i>Sessão Networking</i></h4>
+											<h4><i>Sessão de Networking</i></h4>
 											<span></span>
 											<br>
-											<span>17h10 - 19h10</span>
+											<span>17h10 - 19h10 | local a anunciar</span>
 										</td>
 									</tr>
 									<tr>
@@ -341,7 +340,7 @@
 										</td>
 										<td class="event" rowspan="8">
 											<h4><i>A anunciar</i></h4>
-											<span>workhop</span>
+											<span>workshop</span>
 											<br>
 											<span>14h00 - 16h40</span>
 										</td>
@@ -428,27 +427,6 @@
 											<span>17h50 - 18h20 | B032</span>
 										</td>
 									</tr>
-									<tr>
-										<th class="one-hour" scope="row">18h00</th>
-										<td class="event" rowspan="4">
-											<h4><i>Sunset</i></h4>
-											<span></span>
-											<br>
-											<span>18h00 - 19h00</span>
-										</td>
-									</tr>
-										<tr>
-										<th scope="row"></th>
-										<td></td>
-									</tr>
-									<tr>
-										<th scope="row"></th>
-										<td></td>
-									</tr>
-									<tr>
-										<th scope="row"></th>
-										<td></td>
-									</tr>
 								</tbody>
 							</table>
 
@@ -493,7 +471,7 @@
 										</td>
 										<td class="event" rowspan="6">
 											<h4><i>A anunciar</i></h4>
-											<span>workhop</span>
+											<span>workshop</span>
 											<br>
 											<span>14h40 - 16h40</span>
 										</td>
@@ -572,7 +550,7 @@
 										<td class="event" rowspan="2">
 											<h4>porto de honra</h4>
 											<br>
-											<span>18h20 - 18h50 | b032</span>
+											<span>18h20 - 18h50 | local a anunciar</span>
 										</td>
 									</tr>
 									
