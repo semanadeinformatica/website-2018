@@ -51,12 +51,10 @@
 									<tr>
 										<th class="one-hour" scope="row">15h00</th>
 										<td class="talk" rowspan="4">
-											<a class="text-dark" href="/talks/programacao-competitiva">
-												<h4>Programação Competitiva</h4>
-												<span>Miguel Oliveira</span>
-												<br>
-												<span>15h00 - 16h00 | B032</span>
-											</a>
+											<h4><i>A anunciar</i></h4>
+											<span></span>
+											<br>
+											<span>15h00 - 16h00 | B032</span>
 										</td>
 										<td class="event" rowspan="7">
 											<h4><i>A anunciar</i></h4>
@@ -111,9 +109,9 @@
 									<tr>
 										<th class="one-hour" scope="row">17h10</th>
 										<td class="talk" rowspan="4">
-											<a class="text-dark" href="">
-												<h4><i>A anunciar</i></h4>
-												<span></span>
+											<a class="text-dark" href="/talks/programacao-competitiva">
+												<h4>Programação Competitiva</h4>
+												<span>Miguel Oliveira</span>
 												<br>
 												<span>17h10 - 18h10 | B032</span>
 											</a>
