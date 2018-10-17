@@ -121,7 +121,7 @@
 										<td class="event" rowspan="9">
 											<h4>Pitch</h4>
 											<br>
-											<span>17h10 - 19h10</span>
+											<span>17h10 - 19h10 | local a anunciar</span>
 										</td>
 									</tr>
 									<tr>
@@ -274,7 +274,7 @@
 											<span>17h10 - 17h50 | B032</span>
 										</td>
 										<td class="event" rowspan="8">
-											<h4><i>Sessão de Networking</i></h4>
+											<h4>Sessão de Networking</h4>
 											<span></span>
 											<br>
 											<span>17h10 - 19h10 | local a anunciar</span>
@@ -338,7 +338,7 @@
 											<br>
 											<span>14h00 - 14h40 | B032</span>
 										</td>
-										<td class="event" rowspan="8">
+										<td class="event" rowspan="9">
 											<h4><i>A anunciar</i></h4>
 											<span>workshop</span>
 											<br>
