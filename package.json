@@ -29,7 +29,7 @@
     "node-sass": "^4.9.3",
     "nuxt": "^1.4.2",
     "nuxt-imagemin": "^1.0.0",
-    "nuxtent": "git+ssh://git@github.com/semanadeinformatica/nuxtent-module.git",
+    "nuxtent": "semanadeinformatica/nuxtent-module",
     "popper.js": "^1.14.4",
     "sass-loader": "^7.1.0"
   },
