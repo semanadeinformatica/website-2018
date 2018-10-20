@@ -51,16 +51,14 @@
 									<tr>
 										<th class="one-hour" scope="row">15h00</th>
 										<td class="talk" rowspan="4">
-											<a class="text-dark" href="/talks/programacao-competitiva">
-												<h4>Programação Competitiva</h4>
-												<span>Miguel Oliveira</span>
-												<br>
-												<span>15h00 - 16h00 | B032</span>
-											</a>
+											<h4><i>A anunciar</i></h4>
+											<span></span>
+											<br>
+											<span>15h00 - 16h00 | B032</span>
 										</td>
 										<td class="event" rowspan="7">
 											<h4><i>A anunciar</i></h4>
-											<span>workhop</span>
+											<span>workshop</span>
 											<br>
 											<span>15h00 - 16h40</span>
 										</td>
@@ -101,7 +99,7 @@
 										<td class="event" rowspan="2">
 											<h4>Coffee Break</h4>
 											<br>
-											<span>16h40 - 17h10 | B032</span>
+											<span>16h40 - 17h10 </span>
 										</td>
 									</tr>
 									<tr>
@@ -109,20 +107,19 @@
 										<td></td> -->
 									</tr>
 									<tr>
-										<th class="half-hour" scope="row">17h10</th>
+										<th class="one-hour" scope="row">17h10</th>
 										<td class="talk" rowspan="4">
-											<a class="text-dark" href="">
-												<h4>A anunciar</h4>
-												<span></span>
+											<a class="text-dark" href="/talks/programacao-competitiva">
+												<h4>Programação Competitiva</h4>
+												<span>Miguel Oliveira</span>
 												<br>
 												<span>17h10 - 18h10 | B032</span>
 											</a>
 										</td>
 										<td class="event" rowspan="9">
-											<h4><i>A anunciar</i></h4>
-											<span>Pitch</span>
+											<h4>Pitch</h4>
 											<br>
-											<span>17h10 - 19h10</span>
+											<span>17h10 - 19h10 | local a anunciar</span>
 										</td>
 									</tr>
 									<tr>
@@ -141,7 +138,7 @@
 										<th class="half-hour" scope="row">18h10</th>
 										<td class="talk" rowspan="3">
 											<a class="text-dark" href="">
-												<h4>A anunciar</h4>
+												<h4><i>A anunciar</i></h4>
 												<span></span>
 												<br>
 												<span>18h10 - 18h40 | B032</span>
@@ -196,7 +193,7 @@
 										</td>
 										<td class="event" rowspan="8">
 											<h4><i>A anunciar</i></h4>
-											<span>workhop</span>
+											<span>workshop</span>
 											<br>
 											<span>14h00 - 16h40</span>
 										</td>
@@ -259,7 +256,7 @@
 										<td class="event" rowspan="2">
 											<h4>Coffee Break</h4>
 											<br>
-											<span>16h40 - 17h10 | B032</span>
+											<span>16h40 - 17h10 </span>
 										</td>
 									</tr>
 									<tr>
@@ -275,10 +272,10 @@
 											<span>17h10 - 17h50 | B032</span>
 										</td>
 										<td class="event" rowspan="8">
-											<h4><i>Sessão Networking</i></h4>
+											<h4>Sessão de Networking</h4>
 											<span></span>
 											<br>
-											<span>17h10 - 19h10</span>
+											<span>17h10 - 19h10 | local a anunciar</span>
 										</td>
 									</tr>
 									<tr>
@@ -339,9 +336,9 @@
 											<br>
 											<span>14h00 - 14h40 | B032</span>
 										</td>
-										<td class="event" rowspan="8">
+										<td class="event" rowspan="9">
 											<h4><i>A anunciar</i></h4>
-											<span>workhop</span>
+											<span>workshop</span>
 											<br>
 											<span>14h00 - 16h40</span>
 										</td>
@@ -351,7 +348,7 @@
 										<td></td>
 									</tr>
 									<tr>
-										<th class="fourty-five-minutes" scope="row">14h40</th>
+										<th class="one-hour" scope="row">14h40</th>
 										<td class="talk" rowspan="3">
 											<a class="text-dark" href="/talks/breaking-iot">
 												<h4>Breaking IoT</h4>
@@ -370,8 +367,8 @@
 										<td></td>
 									</tr>
 									<tr>
-										<th class="fourty-five-minutes" scope="row">15h40</th>
-										<td class="talk" rowspan="3">
+										<th class="one-hour" scope="row">15h40</th>
+										<td class="talk" rowspan="4">
 											<a class="text-dark" href="/talks/9-anos-front-end-na-feedzai">
 												<h4>9 anos de front-end na feedzai</h4>
 												<span>Luís Cardoso & Victor Fernandes</span>
@@ -389,11 +386,15 @@
 										<td></td>
 									</tr>
 									<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
 										<th class="half-hour" scope="row">16h40</th>
 										<td class="event" rowspan="2">
 											<h4>Coffee Break</h4>
 											<br>
-											<span>16h40 - 17h10 | B032</span>
+											<span>16h40 - 17h10 </span>
 										</td>
 									</tr>
 									<tr>
@@ -404,7 +405,7 @@
 										<th class="half-hour" scope="row">17h10</th>
 										<td class="talk" rowspan="2">
 											<a class="text-dark" href="">
-												<h4>A anunciar</h4>
+												<h4><i>A anunciar</i></h4>
 												<span></span>
 												<br>
 												<span>17h10 - 17h50 | B032</span>
@@ -416,34 +417,13 @@
 										<td></td> -->
 									</tr>
 									<tr>
-										<th class="half-hour" scope="row">17h50</th>
+										<th class="" scope="row">17h50</th>
 										<td class="talk" rowspan="2">
 											<h4><i>A anunciar</i></h4>
 											<span></span>
 											<br>
 											<span>17h50 - 18h20 | B032</span>
 										</td>
-									</tr>
-									<tr>
-										<th scope="row">18h00</th>
-										<td class="event" rowspan="4">
-											<h4><i>Sunset</i></h4>
-											<span></span>
-											<br>
-											<span>18h00 - 19h00</span>
-										</td>
-									</tr>
-										<tr>
-										<th scope="row"></th>
-										<td></td>
-									</tr>
-									<tr>
-										<th scope="row"></th>
-										<td></td>
-									</tr>
-									<tr>
-										<th scope="row"></th>
-										<td></td>
 									</tr>
 								</tbody>
 							</table>
@@ -489,7 +469,7 @@
 										</td>
 										<td class="event" rowspan="6">
 											<h4><i>A anunciar</i></h4>
-											<span>workhop</span>
+											<span>workshop</span>
 											<br>
 											<span>14h40 - 16h40</span>
 										</td>
@@ -529,7 +509,7 @@
 										<td class="event" rowspan="2">
 											<h4>Coffee Break</h4>
 											<br>
-											<span>16h40 - 17h10 | B032</span>
+											<span>16h40 - 17h10 </span>
 										</td>
 									</tr>
 									<tr>
@@ -552,8 +532,8 @@
 										<td></td>
 									</tr>
 									<tr>
-										<th class="one-hour" scope="row">17h50</th>
-										<td class="event" rowspan="4">
+										<th class="half-hour" scope="row">17h50</th>
+										<td class="event" rowspan="2">
 											<h4>cerimónia de encerramento</h4>
 											<br>
 											<span>17h50 - 18h20 | b032</span>
@@ -564,19 +544,11 @@
 										<td></td>
 									</tr>
 									<tr>
-										<th scope="row"></th>
-										<td></td>
-									</tr>
-									<tr>
-										<th scope="row"></th>
-										<td></td>
-									</tr>
-									<tr>
 										<th class="one-hour" scope="row">18h20</th>
-										<td class="event" rowspan="4">
+										<td class="event" rowspan="2">
 											<h4>porto de honra</h4>
 											<br>
-											<span>18h20 - 18h50 | b032</span>
+											<span>18h20 - 18h50 | local a anunciar</span>
 										</td>
 									</tr>
 									

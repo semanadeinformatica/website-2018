@@ -2,7 +2,7 @@
 title: Trabalhar remotamente como Engenheiro de Software
 
 speaker: Pedro Santos
-occupation: Engenheiro de Software Mobile
+occupation: Mobile Software Engineer
 workplace: Doist
 bio: O meu nome é Pedro, sou do Porto, e consegui cumprir o sonho de me tornar engenheiro de software, tendo acabado o curso na FEUP em 2015.
 
