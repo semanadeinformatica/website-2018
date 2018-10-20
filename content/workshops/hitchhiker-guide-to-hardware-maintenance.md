@@ -11,7 +11,7 @@ linkedin: https://www.linkedin.com/in/heldertavaressilva/
 
 day: 29 Outubro
 time: 15h00
-place: local a anunciar
+place: a anunciar
 ---
 
 Tens um portátil que "está lento", que "aquece muito e desliga"? Provavelmente está a precisar de manutenção. Fazer manutenção a um computador não é díficil, mas pode meter medo. Após este WorkShop o vosso computador vai funcionar como saiu da fabrica e em alguns caso até melhor.
