@@ -1,5 +1,5 @@
 ---
-title: Devops – A mean how to achieve High Performance teams.
+title: Devops – How to achieve High Performance teams.
 
 
 speaker: Pedro Nogueira 

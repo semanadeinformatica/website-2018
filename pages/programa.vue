@@ -57,10 +57,14 @@
 											<span>15h00 - 16h00 | B032</span>
 										</td>
 										<td class="event" rowspan="7">
-											<h4><i>A anunciar</i></h4>
-											<span>workshop</span>
-											<br>
-											<span>15h00 - 16h40</span>
+											<a href="/workshops/hitchhiker-guide-to-hardware-maintenance">
+												<h4>Hitchhiker Guide to Hardware Maintenance</h4>
+												<span>Hélder Silva</span>
+												<br>
+												<span>workshop</span>
+												<br>
+												<span>15h00 - 16h40 | local a anunciar</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
@@ -343,10 +347,14 @@
 											</a>
 										</td>
 										<td class="event" rowspan="9">
-											<h4><i>A anunciar</i></h4>
-											<span>workshop</span>
-											<br>
-											<span>14h00 - 16h40</span>
+											<a href="/workshops/progressive-web-app">
+												<h4>Progressive Web App - From Full Online to Full Offline</h4>
+												<span>Domingos Martins & Ricardo Soares</span>
+												<br>
+												<span>workshop</span>
+												<br>
+												<span>14h00 - 16h40 | local a anunciar</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
@@ -496,7 +504,7 @@
 										<th class="half-hour" scope="row">15h20</th>
 										<td class="talk" rowspan="2">
 											<a class="text-dark" href="/talks/devops">
-												<h4>Devops - a mean how to achieve high performance teams</h4>
+												<h4>Devops - how to achieve high performance teams</h4>
 												<span>Pedro Nogueira</span>
 												<br>
 												<span>15h20 - 16h00 | B032</span>
