@@ -447,10 +447,12 @@
 									<tr>
 										<th class="half-hour" scope="row">14h00</th>
 										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>14h00 - 14h40 | B032</span>
+											<a class="text-dark" href="/talks/thinking-serverless">
+												<h4>Thinking Serverless</h4>
+												<span>Pedro Costa</span>
+												<br>
+												<span>14h00 - 14h00 | B032</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
