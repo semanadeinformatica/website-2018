@@ -347,10 +347,14 @@
 											</a>
 										</td>
 										<td class="event" rowspan="9">
-											<h4><i>A anunciar</i></h4>
-											<span>workshop</span>
-											<br>
-											<span>14h00 - 16h40</span>
+											<a href="/workshops/progressive-web-app">
+												<h4>Progressive Web App - From Full Online to Full Offline</h4>
+												<span>Domingos Martins & Ricardo Soares</span>
+												<br>
+												<span>workshop</span>
+												<br>
+												<span>14h00 - 16h40 | local a anunciar</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
