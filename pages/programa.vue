@@ -205,11 +205,13 @@
 									<tr>
 										<th class="half-hour" scope="row">14h40</th>
 										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>14h40 - 15h20 | B032</span>
-										</td>
+											<a class="text-dark" href="/talks/from-a-concept-to-an-exceptional-product">
+												<h4>From a Concept to an Exceptional Product</h4>
+												<span>Augusto Lopes</span>
+												<br>
+												<span>14h40 - 15h20 | B032</span>
+											</a>
+										</td>									
 									</tr>
 									<tr>
 										<th scope="row"></th>
