@@ -286,11 +286,13 @@
 									</tr>
 									<tr>
 										<th class="half-hour" scope="row">17h50</th>
-										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>17h50 - 18h20 | B032</span>
+										<td class="talk" rowspan="3">
+											<a class="text-dark" href="/talks/api-day-open-architectures">
+												<h4>API Day - Open Architectures</h4>
+												<span>João Riqueza & Ernesto Costa</span>
+												<br>
+												<span>17h50 - 18h20 | B032</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
