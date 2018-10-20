@@ -6,8 +6,6 @@ occupation: Backend Developer
 workplace: PaddyPowerBetfair
 bio:  Sou recém Mestre em Engenharia Informática e de Computadores, pelo Instituto Superior Técnico, e estou a trabalhar como Backend Developer na PaddyPowerBetfair (Blip em Portugal). As minhas especializações de Mestrado foram Sistemas Distribuidos (que é o que trabalho actualmente) e cibersegurança. 
 
-
-
 img: randompic
 linkedin: https://www.linkedin.com/in/diogo-p-monteiro/
 

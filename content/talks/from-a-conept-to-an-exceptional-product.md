@@ -6,7 +6,6 @@ occupation: UX/UI Designer
 workplace: Pixelmatters
 bio: Born in Coimbra, living in Porto. UX/UI Designer at Pixelmatters since 2016, recently becoming Lead Designer at the company. Passionate for pixels and enthusiastic about new design tools and trends.
 
-
 img: randompic
 linkedin: https://www.linkedin.com/in/augusto-lopes-62321297
 

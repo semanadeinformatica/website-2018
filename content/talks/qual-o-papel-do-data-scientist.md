@@ -6,8 +6,6 @@ occupation: Data Scientist
 workplace: Talkdesk
 bio:  Licenciado em Ciências da Computação e doutorado em IA e Machine Learning. Atuando como researcher publicou um livro e diversos artigos em parceria com laboratórios de Computação e Biologia. Como Engenheiro de Software, contribuiu no desenvolvimento de um sistema de planeamento de recurso corporativo (ERP). Como Data Scientist, combina a sua experiência como engenheiro e researcher para desenvolver pipelines completos desde a extração e manipulação de dados até a distribuição em produção de modelos de Machine Learning.
 
-
-
 img: randompic
 linkedin: https://www.linkedin.com/in/danielgomesferrari/
 
