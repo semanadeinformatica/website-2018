@@ -57,10 +57,14 @@
 											<span>15h00 - 16h00 | B032</span>
 										</td>
 										<td class="event" rowspan="7">
-											<h4><i>A anunciar</i></h4>
-											<span>workshop</span>
-											<br>
-											<span>15h00 - 16h40</span>
+											<a href="/workshops/hitchhiker-guide-to-hardware-maintenance">
+												<h4>Hitchhiker Guide to Hardware Maintenance</h4>
+												<span>Hélder Silva</span>
+												<br>
+												<span>workshop</span>
+												<br>
+												<span>15h00 - 16h40 | local a anunciar</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
