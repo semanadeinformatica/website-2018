@@ -331,10 +331,12 @@
 									<tr>
 										<th class="half-hour" scope="row">14h00</th>
 										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>14h00 - 14h40 | B032</span>
+											<a class="text-dark" href="/talks/qual-o-papel-do-data-scientist">
+												<h4>Qual o papel do data scientist nas empresas?</h4>
+												<span>Daniel Ferrari</span>
+												<br>
+												<span>14h00 - 14h40 | B032</span>
+											</a>
 										</td>
 										<td class="event" rowspan="9">
 											<h4><i>A anunciar</i></h4>
