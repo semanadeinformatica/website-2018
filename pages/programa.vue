@@ -490,10 +490,14 @@
 											</a>
 										</td>
 										<td class="event" rowspan="6">
-											<h4><i>A anunciar</i></h4>
-											<span>workshop</span>
-											<br>
-											<span>14h40 - 16h40</span>
+											<a href="/workshops/building-a-serverless-app">
+												<h4> Building a serverless text-to-voice note & podcasting app</h4>
+												<span>Pedro Costa</span>
+												<br>
+												<span>workshop</span>
+												<br>
+												<span>14h40 - 16h40 | local a anunciar</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
