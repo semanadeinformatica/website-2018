@@ -417,13 +417,19 @@
 										<td></td> -->
 									</tr>
 									<tr>
-										<th class="" scope="row">17h50</th>
+										<th class="half-hour" scope="row">17h50</th>
 										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>17h50 - 18h20 | B032</span>
+											<a class="text-dark" href="/talks/scaling-with-apache-kafka">
+												<h4>Scaling with Apache Kafka</h4>
+												<span>Diogo Monteiro</span>
+												<br>
+												<span>17h50 - 18h20 | B032</span>
+											</a>
 										</td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
 									</tr>
 								</tbody>
 							</table>
