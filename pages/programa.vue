@@ -205,11 +205,13 @@
 									<tr>
 										<th class="half-hour" scope="row">14h40</th>
 										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>14h40 - 15h20 | B032</span>
-										</td>
+											<a class="text-dark" href="/talks/from-a-concept-to-an-exceptional-product">
+												<h4>From a Concept to an Exceptional Product</h4>
+												<span>Augusto Lopes</span>
+												<br>
+												<span>14h40 - 15h20 | B032</span>
+											</a>
+										</td>									
 									</tr>
 									<tr>
 										<th scope="row"></th>
@@ -284,11 +286,13 @@
 									</tr>
 									<tr>
 										<th class="half-hour" scope="row">17h50</th>
-										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>17h50 - 18h20 | B032</span>
+										<td class="talk" rowspan="3">
+											<a class="text-dark" href="/talks/api-day-open-architectures">
+												<h4>API Day - Open Architectures</h4>
+												<span>João Riqueza & Ernesto Costa</span>
+												<br>
+												<span>17h50 - 18h20 | B032</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
@@ -331,10 +335,12 @@
 									<tr>
 										<th class="half-hour" scope="row">14h00</th>
 										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>14h00 - 14h40 | B032</span>
+											<a class="text-dark" href="/talks/qual-o-papel-do-data-scientist">
+												<h4>Qual o papel do data scientist nas empresas?</h4>
+												<span>Daniel Ferrari</span>
+												<br>
+												<span>14h00 - 14h40 | B032</span>
+											</a>
 										</td>
 										<td class="event" rowspan="9">
 											<h4><i>A anunciar</i></h4>
@@ -417,13 +423,19 @@
 										<td></td> -->
 									</tr>
 									<tr>
-										<th class="" scope="row">17h50</th>
+										<th class="half-hour" scope="row">17h50</th>
 										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>17h50 - 18h20 | B032</span>
+											<a class="text-dark" href="/talks/scaling-with-apache-kafka">
+												<h4>Scaling with Apache Kafka</h4>
+												<span>Diogo Monteiro</span>
+												<br>
+												<span>17h50 - 18h20 | B032</span>
+											</a>
 										</td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
 									</tr>
 								</tbody>
 							</table>
@@ -447,10 +459,12 @@
 									<tr>
 										<th class="half-hour" scope="row">14h00</th>
 										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>14h00 - 14h40 | B032</span>
+											<a class="text-dark" href="/talks/thinking-serverless">
+												<h4>Thinking Serverless</h4>
+												<span>Pedro Costa</span>
+												<br>
+												<span>14h00 - 14h00 | B032</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
@@ -481,10 +495,12 @@
 									<tr>
 										<th class="half-hour" scope="row">15h20</th>
 										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>15h20 - 16h00 | B032</span>
+											<a class="text-dark" href="/talks/devops">
+												<h4>Devops - a mean how to achieve high performance teams</h4>
+												<span>Pedro Nogueira</span>
+												<br>
+												<span>15h20 - 16h00 | B032</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
