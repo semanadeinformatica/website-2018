@@ -10,8 +10,8 @@ bio: Pedro Nogueira, 38 anos, é Líder do programa de transformação Agile & D
 img: randompic
 linkedin: https://www.linkedin.com/in/pedro-g-nogueira
 
-day: A anunciar
-time: A anunciar
+day: 1 Novembro
+time: 15h20
 place: B032
 ---
 

@@ -493,10 +493,12 @@
 									<tr>
 										<th class="half-hour" scope="row">15h20</th>
 										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>15h20 - 16h00 | B032</span>
+											<a class="text-dark" href="/talks/devops">
+												<h4>Devops - a mean how to achieve high performance teams</h4>
+												<span>Pedro Nogueira</span>
+												<br>
+												<span>15h20 - 16h00 | B032</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
