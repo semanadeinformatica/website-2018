@@ -26,7 +26,16 @@ module.exports = {
 			'get', 
 			'getAll' 
 		]
-	}]
+	}],
+	["sessions", {
+		page: '/sessions/_session',
+		permalink: "/:slug",
+		isPost: false,
+		generate: [ 
+		'get', 
+		'getAll' 
+		]
+	}],
 	],
 	api: {
 		baseURL: 'http://localhost:8080',
