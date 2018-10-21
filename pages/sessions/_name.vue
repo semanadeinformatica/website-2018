@@ -7,16 +7,9 @@
 
       <div class="row">
         <div class="col-lg-3 my-5 pr-4 d-flex flex-column">
-          <img :src='"~/assets/img/speakers/" + session.img + ".jpg"' class="img-fluid">
+          <img :src='"~/assets/img/sessions/" + session.img + ".png"' class="img-fluid">
         </div>
         <div class="col-lg-9 mt-3 p-4">
-          <!--
-          <div class="text-lowercase">
-            <h1> {{ session.speaker }} </h1>
-            <h4 class="body-style"> {{ session.occupation }} </h4>
-            <h4 class="body-style"> {{ session.workplace }} </h4>
-          </div>
-        -->
 
          <div class="text-lowercase">
           <h1> {{ session.title }} </h1>
