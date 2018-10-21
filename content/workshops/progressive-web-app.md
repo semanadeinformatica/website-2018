@@ -11,7 +11,7 @@ bio: Martins is a software engineer currently working at Paddypower Betfair (BLI
 name2: Ricardo Soares
 bio2: Ricardo is a software developer at Blip. He is not intimidated in switching between frontend and backend technologies, without forgetting to test everything to assure the quality of his code. He believes that with an amazing team the sky is the limit.
 
-img: randompic
+img: DomingosMartins
 
 day: 31 Outubro
 time: 14h00

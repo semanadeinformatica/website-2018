@@ -1,12 +1,12 @@
 ---
-title: Hitchhiker Guide to Hardware Maintenance
+title: Hitchhiker's Guide to Hardware Maintenance
 
 speaker: Hélder Silva
 occupation: Senior Developer
 workplace: Abyssal
 bio:  Atualmente a trabalhar no Abyssal a desenvolver software para veículos subaquáticos conta com 10 anos de experiência na área engenharia de software. Com experiência em demasiadas linguagens de programação, pode dizer com confiança que as odeia a todas um pouco. Tem um problema grave com código repetido e adora fazer otimizações de código, às vezes bem inúteis. Tem também um especial apreço por hardware, principalmente por desmontar e voltar coisas que levam à questão "Hum, onde é que entrava este parafuso?"
 
-img: randompic
+img: HelderSilva-Hitchhiker
 linkedin: https://www.linkedin.com/in/heldertavaressilva/
 
 day: 29 Outubro

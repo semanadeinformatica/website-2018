@@ -58,7 +58,7 @@
 										</td>
 										<td class="event" rowspan="7">
 											<a href="/workshops/hitchhiker-guide-to-hardware-maintenance">
-												<h4>Hitchhiker Guide to Hardware Maintenance</h4>
+												<h4>Hitchhiker's Guide to Hardware Maintenance</h4>
 												<span>Hélder Silva</span>
 												<br>
 												<span>workshop</span>

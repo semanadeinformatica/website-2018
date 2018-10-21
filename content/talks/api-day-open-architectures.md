@@ -11,7 +11,7 @@ bio: O João tirou licenciatura em Engenharia Informática no ISEP, ramo de sist
 name2: Ernesto Costa 
 bio2: O Ernesto tirou a Licenciatura em Engenharia de Sistemas e Informática na Universidade do Minho em 2008. Iniciou a sua carreira profissional na empresa Wipro Retail onde se especializou na área de Integração tendo para isso trabalhado inicialmente na área de suporte. Posteriormente dedicou-se à implementação de projetos de integração em vários clientes internacionais, tais como SuperValu, Morrisons, Ahold, Despar, entre outros. Em 2014, aceitou um novo desafio na empresa Altran para se juntar à equipa de Integração da Sonae, tendo assumido funções técnicas, e algumas de gestão, em inúmeros projetos da Sonae. Desde 2017 tem estado a assumir um papel relevante na implementação da estratégia de API’s na Sonae, ao nível da sua de definição, especificação e implementação.
 
-img: randompic
+img: ErnestoCosta
 linkedin: 
 
 day: 30 Outubro
