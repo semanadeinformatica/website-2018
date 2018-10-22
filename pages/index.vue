@@ -153,6 +153,15 @@
 						</div>
 					</div>
 
+					<h3 class="text-dark pt-5 mt-5"><strong>partners</strong></h3>
+
+					<div class="sponsor-list my-4 d-flex flex-wrap align-items-center">
+						<div class="bronze-sponsor m-sm-1 m-4 mr-md-5 pr-md-5" v-for="partner in partners" :key="partner">
+							<img :src='"~/assets/img/sponsors/" + partner + ".png"' :alt='partner + " logo"'>
+						</div>
+					</div>
+
+
 				</div>
 			</div>
 		</section>
@@ -195,7 +204,10 @@
 
 				silver: ['aptiv', 'integer', 'itsector', 'primavera', 'semasio', 'lifeonmars'],
 
-				bronze: ['fraunhofer', 'rumos'] 
+				bronze: ['fraunhofer', 'rumos', 'criticalsoftware'],
+
+				partners: ['scaleupporto']
+
 			}
 		}
 	}
@@ -295,8 +307,10 @@ main {
 	}
 
 	.bronze-sponsor img {
-		max-height: 2.5em;
+		max-width: 7.5em; 
+		max-height: 5em;
 	}
+
 }
 
 @media all and (max-width: 500px) {
