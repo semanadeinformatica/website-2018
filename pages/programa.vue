@@ -29,6 +29,34 @@
 								</thead>
 								<tbody>
 									<tr>
+										<th class="one-hour" scope="row">11h00</th>
+										<td class="event" rowspan="6" colspan="2">
+											<h4>Check-in</h4>
+											<br>
+											<span>11h00 - 17h00 | Corredor do Anfiteatro Nobre</span>
+										</td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
 										<th class="one-hour" scope="row">14h00</th>
 										<td class="event" rowspan="4">
 											<h4>Cerimónia de Abertura</h4>
@@ -121,9 +149,11 @@
 											</a>
 										</td>
 										<td class="event" rowspan="9">
-											<h4>Pitch</h4>
-											<br>
-											<span>17h10 - 19h10 | local a anunciar</span>
+											<a href="/sessions/pitch-de-oportunidades">
+												<h4>Pitch de  Oportunidades</h4>
+												<br>
+												<span>17h10 - 19h10 | local a anunciar</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
@@ -278,10 +308,12 @@
 											<span>17h10 - 17h50 | B032</span>
 										</td>
 										<td class="event" rowspan="8">
-											<h4>Sessão de Networking</h4>
-											<span></span>
-											<br>
-											<span>17h10 - 19h10 | local a anunciar</span>
+											<a href="/sessions/sessao-de-networking">
+												<h4>Sessão de Networking</h4>
+												<span></span>
+												<br>
+												<span>17h10 - 19h10 | local a anunciar</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
@@ -471,7 +503,7 @@
 												<h4>Thinking Serverless</h4>
 												<span>Pedro Costa</span>
 												<br>
-												<span>14h00 - 14h00 | B032</span>
+												<span>14h00 - 14h40 | B032</span>
 											</a>
 										</td>
 									</tr>
