@@ -18,7 +18,7 @@
 
         <nuxtent-body class="mt-4 lead" :body="session.body" />
 
-        <h4><i>Inscrições abertas brevemente</i></h4>
+        <h4><a class="btn btn-lg btn-primary " :href='session.tickets'>Inscrições</a></h4>
       </div>
     </div>
 

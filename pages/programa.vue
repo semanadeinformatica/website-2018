@@ -503,7 +503,7 @@
 												<h4>Thinking Serverless</h4>
 												<span>Pedro Costa</span>
 												<br>
-												<span>14h00 - 14h00 | B032</span>
+												<span>14h00 - 14h40 | B032</span>
 											</a>
 										</td>
 									</tr>
