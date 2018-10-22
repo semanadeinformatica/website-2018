@@ -81,9 +81,10 @@ module.exports = {
       routes: async function (callback) {
         await axios.all([
           axios.get('http://localhost:8080/content-api/talks'),
-          axios.get('http://localhost:8080/content-api/workshops')
+          axios.get('http://localhost:8080/content-api/workshops'),
+          axios.get('http://localhost:8080/content-api/sessions')
           ])
-        .then(axios.spread(function (talks, workshops) {
+        .then(axios.spread(function (talks, workshops, sessions) {
           let result = [];
           for(let data of talks.data) {
             if(data != null) {
@@ -92,6 +93,12 @@ module.exports = {
           }
 
           for(let data of workshops.data) {
+            if(data != null) {
+              result.push(data.path);
+            }
+          }
+
+          for(let data of sessions.data) {
             if(data != null) {
               result.push(data.path);
             }
