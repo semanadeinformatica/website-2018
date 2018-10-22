@@ -107,11 +107,11 @@
 				<div class="row">	
 					<div v-for='talk in contentPreview' :key='talk.title' class="col-md-6 col-lg-3 text-lowercase">
 						<div class="m-2">
-							<nuxt-link :to='talk.path'>
+							<a :href='talk.path'>
 							<img :src='"~/assets/img/speakers/" + talk.img + ".jpg"' class="my-2 img-fluid">
 							<h3>{{ talk.speaker }}</h3>
 							<p class="lead">{{ talk.occupation }} @ {{ talk.workplace }}</p>
-							</nuxt-link>
+							</a>
 						</div>
 					</div>
 				</div>
