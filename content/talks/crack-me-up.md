@@ -10,7 +10,7 @@ img: AndreBaptista
 linkedin: https://www.linkedin.com/in/0xacb/
 
 day: 1 Novembro
-time: 14h30
+time: 14h40
 place: B032
 ---
 

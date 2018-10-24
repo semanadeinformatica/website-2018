@@ -171,9 +171,9 @@
 										<tr>
 										<th class="half-hour" scope="row">18h10</th>
 										<td class="talk" rowspan="3">
-											<a class="text-dark" href="">
-												<h4><i>A anunciar</i></h4>
-												<span></span>
+											<a class="text-dark" href="/talks/creating-new-digital-realitities">
+												<h4>Creating New Digital Realities - How VR and AR become XR</h4>
+												<span>Rui Guedes</span>
 												<br>
 												<span>18h10 - 18h40 | B032</span>
 											</a>
@@ -226,10 +226,14 @@
 											<span>14h00 - 14h40 | B032</span>
 										</td>
 										<td class="event" rowspan="8">
-											<h4><i>A anunciar</i></h4>
+											<a href="/workshops/build-a-mobile-app-in-2-hours">
+											<h4><i>Build a Mobile App in 2 Hours</i></h4>
+											<span>Bruno Grácio &  Vitor Oliveira</span>
+											<br>
 											<span>workshop</span>
 											<br>
-											<span>14h00 - 16h40</span>
+											<span>14h00 - 16h40 | local a anunciar</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
@@ -254,10 +258,12 @@
 									<tr>
 										<th class="half-hour" scope="row">15h20</th>
 										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
+											<a class="text-dark" href="/talks/transforming-mobility">
+											<h4>Transforming Mobility</h4>
+											<span>José Carreiras</span>
 											<br>
 											<span>15h20 - 16h00 | B032</span>
+											</a>
 										</td>
 									</tr>
 									<!-- <tr>
@@ -450,9 +456,9 @@
 									<tr>
 										<th class="half-hour" scope="row">17h10</th>
 										<td class="talk" rowspan="2">
-											<a class="text-dark" href="">
-												<h4><i>A anunciar</i></h4>
-												<span></span>
+											<a class="text-dark" href="/talks/data-science">
+												<h4><i>Data Science</i></h4>
+												<span>Daniel Moura</span>
 												<br>
 												<span>17h10 - 17h50 | B032</span>
 											</a>
@@ -554,10 +560,12 @@
 									<tr>
 										<th class="half-hour" scope="row">16h00</th>
 										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
+											<a class="text-dark" href="/talks/two-facts-of-line-in-testing">
+											<h4><i>Two facts of life in testing, death and you are the blocker</i></h4>
+											<span>Dara McGann</span>
 											<br>
 											<span>16h00 - 16h40 | B032</span>
+											</a>
 										</td>
 									</tr>
 									<tr>

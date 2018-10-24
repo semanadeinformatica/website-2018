@@ -10,7 +10,7 @@ img: MiguelOliveira
 linkedin: https://www.linkedin.com/in/miguelpoliveira/
 
 day: 29 Outubro
-time: 15h00
+time: 17h10
 place: B032 
 ---
 

@@ -12,7 +12,7 @@ website: https://davidsopas.com
 twitter: https://twitter.com/dsopas
 
 day: 31 Outubro
-time: 14h30
+time: 14h40
 place: B032
 ---
 
