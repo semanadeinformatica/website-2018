@@ -3,7 +3,7 @@ title: Two facts of life in testing, death and you are the blocker
 speaker: Dara McGann
 occupation: Lead Software Development Engineer in Test
 workplace: Hostelworld.com
-Bio: Dara McGann is Hostelworld.com 's Lead QA Automation Engineer, and has been testing web, mobile and API's for the past five years. In recent times, Dara has lead the companies errors in DevOps and CI/CD
+bio: Dara McGann is Hostelworld.com 's Lead QA Automation Engineer, and has been testing web, mobile and API's for the past five years. In recent times, Dara has lead the companies errors in DevOps and CI/CD
 img: DaraMcGann
 linkedin: https://www.linkedin.com/in/dara-mcgann/
 
