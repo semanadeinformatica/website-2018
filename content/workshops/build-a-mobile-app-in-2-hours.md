@@ -15,6 +15,8 @@ bio2: Vitor Oliveira, trabalha na área de mobile acerca de 8 anos, durante este
 img: BrunoGracio
 img2: VitorOliveira
 
+tickets: https://www.eventbrite.com/e/build-a-mobile-app-in-2-hours-tickets-51766145936
+
 day: 30 Outubro
 time: 14h00
 place: a anunciar

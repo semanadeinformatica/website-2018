@@ -8,6 +8,7 @@ bio:  Atualmente a trabalhar no Abyssal a desenvolver software para veículos su
 
 img: HelderSilva-Hitchhiker
 linkedin: https://www.linkedin.com/in/heldertavaressilva/
+tickets: https://www.eventbrite.com/e/hitchhikers-guide-to-hardware-maintenance-tickets-51765175032
 
 day: 29 Outubro
 time: 15h00

@@ -15,6 +15,8 @@ bio2: Ricardo is a software developer at Blip. He is not intimidated in switchin
 img: DomingosMartins
 img2: RicardoSoares
 
+tickets: https://www.eventbrite.com/e/progressive-web-app-from-full-online-to-full-offline-tickets-51766561178
+
 day: 31 Outubro
 time: 14h00
 place: a anunciar

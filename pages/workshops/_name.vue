@@ -46,6 +46,9 @@
         </div>
 
         <nuxtent-body class="mt-4 lead" :body="workshop.body" />
+
+        <h4 v-if="workshop.tickets"><a class="btn btn-lg btn-primary " :href='workshop.tickets'>Inscrições</a></h4>
+
       </div>
     </div>
 
