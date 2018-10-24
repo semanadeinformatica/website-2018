@@ -8,6 +8,7 @@ bio:  Pedro Costa, encontra-se no último ano no MIEIC na FEUP e atualmente a re
 
 img: PedroCosta
 linkedin: https://www.linkedin.com/in/pedrodcosta/
+tickets: https://www.eventbrite.com/e/building-a-serverless-text-to-voice-note-podcasting-app-tickets-51765760784
 
 day: 1 Novembro
 time: 14h40

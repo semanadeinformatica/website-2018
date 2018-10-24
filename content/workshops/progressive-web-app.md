@@ -1,17 +1,21 @@
 ---
 title: Progressive Web App - From Full Online to Full Offline
 
-speaker: Domingos Martins & Ricardo Soares 
-occupation: Software Engineers
+twoSpeakers: true
+speaker: Domingos Martins 
+speaker2: Ricardo Soares
+occupation: Software Engineer
+occupation2: Software Engineer
 workplace: Blip
 
-name1: Domingos Martins
 bio: Martins is a software engineer currently working at Paddypower Betfair (BLIP). He is enthusiastic about the future of the web, that's why his main focus is building faster JS applications and experimenting with new languages and frameworks.
 
-name2: Ricardo Soares
 bio2: Ricardo is a software developer at Blip. He is not intimidated in switching between frontend and backend technologies, without forgetting to test everything to assure the quality of his code. He believes that with an amazing team the sky is the limit.
 
 img: DomingosMartins
+img2: RicardoSoares
+
+tickets: https://www.eventbrite.com/e/progressive-web-app-from-full-online-to-full-offline-tickets-51766561178
 
 day: 31 Outubro
 time: 14h00

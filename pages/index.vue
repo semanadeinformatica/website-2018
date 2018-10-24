@@ -105,15 +105,26 @@
 			<div class="container mt-5">
 
 				<div class="row">	
-					<div v-for='talk in contentPreview' :key='talk.title' class="col-md-6 col-lg-3 text-lowercase">
-						<div class="m-2">
-							<a :href='talk.path'>
-							<img :src='"~/assets/img/speakers/" + talk.img + ".jpg"' class="my-2 img-fluid">
-							<h3>{{ talk.speaker }}</h3>
-							<p class="lead">{{ talk.occupation }} @ {{ talk.workplace }}</p>
-							</a>
+					<template v-for='talk in contentPreview'>
+						<div :key='talk.speaker' class="col-md-6 col-lg-3 text-lowercase">
+							<div class="m-2">
+								<a :href='talk.path'>
+									<img :src='"~/assets/img/speakers/" + talk.img + ".jpg"' class="my-2 img-fluid">
+									<h3>{{ talk.speaker }}</h3>
+									<p class="lead">{{ talk.occupation }} @ {{ talk.workplace }}</p>
+								</a>
+							</div>
 						</div>
-					</div>
+						<div :key='talk.speaker2' v-if="talk.twoSpeakers" class="col-md-6 col-lg-3 text-lowercase">
+							<div class="m-2">
+								<a :href='talk.path'>
+									<img :src='"~/assets/img/speakers/" + talk.img2 + ".jpg"' class="my-2 img-fluid">
+									<h3>{{ talk.speaker2 }}</h3>
+									<p class="lead">{{ talk.occupation2 }} @ {{ talk.workplace }}</p>
+								</a>
+							</div>	
+						</div>
+					</template>
 				</div>
 			</div>
 		</section>

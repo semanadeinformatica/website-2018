@@ -77,19 +77,22 @@
 										<td></td>
 									</tr>
 									<tr>
-										<th class="one-hour" scope="row">15h00</th>
+										<th scope="row">15h00</th>
 										<td class="talk" rowspan="4">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>15h00 - 16h00 | B032</span>
+											<a class="text-dark" href="/talks/software-engineering-at-outsystems">
+												<h4>Software Engineering at OutSystems</h4>
+												<span>Ricardo Araújo e Hélder Gonçalves</span>
+												<br>
+												<span>15h00 - 16h00 | B032</span>
+												<br>
+											</a>
 										</td>
 										<td class="event" rowspan="7">
 											<a href="/workshops/hitchhiker-guide-to-hardware-maintenance">
 												<h4>Hitchhiker's Guide to Hardware Maintenance</h4>
 												<span>Hélder Silva</span>
 												<br>
-												<span>workshop</span>
+												workshop
 												<br>
 												<span>15h00 - 16h40 | local a anunciar</span>
 											</a>
@@ -171,9 +174,9 @@
 										<tr>
 										<th class="half-hour" scope="row">18h10</th>
 										<td class="talk" rowspan="3">
-											<a class="text-dark" href="">
-												<h4><i>A anunciar</i></h4>
-												<span></span>
+											<a class="text-dark" href="/talks/creating-new-digital-realitities">
+												<h4>Creating New Digital Realities - How VR and AR become XR</h4>
+												<span>Rui Guedes</span>
 												<br>
 												<span>18h10 - 18h40 | B032</span>
 											</a>
@@ -226,10 +229,14 @@
 											<span>14h00 - 14h40 | B032</span>
 										</td>
 										<td class="event" rowspan="8">
-											<h4><i>A anunciar</i></h4>
+											<a href="/workshops/build-a-mobile-app-in-2-hours">
+											<h4>Build a Mobile App in 2 Hours</h4>
+											<span>Bruno Grácio &  Vitor Oliveira</span>
+											<br>
 											<span>workshop</span>
 											<br>
-											<span>14h00 - 16h40</span>
+											<span>14h00 - 16h40 | local a anunciar</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
@@ -254,10 +261,12 @@
 									<tr>
 										<th class="half-hour" scope="row">15h20</th>
 										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
+											<a class="text-dark" href="/talks/transforming-mobility">
+											<h4>Transforming Mobility</h4>
+											<span>José Carreiras</span>
 											<br>
 											<span>15h20 - 16h00 | B032</span>
+											</a>
 										</td>
 									</tr>
 									<!-- <tr>
@@ -302,10 +311,12 @@
 									<tr>
 										<th class="half-hour" scope="row">17h10</th>
 										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>17h10 - 17h50 | B032</span>
+											<a class="text-dark" href="/talks/blockchain-101">
+												<h4>Blockhain 101 - Decentralization, Cryptoeconomics, and ICOs</h4>
+												<span>Júlio Santos</span>
+												<br>
+												<span>17h10 - 17h50 | B032</span>
+											</a>
 										</td>
 										<td class="event" rowspan="8">
 											<a href="/sessions/sessao-de-networking">
@@ -450,9 +461,9 @@
 									<tr>
 										<th class="half-hour" scope="row">17h10</th>
 										<td class="talk" rowspan="2">
-											<a class="text-dark" href="">
-												<h4><i>A anunciar</i></h4>
-												<span></span>
+											<a class="text-dark" href="/talks/data-science">
+												<h4>Data Science?</h4>
+												<span>Daniel Moura</span>
 												<br>
 												<span>17h10 - 17h50 | B032</span>
 											</a>
@@ -554,10 +565,12 @@
 									<tr>
 										<th class="half-hour" scope="row">16h00</th>
 										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
+											<a class="text-dark" href="/talks/two-facts-of-line-in-testing">
+											<h4>Two facts of life in testing, death and you are the blocker</h4>
+											<span>Dara McGann</span>
 											<br>
 											<span>16h00 - 16h40 | B032</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
