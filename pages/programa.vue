@@ -561,7 +561,7 @@
 										<th class="half-hour" scope="row">16h00</th>
 										<td class="talk" rowspan="2">
 											<a class="text-dark" href="/talks/two-facts-of-line-in-testing">
-											<h4><i>Two facts of life in testing, death and you are the blocker</i></h4>
+											<h4>Two facts of life in testing, death and you are the blocker</h4>
 											<span>Dara McGann</span>
 											<br>
 											<span>16h00 - 16h40 | B032</span>
