@@ -10,7 +10,7 @@ img: MarceloLebre
 linkedin: https://www.linkedin.com/in/marcelolebre/
  
 day: 29 Outubro
-time: 17h00
+time: 16h00
 place: B032
 ---
 

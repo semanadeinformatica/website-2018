@@ -105,15 +105,26 @@
 			<div class="container mt-5">
 
 				<div class="row">	
-					<div v-for='talk in contentPreview' :key='talk.title' class="col-md-6 col-lg-3 text-lowercase">
-						<div class="m-2">
-							<nuxt-link :to='talk.path'>
-							<img :src='"~/assets/img/speakers/" + talk.img + ".jpg"' class="my-2 img-fluid">
-							<h3>{{ talk.speaker }}</h3>
-							<p class="lead">{{ talk.occupation }} @ {{ talk.workplace }}</p>
-							</nuxt-link>
+					<template v-for='talk in contentPreview'>
+						<div :key='talk.speaker' class="col-md-6 col-lg-3 text-lowercase">
+							<div class="m-2">
+								<a :href='talk.path'>
+									<img :src='"~/assets/img/speakers/" + talk.img + ".jpg"' class="my-2 img-fluid">
+									<h3>{{ talk.speaker }}</h3>
+									<p class="lead">{{ talk.occupation }} @ {{ talk.workplace }}</p>
+								</a>
+							</div>
 						</div>
-					</div>
+						<div :key='talk.speaker2' v-if="talk.twoSpeakers" class="col-md-6 col-lg-3 text-lowercase">
+							<div class="m-2">
+								<a :href='talk.path'>
+									<img :src='"~/assets/img/speakers/" + talk.img2 + ".jpg"' class="my-2 img-fluid">
+									<h3>{{ talk.speaker2 }}</h3>
+									<p class="lead">{{ talk.occupation2 }} @ {{ talk.workplace }}</p>
+								</a>
+							</div>	
+						</div>
+					</template>
 				</div>
 			</div>
 		</section>
@@ -152,6 +163,15 @@
 							<img :src='"~/assets/img/sponsors/" + sponsor + ".png"' :alt='sponsor + " logo"'>
 						</div>
 					</div>
+
+					<h3 class="text-dark pt-5 mt-5"><strong>partners</strong></h3>
+
+					<div class="sponsor-list my-4 d-flex flex-wrap align-items-center">
+						<div class="bronze-sponsor m-sm-1 m-4 mr-md-5 pr-md-5" v-for="partner in partners" :key="partner">
+							<img :src='"~/assets/img/sponsors/" + partner + ".png"' :alt='partner + " logo"'>
+						</div>
+					</div>
+
 
 				</div>
 			</div>
@@ -195,7 +215,10 @@
 
 				silver: ['aptiv', 'integer', 'itsector', 'primavera', 'semasio', 'lifeonmars'],
 
-				bronze: ['fraunhofer', 'rumos'] 
+				bronze: ['fraunhofer', 'rumos', 'criticalsoftware'],
+
+				partners: ['scaleupporto']
+
 			}
 		}
 	}
@@ -295,8 +318,10 @@ main {
 	}
 
 	.bronze-sponsor img {
-		max-height: 2.5em;
+		max-width: 7.5em; 
+		max-height: 5em;
 	}
+
 }
 
 @media all and (max-width: 500px) {

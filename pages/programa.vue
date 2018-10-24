@@ -29,6 +29,34 @@
 								</thead>
 								<tbody>
 									<tr>
+										<th class="one-hour" scope="row">11h00</th>
+										<td class="event" rowspan="6" colspan="2">
+											<h4>Check-in</h4>
+											<br>
+											<span>11h00 - 17h00 | Corredor do Anfiteatro Nobre</span>
+										</td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
+									</tr>
+									<tr>
 										<th class="one-hour" scope="row">14h00</th>
 										<td class="event" rowspan="4">
 											<h4>Cerimónia de Abertura</h4>
@@ -49,18 +77,25 @@
 										<td></td>
 									</tr>
 									<tr>
-										<th class="one-hour" scope="row">15h00</th>
+										<th scope="row">15h00</th>
 										<td class="talk" rowspan="4">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>15h00 - 16h00 | B032</span>
+											<a class="text-dark" href="/talks/software-engineering-at-outsystems">
+												<h4>Software Engineering at OutSystems</h4>
+												<span>Ricardo Araújo e Hélder Gonçalves</span>
+												<br>
+												<span>15h00 - 16h00 | B032</span>
+												<br>
+											</a>
 										</td>
 										<td class="event" rowspan="7">
-											<h4><i>A anunciar</i></h4>
-											<span>workshop</span>
-											<br>
-											<span>15h00 - 16h40</span>
+											<a href="/workshops/hitchhiker-guide-to-hardware-maintenance">
+												<h4>Hitchhiker's Guide to Hardware Maintenance</h4>
+												<span>Hélder Silva</span>
+												<br>
+												workshop
+												<br>
+												<span>15h00 - 16h40 | local a anunciar</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
@@ -117,9 +152,11 @@
 											</a>
 										</td>
 										<td class="event" rowspan="9">
-											<h4>Pitch</h4>
-											<br>
-											<span>17h10 - 19h10 | local a anunciar</span>
+											<a href="/sessions/pitch-de-oportunidades">
+												<h4>Pitch de  Oportunidades</h4>
+												<br>
+												<span>17h10 - 19h10 | local a anunciar</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
@@ -137,9 +174,9 @@
 										<tr>
 										<th class="half-hour" scope="row">18h10</th>
 										<td class="talk" rowspan="3">
-											<a class="text-dark" href="">
-												<h4><i>A anunciar</i></h4>
-												<span></span>
+											<a class="text-dark" href="/talks/creating-new-digital-realitities">
+												<h4>Creating New Digital Realities - How VR and AR become XR</h4>
+												<span>Rui Guedes</span>
 												<br>
 												<span>18h10 - 18h40 | B032</span>
 											</a>
@@ -192,10 +229,14 @@
 											<span>14h00 - 14h40 | B032</span>
 										</td>
 										<td class="event" rowspan="8">
-											<h4><i>A anunciar</i></h4>
+											<a href="/workshops/build-a-mobile-app-in-2-hours">
+											<h4>Build a Mobile App in 2 Hours</h4>
+											<span>Bruno Grácio &  Vitor Oliveira</span>
+											<br>
 											<span>workshop</span>
 											<br>
-											<span>14h00 - 16h40</span>
+											<span>14h00 - 16h40 | local a anunciar</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
@@ -205,11 +246,13 @@
 									<tr>
 										<th class="half-hour" scope="row">14h40</th>
 										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>14h40 - 15h20 | B032</span>
-										</td>
+											<a class="text-dark" href="/talks/from-a-concept-to-an-exceptional-product">
+												<h4>From a Concept to an Exceptional Product</h4>
+												<span>Augusto Lopes</span>
+												<br>
+												<span>14h40 - 15h20 | B032</span>
+											</a>
+										</td>									
 									</tr>
 									<tr>
 										<th scope="row"></th>
@@ -218,10 +261,12 @@
 									<tr>
 										<th class="half-hour" scope="row">15h20</th>
 										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
+											<a class="text-dark" href="/talks/transforming-mobility">
+											<h4>Transforming Mobility</h4>
+											<span>José Carreiras</span>
 											<br>
 											<span>15h20 - 16h00 | B032</span>
+											</a>
 										</td>
 									</tr>
 									<!-- <tr>
@@ -266,16 +311,20 @@
 									<tr>
 										<th class="half-hour" scope="row">17h10</th>
 										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>17h10 - 17h50 | B032</span>
+											<a class="text-dark" href="/talks/blockchain-101">
+												<h4>Blockhain 101 - Decentralization, Cryptoeconomics, and ICOs</h4>
+												<span>Júlio Santos</span>
+												<br>
+												<span>17h10 - 17h50 | B032</span>
+											</a>
 										</td>
 										<td class="event" rowspan="8">
-											<h4>Sessão de Networking</h4>
-											<span></span>
-											<br>
-											<span>17h10 - 19h10 | local a anunciar</span>
+											<a href="/sessions/sessao-de-networking">
+												<h4>Sessão de Networking</h4>
+												<span></span>
+												<br>
+												<span>17h10 - 19h10 | local a anunciar</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
@@ -284,11 +333,13 @@
 									</tr>
 									<tr>
 										<th class="half-hour" scope="row">17h50</th>
-										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>17h50 - 18h20 | B032</span>
+										<td class="talk" rowspan="3">
+											<a class="text-dark" href="/talks/api-day-open-architectures">
+												<h4>API Day - Open Architectures</h4>
+												<span>João Riqueza & Ernesto Costa</span>
+												<br>
+												<span>17h50 - 18h20 | B032</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
@@ -331,16 +382,22 @@
 									<tr>
 										<th class="half-hour" scope="row">14h00</th>
 										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>14h00 - 14h40 | B032</span>
+											<a class="text-dark" href="/talks/qual-o-papel-do-data-scientist">
+												<h4>Qual o papel do data scientist nas empresas?</h4>
+												<span>Daniel Ferrari</span>
+												<br>
+												<span>14h00 - 14h40 | B032</span>
+											</a>
 										</td>
 										<td class="event" rowspan="9">
-											<h4><i>A anunciar</i></h4>
-											<span>workshop</span>
-											<br>
-											<span>14h00 - 16h40</span>
+											<a href="/workshops/progressive-web-app">
+												<h4>Progressive Web App - From Full Online to Full Offline</h4>
+												<span>Domingos Martins & Ricardo Soares</span>
+												<br>
+												<span>workshop</span>
+												<br>
+												<span>14h00 - 16h40 | local a anunciar</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
@@ -404,9 +461,9 @@
 									<tr>
 										<th class="half-hour" scope="row">17h10</th>
 										<td class="talk" rowspan="2">
-											<a class="text-dark" href="">
-												<h4><i>A anunciar</i></h4>
-												<span></span>
+											<a class="text-dark" href="/talks/data-science">
+												<h4>Data Science?</h4>
+												<span>Daniel Moura</span>
 												<br>
 												<span>17h10 - 17h50 | B032</span>
 											</a>
@@ -417,13 +474,19 @@
 										<td></td> -->
 									</tr>
 									<tr>
-										<th class="" scope="row">17h50</th>
+										<th class="half-hour" scope="row">17h50</th>
 										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>17h50 - 18h20 | B032</span>
+											<a class="text-dark" href="/talks/scaling-with-apache-kafka">
+												<h4>Scaling with Apache Kafka</h4>
+												<span>Diogo Monteiro</span>
+												<br>
+												<span>17h50 - 18h20 | B032</span>
+											</a>
 										</td>
+									</tr>
+									<tr>
+										<th scope="row"></th>
+										<td></td>
 									</tr>
 								</tbody>
 							</table>
@@ -447,10 +510,12 @@
 									<tr>
 										<th class="half-hour" scope="row">14h00</th>
 										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>14h00 - 14h40 | B032</span>
+											<a class="text-dark" href="/talks/thinking-serverless">
+												<h4>Thinking Serverless</h4>
+												<span>Pedro Costa</span>
+												<br>
+												<span>14h00 - 14h40 | B032</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
@@ -468,10 +533,14 @@
 											</a>
 										</td>
 										<td class="event" rowspan="6">
-											<h4><i>A anunciar</i></h4>
-											<span>workshop</span>
-											<br>
-											<span>14h40 - 16h40</span>
+											<a href="/workshops/building-a-serverless-app">
+												<h4> Building a serverless text-to-voice note & podcasting app</h4>
+												<span>Pedro Costa</span>
+												<br>
+												<span>workshop</span>
+												<br>
+												<span>14h40 - 16h40 | local a anunciar</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
@@ -481,10 +550,12 @@
 									<tr>
 										<th class="half-hour" scope="row">15h20</th>
 										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>15h20 - 16h00 | B032</span>
+											<a class="text-dark" href="/talks/devops">
+												<h4>Devops - how to achieve high performance teams</h4>
+												<span>Pedro Nogueira</span>
+												<br>
+												<span>15h20 - 16h00 | B032</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
@@ -494,10 +565,12 @@
 									<tr>
 										<th class="half-hour" scope="row">16h00</th>
 										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
+											<a class="text-dark" href="/talks/two-facts-of-line-in-testing">
+											<h4>Two facts of life in testing, death and you are the blocker</h4>
+											<span>Dara McGann</span>
 											<br>
 											<span>16h00 - 16h40 | B032</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
