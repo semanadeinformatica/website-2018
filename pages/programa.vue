@@ -311,10 +311,12 @@
 									<tr>
 										<th class="half-hour" scope="row">17h10</th>
 										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>17h10 - 17h50 | B032</span>
+											<a class="text-dark" href="/talks/blockchain-101">
+												<h4>Blockhain 101 - Decentralization, Cryptoeconomics, and ICOs</h4>
+												<span>Júlio Santos</span>
+												<br>
+												<span>17h10 - 17h50 | B032</span>
+											</a>
 										</td>
 										<td class="event" rowspan="8">
 											<a href="/sessions/sessao-de-networking">
