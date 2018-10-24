@@ -6,8 +6,19 @@
     <div class="container">
 
       <div class="row">
-        <div class="col-lg-3 my-5 pr-4 d-flex flex-column">
-          <img :src='"~/assets/img/speakers/" + talk.img + ".jpg"' class="img-fluid">
+        <div class="col-lg-3 mt-5 mb-2 pr-4 d-flex flex-column">
+          <div v-if='talk.twoSpeakers' class="d-flex flex-md-column">
+            <div>
+              <img :src='"~/assets/img/speakers/" + talk.img + ".jpg"' class="m-1 img-fluid">
+            </div>
+            <div>
+              <img :src='"~/assets/img/speakers/" + talk.img2 + ".jpg"' class="m-1 img-fluid">
+            </div>
+          </div>
+          <div v-else>
+            <img :src='"~/assets/img/speakers/" + talk.img + ".jpg"' class="img-fluid">
+          </div>
+
           <div class="ml-auto mt-2">
             <a class="ml-2" v-if='talk.website' :href='talk.website'><i class="fas fa-external-link-square-alt fa-2x"></i></a>
             <a class="ml-2" v-if='talk.linkedin' :href='talk.linkedin'><i class="fab fa-linkedin fa-2x"></i></a>
@@ -16,17 +27,17 @@
         </div>
         <div class="col-lg-9 mt-3 p-4">
           <div class="text-lowercase">
-            <h1> {{ talk.speaker }} </h1>
+            <h1> {{ talk.speaker + talk.twoSpeakers ? talk.speaker2 : '' }} </h1>
             <h4 class="body-style"> {{ talk.occupation }} </h4>
             <h4 class="body-style"> {{ talk.workplace }} </h4>
           </div>
 
           <p class="lead mt-4">
-            <span v-if='talk.name1' class="text-strong">{{ talk.name1 }}<br></span>
+            <span v-if='talk.twoSpeakers' class="text-strong">{{ talk.speaker }}<br></span>
             {{ talk.bio }}
           </p>
           <p v-if='talk.bio2' class="lead mt-4">
-           <span class="text-strong">{{ talk.name2 }}</span><br>
+           <span class="text-strong">{{ talk.speaker2 }}</span><br>
          {{ talk.bio2 }}</p>
 
          <div class="text-lowercase">
