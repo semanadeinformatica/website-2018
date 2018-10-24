@@ -77,19 +77,22 @@
 										<td></td>
 									</tr>
 									<tr>
-										<th class="one-hour" scope="row">15h00</th>
+										<th scope="row">15h00</th>
 										<td class="talk" rowspan="4">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>15h00 - 16h00 | B032</span>
+											<a class="text-dark" href="/talks/software-engineering-at-outsystems">
+												<h4>Software Engineering at OutSystems</h4>
+												<span>Ricardo Araújo e Hélder Gonçalves</span>
+												<br>
+												<span>15h00 - 16h00 | B032</span>
+												<br>
+											</a>
 										</td>
 										<td class="event" rowspan="7">
 											<a href="/workshops/hitchhiker-guide-to-hardware-maintenance">
 												<h4>Hitchhiker's Guide to Hardware Maintenance</h4>
 												<span>Hélder Silva</span>
 												<br>
-												<span>workshop</span>
+												workshop
 												<br>
 												<span>15h00 - 16h40 | local a anunciar</span>
 											</a>

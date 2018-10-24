@@ -12,8 +12,8 @@ bio: O Bruno está sempre a cozinhar algo. Ou um jogo de futebol com amigos, ou 
 
 bio2: Vitor Oliveira, trabalha na área de mobile acerca de 8 anos, durante este período participou em múltiplos projectos mobile para Android e iOS. Em 2015 começou a colaborar com a OutSystems na área de mobile na equipa de experts do departamento de serviços. Atualmente faz parte do departamento de R&D da OutSystems na equipa de Mobile do produto. 
 
-img: randompic
-img2: randompic
+img: BrunoGracio
+img2: VitorOliveira
 
 day: 30 Outubro
 time: 14h00
