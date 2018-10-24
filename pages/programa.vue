@@ -226,10 +226,14 @@
 											<span>14h00 - 14h40 | B032</span>
 										</td>
 										<td class="event" rowspan="8">
-											<h4><i>A anunciar</i></h4>
+											<a href="/workshops/build-a-mobile-app-in-2-hours">
+											<h4><i>Build a Mobile App in 2 Hours</i></h4>
+											<span>Bruno Grácio &  Vitor Oliveira</span>
+											<br>
 											<span>workshop</span>
 											<br>
-											<span>14h00 - 16h40</span>
+											<span>14h00 - 16h40 | local a anunciar</span>
+											</a>
 										</td>
 									</tr>
 									<tr>
@@ -254,10 +258,12 @@
 									<tr>
 										<th class="half-hour" scope="row">15h20</th>
 										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
+											<a class="text-dark" href="/talks/transforming-mobility">
+											<h4>Transforming Mobility</h4>
+											<span>José Carreiras</span>
 											<br>
 											<span>15h20 - 16h00 | B032</span>
+											</a>
 										</td>
 									</tr>
 									<!-- <tr>
@@ -450,9 +456,9 @@
 									<tr>
 										<th class="half-hour" scope="row">17h10</th>
 										<td class="talk" rowspan="2">
-											<a class="text-dark" href="">
-												<h4><i>A anunciar</i></h4>
-												<span></span>
+											<a class="text-dark" href="/talks/data-science">
+												<h4><i>Data Science</i></h4>
+												<span>Daniel Moura</span>
 												<br>
 												<span>17h10 - 17h50 | B032</span>
 											</a>

@@ -16,7 +16,7 @@ linkedin: https://www.linkedin.com/in/lfacc/
 website: https://lfac.pt
 
 day: 31 Outubro
-time: 15h15
+time: 15h40
 place: B032
 ---
 
