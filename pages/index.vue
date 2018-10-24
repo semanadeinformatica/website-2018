@@ -120,7 +120,7 @@
 								<a :href='talk.path'>
 									<img :src='"~/assets/img/speakers/" + talk.img2 + ".jpg"' class="my-2 img-fluid">
 									<h3>{{ talk.speaker2 }}</h3>
-									<p class="lead">{{ talk.occupation }} @ {{ talk.workplace }}</p>
+									<p class="lead">{{ talk.occupation2 }} @ {{ talk.workplace }}</p>
 								</a>
 							</div>	
 						</div>
