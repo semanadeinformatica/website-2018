@@ -27,7 +27,7 @@
         </div>
         <div class="col-lg-9 mt-3 p-4">
           <div class="text-lowercase">
-            <h1> {{ talk.speaker + talk.twoSpeakers ? talk.speaker2 : '' }} </h1>
+            <h1> {{ talk.speaker }} {{ talk.twoSpeakers ? '& ' + talk.speaker2 : '' }} </h1>
             <h4 class="body-style"> {{ talk.occupation }} </h4>
             <h4 class="body-style"> {{ talk.workplace }} </h4>
           </div>
