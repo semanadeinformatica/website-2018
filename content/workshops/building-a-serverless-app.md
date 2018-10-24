@@ -12,7 +12,7 @@ tickets: https://www.eventbrite.com/e/building-a-serverless-text-to-voice-note-p
 
 day: 1 Novembro
 time: 14h40
-place: a anunciar
+place: B336
 ---
 
 Neste workshop iremos construir uma aplicação serverless que converte texto para voz sem termos que configurar qualquer servidor ou aplicação de machine learning. Irei vos fornecer um front-end estático e contas da Amazon e iremos desenvolver as APIs Rest usando funções lambda da AWS e o serviço Polly para realizar a conversão. No fim do workshop, serão capazes de lançar funções lambda em python na AWS, conectar com o API endpoints e obter uma perspectiva global de como lançar uma aplicação escalável sem configurar servidores.

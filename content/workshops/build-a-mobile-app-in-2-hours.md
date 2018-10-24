@@ -19,7 +19,7 @@ tickets: https://www.eventbrite.com/e/build-a-mobile-app-in-2-hours-tickets-5176
 
 day: 30 Outubro
 time: 14h00
-place: a anunciar
+place: B336
 ---
 
 Ao longo do workshop irás aprender a desenvolver apps para dispositivos moveis ios e android e terás a possibilidade de experimentar no teu próprio smartphone. No final além de aprenderes terás o teu próprio ambiente na cloud gratuito para que possas continuar a programar as apps que idealizares.

@@ -94,7 +94,7 @@
 												<br>
 												workshop
 												<br>
-												<span>15h00 - 16h40 | local a anunciar</span>
+												<span>15h00 - 16h40 | B336</span>
 											</a>
 										</td>
 									</tr>
@@ -155,7 +155,7 @@
 											<a href="/sessions/pitch-de-oportunidades">
 												<h4>Pitch de  Oportunidades</h4>
 												<br>
-												<span>17h10 - 19h10 | local a anunciar</span>
+												<span>17h10 - 19h10 | b227</span>
 											</a>
 										</td>
 									</tr>
@@ -235,7 +235,7 @@
 											<br>
 											<span>workshop</span>
 											<br>
-											<span>14h00 - 16h40 | local a anunciar</span>
+											<span>14h00 - 16h40 | B336</span>
 											</a>
 										</td>
 									</tr>
@@ -323,7 +323,7 @@
 												<h4>Sessão de Networking</h4>
 												<span></span>
 												<br>
-												<span>17h10 - 19h10 | local a anunciar</span>
+												<span>17h10 - 19h10 |  I-105</span>
 											</a>
 										</td>
 									</tr>
@@ -396,7 +396,7 @@
 												<br>
 												<span>workshop</span>
 												<br>
-												<span>14h00 - 16h40 | local a anunciar</span>
+												<span>14h00 - 16h40 | B336</span>
 											</a>
 										</td>
 									</tr>
@@ -539,7 +539,7 @@
 												<br>
 												<span>workshop</span>
 												<br>
-												<span>14h40 - 16h40 | local a anunciar</span>
+												<span>14h40 - 16h40 | B336</span>
 											</a>
 										</td>
 									</tr>
