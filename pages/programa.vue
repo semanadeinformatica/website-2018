@@ -171,9 +171,9 @@
 										<tr>
 										<th class="half-hour" scope="row">18h10</th>
 										<td class="talk" rowspan="3">
-											<a class="text-dark" href="">
-												<h4><i>A anunciar</i></h4>
-												<span></span>
+											<a class="text-dark" href="/talks/creating-new-digital-realitities">
+												<h4>Creating New Digital Realities - How VR and AR become XR</h4>
+												<span>Rui Guedes</span>
 												<br>
 												<span>18h10 - 18h40 | B032</span>
 											</a>
