@@ -4,7 +4,7 @@ speaker: José Carreiras
 occupation: Engineering Manager
 
 workplace: Aptiv
-Bio: José iniciou a sua carreira em 1992 na Engenharia de Produção e em 2014 foi nomeado como Diretor de Engenharia. Em 2017, José Carreiras foi nomeado para exercer funções como Diretor do Centro Técnico de Desenvolvimento de Braga.
+bio: José iniciou a sua carreira em 1992 na Engenharia de Produção e em 2014 foi nomeado como Diretor de Engenharia. Em 2017, José Carreiras foi nomeado para exercer funções como Diretor do Centro Técnico de Desenvolvimento de Braga.
 img: JoseCarreiras
 linkedin: https://www.linkedin.com/in/jose-carreiras-0546b682/
 

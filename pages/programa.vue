@@ -155,7 +155,7 @@
 											<a href="/sessions/pitch-de-oportunidades">
 												<h4>Pitch de  Oportunidades</h4>
 												<br>
-												<span>17h10 - 19h10 | b227</span>
+												<span>17h10 - 19h10 | I-105</span>
 											</a>
 										</td>
 									</tr>
@@ -323,7 +323,7 @@
 												<h4>Sessão de Networking</h4>
 												<span></span>
 												<br>
-												<span>17h10 - 19h10 |  I-105</span>
+												<span>17h10 - 19h10 |  b227</span>
 											</a>
 										</td>
 									</tr>
