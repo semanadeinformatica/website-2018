@@ -227,7 +227,7 @@
 										</td>
 										<td class="event" rowspan="8">
 											<a href="/workshops/build-a-mobile-app-in-2-hours">
-											<h4><i>Build a Mobile App in 2 Hours</i></h4>
+											<h4>Build a Mobile App in 2 Hours</h4>
 											<span>Bruno Grácio &  Vitor Oliveira</span>
 											<br>
 											<span>workshop</span>
