@@ -560,10 +560,12 @@
 									<tr>
 										<th class="half-hour" scope="row">16h00</th>
 										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
+											<a class="text-dark" href="/talks/two-facts-of-line-in-testing">
+											<h4><i>Two facts of life in testing, death and you are the blocker</i></h4>
+											<span>Dara McGann</span>
 											<br>
 											<span>16h00 - 16h40 | B032</span>
+											</a>
 										</td>
 									</tr>
 									<tr>

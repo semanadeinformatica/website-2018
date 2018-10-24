@@ -14,8 +14,8 @@ img: PedroSantos
 
 linkedin: https://pt.linkedin.com/in/pedrodanielcsantos
 
-day: 31 Outubro
-time: 17h00
+day: 1 Novembro
+time: 17h10
 place: B032
 ---
 
