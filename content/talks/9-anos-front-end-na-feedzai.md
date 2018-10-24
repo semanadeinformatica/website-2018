@@ -5,7 +5,8 @@ twoSpeakers: true
 speaker: Luís Cardoso 
 speaker2: Victor Fernandes
 
-occupation: Front-end Engineers
+occupation: Front-end Engineer
+occupation2: Front-end Engineer
 workplace: Feedzai
 
 bio: Sou Front-end Engineer na Feedzai há 7 anos. Estou na empresa praticamente desde o seu início e tive um grande papel no que é o Front-end na Feedzai atualmente (para o bom e mau). Algumas das coisas em que estive envolvido foram - manter uma grande SPA, recrutamento, decisões de arquitetura e várias iniciativas dentro da empresa. Nos tempos livres sou fotógrafo amador.
