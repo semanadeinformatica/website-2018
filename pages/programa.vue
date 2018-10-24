@@ -457,7 +457,7 @@
 										<th class="half-hour" scope="row">17h10</th>
 										<td class="talk" rowspan="2">
 											<a class="text-dark" href="/talks/data-science">
-												<h4><i>Data Science</i></h4>
+												<h4>Data Science</h4>
 												<span>Daniel Moura</span>
 												<br>
 												<span>17h10 - 17h50 | B032</span>
