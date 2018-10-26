@@ -223,10 +223,12 @@
 									<tr>
 										<th class="half-hour" scope="row">14h00</th>
 										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>14h00 - 14h40 | B032</span>
+											<a class="text-dark" href="/talks/data-science-in-a-complex-environment">
+												<h4>Data Science in a Complex Environment</h4>
+												<span>Eduardo Marques</span>
+												<br>
+												<span>14h00 - 14h40 | B032</span>
+											</a>
 										</td>
 										<td class="event" rowspan="8">
 											<a href="/workshops/build-a-mobile-app-in-2-hours">
