@@ -40,6 +40,11 @@
               </h4>
             </li>
             <li class="nav-item">
+							<h4>
+								<a class="nav-link" href="/competicao-programacao">Competição</a>
+							</h4>
+						</li>
+            <li class="nav-item">
               <h4>
                 <a class="nav-link" href="/#contactos">Contactos </a>
               </h4>
