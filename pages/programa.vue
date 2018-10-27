@@ -63,6 +63,15 @@
 											<br>
 											<span>14h00 - 15h00 | B032</span>
 										</td>
+										<td class="event" rowspan="4">
+											<a href="/competicao-programacao">
+												<h4>Inicio da Competição de Programação</h4>
+												<span></span>
+												<br>
+												<br>
+												<span>14h00</span>
+											</a>
+										</td>
 									</tr>
 									<tr>
 										<th scope="row"></th>
@@ -94,7 +103,7 @@
 												<br>
 												workshop
 												<br>
-												<span>15h00 - 16h40 | local a anunciar</span>
+												<span>15h00 - 16h40 | B336</span>
 											</a>
 										</td>
 									</tr>
@@ -155,7 +164,7 @@
 											<a href="/sessions/pitch-de-oportunidades">
 												<h4>Pitch de  Oportunidades</h4>
 												<br>
-												<span>17h10 - 19h10 | local a anunciar</span>
+												<span>17h10 - 19h10 | I-105</span>
 											</a>
 										</td>
 									</tr>
@@ -223,10 +232,12 @@
 									<tr>
 										<th class="half-hour" scope="row">14h00</th>
 										<td class="talk" rowspan="2">
-											<h4><i>A anunciar</i></h4>
-											<span></span>
-											<br>
-											<span>14h00 - 14h40 | B032</span>
+											<a class="text-dark" href="/talks/data-science-in-a-complex-environment">
+												<h4>Data Science in a Complex Environment</h4>
+												<span>Eduardo Marques</span>
+												<br>
+												<span>14h00 - 14h40 | B032</span>
+											</a>
 										</td>
 										<td class="event" rowspan="8">
 											<a href="/workshops/build-a-mobile-app-in-2-hours">
@@ -235,7 +246,7 @@
 											<br>
 											<span>workshop</span>
 											<br>
-											<span>14h00 - 16h40 | local a anunciar</span>
+											<span>14h00 - 16h40 | B336</span>
 											</a>
 										</td>
 									</tr>
@@ -323,7 +334,7 @@
 												<h4>Sessão de Networking</h4>
 												<span></span>
 												<br>
-												<span>17h10 - 19h10 | local a anunciar</span>
+												<span>17h10 - 19h10 |  b227</span>
 											</a>
 										</td>
 									</tr>
@@ -396,7 +407,7 @@
 												<br>
 												<span>workshop</span>
 												<br>
-												<span>14h00 - 16h40 | local a anunciar</span>
+												<span>14h00 - 16h40 | B336</span>
 											</a>
 										</td>
 									</tr>
@@ -539,7 +550,7 @@
 												<br>
 												<span>workshop</span>
 												<br>
-												<span>14h40 - 16h40 | local a anunciar</span>
+												<span>14h40 - 16h40 | B336</span>
 											</a>
 										</td>
 									</tr>

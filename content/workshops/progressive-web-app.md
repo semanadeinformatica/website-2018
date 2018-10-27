@@ -19,7 +19,7 @@ tickets: https://www.eventbrite.com/e/progressive-web-app-from-full-online-to-fu
 
 day: 31 Outubro
 time: 14h00
-place: a anunciar
+place: B336
 ---
 
 Progressive Web Apps use modern web capabilities to deliver fast, native-app experiences with no app stores or downloads, and all the goodness of the web. In this workshop you will learn how to improve any web application and transform it into a working Progressive Web App. 
