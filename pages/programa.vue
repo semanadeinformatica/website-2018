@@ -63,6 +63,15 @@
 											<br>
 											<span>14h00 - 15h00 | B032</span>
 										</td>
+										<td class="event" rowspan="4">
+											<a href="/competicao-programacao">
+												<h4>Inicio da Competição de Programação</h4>
+												<span></span>
+												<br>
+												<br>
+												<span>14h00</span>
+											</a>
+										</td>
 									</tr>
 									<tr>
 										<th scope="row"></th>

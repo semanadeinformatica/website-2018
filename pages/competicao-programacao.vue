@@ -22,13 +22,7 @@
 						Os prémios para os vencedores são:
 					</h4>
 
-					<p class="lead mt-3">
-						<ol class="no-bullets">
-							<li>1ª posição: Headphones Bluetooth Sony WH-1000XM2 </li>
-							<li>2ª posição: Monitor LG 24GM79G-B 144Hz </li>
-							<li>3ª posição: Raspberry Pi </li>
-						</ol>
-					</p>
+					
 
 					<div class="row mt-4">
 						<div class="offset-lg-2 col-lg-8">
@@ -40,6 +34,15 @@
 						</div>
 					</div>
 
+					<div class="row offset-lg-3">
+						<p class="lead mt-3">
+							<ol class="no-bullets">
+								<li>1ª posição: Headphones Bluetooth Sony WH-1000XM2 </li>
+								<li>2ª posição: Monitor LG 24GM79G-B 144Hz </li>
+								<li>3ª posição: Raspberry Pi </li>
+							</ol>
+						</p>
+					</div>
 
 				</div>
 			</div>
