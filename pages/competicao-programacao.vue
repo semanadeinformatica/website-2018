@@ -7,22 +7,28 @@
 			<div class="row">
 				<div class="col-lg-8 offset-lg-2">
 					<p class="lead">
-						A semana de informática irá contar com uma Competição de Programação a realizar-se durante os primeiros 3 dias do evento.
+						A semana de informática irá contar com uma Competição de Programação a realizar-se durante todos os dias evento.
 					</p> 
 
 					<p class="lead mt-3">
-						Todos os dias serão lançados 2 exercícios de programação de dificuldade crescente, ou seja, 6 ao todo.
+						Serão lançados dois exercícios por dia nos primeiros três dias, de dificuldade crescente. 
 					</p>
 
 					<p class="lead mt-3">
-						A participação é individual e os vencedores serão divulgados na quinta feira (dia 1).
+						A participação é individual, estará aberta a partir da sessão de abertura, dia 29 de Outubro (segunda-feira), até às 14h00 de 1 de Novembro (quinta-feira), e os vencedores serão anunciados na cerimónia de encerramento.
 					</p>
 
-					<h4 class="mt-3">
+					<p class="lead mt-3">
+						A competição decorrá online no HackerRank, onde serão utilizados mecanismos anti-cópia para detetar infracções.
+					</p>
+
+					<div>
+						<h4><a class="btn btn-lg btn-primary" href="https://www.hackerrank.com/sinf">Inscrições</a></h4>
+					</div>
+
+					<h4 class="mt-5">
 						Os prémios para os vencedores são:
 					</h4>
-
-					
 
 					<div class="row mt-4">
 						<div class="offset-lg-2 col-lg-8">
@@ -42,6 +48,7 @@
 								<li>3ª posição: Raspberry Pi </li>
 							</ol>
 						</p>
+
 					</div>
 
 				</div>
