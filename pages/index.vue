@@ -220,7 +220,7 @@
 
 				silver: ['aptiv', 'integer', 'itsector', 'primavera', 'semasio', 'lifeonmars'],
 
-				bronze: ['fraunhofer', 'rumos', 'criticalsoftware'],
+				bronze: ['fraunhofer', 'rumos', 'criticalsoftware', 'celfocus'],
 
 				partners: ['scaleupporto']
 
