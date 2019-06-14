@@ -40,6 +40,6 @@ module.exports = {
 	api: {
 		baseURL: 'http://localhost:8080',
 		// Update this later
-		browserBaseURL: 'https://epic-ardinghelli-13cc7e.netlify.com'
+		browserBaseURL: 'https://wizardly-ride-1eb63b.netlify.com'
 	}
 }
