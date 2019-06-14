@@ -19,6 +19,7 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
+    "@bazzite/nuxt-netlify": "^0.1.1",
     "@fortawesome/fontawesome-free": "^5.3.1",
     "@nuxtjs/axios": "^5.3.2",
     "@nuxtjs/dotenv": "^1.1.1",
