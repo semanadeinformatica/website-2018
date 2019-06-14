@@ -65,6 +65,7 @@ module.exports = {
     // dotenv
     '@nuxtjs/dotenv',
     '@bazzite/nuxt-netlify',
+
     ['@nuxtjs/google-analytics', {
       id: process.env.GOOGLE_ANALYTICS_ID
     }],
@@ -127,5 +128,15 @@ module.exports = {
           return position
         }
       }
-    }
+    },
+    
+    netlify: { 
+      redirects: [
+        {
+          from: '/*',
+          to: '/index.html',
+          status: 200
+        }
+      ]
+    },
   }
