@@ -1,7 +1,7 @@
 {
-  "name": "bootstrap-website",
+  "name": "semanadeinformatica-website-2018",
   "version": "1.0.0",
-  "description": "Nuxt.js project",
+  "description": "Website for the 2018's edition of Semana de Informática.",
   "author": "António Almeida <theantonioalmeida@gmail.com>",
   "private": true,
   "config": {
